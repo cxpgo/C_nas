@@ -1,0 +1,260 @@
+{
+  "ID": "0a9435f0-b15f-4f93-b1d8-5022085101d5",
+  "Version": "2.3.3.0",
+  "Name": "WGHuan3",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.375
+            },
+            "TopMargin": 450.0,
+            "Tag": 571,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/common_mask_scale9.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 18,
+                "Scale9OriginY": 17,
+                "Scale9Width": 21,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 223.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8259
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 440.0,
+                "RightMargin": 440.0,
+                "TopMargin": -28.0,
+                "BottomMargin": 148.0,
+                "Tag": 666,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "queding-on.png",
+                      "Plist": "Common/common.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "qdann.png",
+                      "Plist": "Common/common.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 167,
+                    "Scale9Height": 61,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 200.0,
+                      "Y": 42.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.28
+                    },
+                    "PreSize": {
+                      "X": 0.4925,
+                      "Y": 0.5533
+                    },
+                    "LeftMargin": 101.5,
+                    "RightMargin": 101.5,
+                    "TopMargin": 66.5,
+                    "BottomMargin": 0.5,
+                    "CallBackType": "Click",
+                    "Tag": 667,
+                    "ActionTag": -1247615340,
+                    "Size": {
+                      "X": 197.0,
+                      "Y": 83.0
+                    },
+                    "Name": "btn_huan3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "请选择3张同花色手牌",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 200.0,
+                      "Y": 114.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.76
+                    },
+                    "PreSize": {
+                      "X": 0.7225,
+                      "Y": 0.2133
+                    },
+                    "LeftMargin": 55.5,
+                    "RightMargin": 55.5,
+                    "TopMargin": 20.0,
+                    "BottomMargin": 98.0,
+                    "Tag": 668,
+                    "ActionTag": 2046301339,
+                    "Size": {
+                      "X": 289.0,
+                      "Y": 32.0
+                    },
+                    "Name": "text_huan3",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 607174342,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 150.0
+                },
+                "Name": "image_huan3",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -213090389,
+            "Size": {
+              "X": 1280.0,
+              "Y": 270.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../Common/common.plist",
+        "../../../Common/common.png",
+        "../../../font/jzy.TTF",
+        "../../../GameHall/Resoures/large/common_mask_scale9.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

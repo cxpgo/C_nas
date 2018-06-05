@@ -1,0 +1,308 @@
+{
+  "ID": "463c71df-ab46-465c-a9a6-579ec37a073b",
+  "Version": "2.3.3.0",
+  "Name": "BSHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 161,
+        "Children": [
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 319,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "[基础规则]-------------",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.5,
+                  "Y": 2739.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 183,
+                  "G": 36,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2029,
+                  "Y": 0.9962
+                },
+                "PreSize": {
+                  "X": 0.4059,
+                  "Y": 0.0076
+                },
+                "RightMargin": 505.0,
+                "BottomMargin": 3942.0,
+                "Tag": 320,
+                "ActionTag": -697891929,
+                "Size": {
+                  "X": 345.0,
+                  "Y": 30.0
+                },
+                "Name": "content0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "白山麻将全副牌共有5类136张。\n　　(一)序数牌合计108张：\n　　1．万子牌：从一万至九万，各4张，共36张。\n　　2．饼子牌：从一饼至九饼，各4张，共36张。\n　　3．条子牌：从一条至九条，各4张，共36张。\n　　(二)字牌合计28张：\n　　1．风牌：东、南、西、北，各4张，共16张。\n　　2．箭牌：中、发、白，各4张，共12张。\n　　白山麻将为四人（2,3,4可选）游戏，发牌后，轮流抓牌、出牌、吃、碰、杠，最先和牌的为胜利。\n游戏规则\n1、坐庄规则：\n　　白山麻将实行轮庄制。第一把，通过丢骰子确定庄家。或者先入桌的玩家为庄家。如庄胡，继续坐庄；其他人胡牌，轮换到庄家的下家开始坐庄。\n　　如中途有人退出（换人后）重新开局。\n　　2、游戏开始：\n　　确定庄家后，由庄家打骰子（2粒），从庄家的对家处右首数起，根据骰子数抓牌。庄家可抓到十四张牌，其余的人十三张牌。庄家从牌中选出一张最无用的牌丢出。此时，其它三家都有权利扛、碰丢出来的牌。庄家的下家（右手边的玩家），有权利吃那张牌。“碰”“扛”比“吃”优先。白山麻将中，东西南北风及中发白和条饼万处于同样地位，除了可做幺九外，没有任何限制。\n　　3、胡牌的要求：\n　　1）、不能断1、9（胡牌时手里一定要有1或9），如有中、发、白、东、南、西、北时可替代1、9；\n　　2）、必须至少有一碰（明、暗均可，7对子牌型除外）。有中发白对不能免碰。\n　　3）、一局只能有一位胡牌者。如有一人以上同时表示胡牌时，从点炮者按逆时针方向，顺序在前者被定为“胡牌者”。（如果有人胡十三幺，那么胡十三幺的优先）\n\n  4、游戏过程中，当把牌墙摸完的时候为流局，重新开局，庄家连庄，局数不变。流局后，飘分不算，杠分正常结算。\n牌型术语\n1．和牌的基本牌型:\n　　(1)11、123、123、123、111(1111，下同)。\n　　(2)11、123、123、111、111。\n　　(3)11、123、111、111、111。\n　　(4)11、111、111、111、111(飘胡)。\n　　(注：1=单张 11=将、对子 111=刻子 1111=杠 123=顺子)\n\n2．加番牌型：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.0,
+                  "Y": 2172.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 90,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8535
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.2779
+                },
+                "TopMargin": 30.0,
+                "BottomMargin": 2838.0,
+                "Tag": 321,
+                "ActionTag": -1916272478,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 1104.0
+                },
+                "Name": "content1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "一番牌：\n　　A、报听：只能胡一张牌时，比如胡纯夹、单调（单贴）、边（胡3或7）、断幺（只能胡幺和九）时，才允许报听。报听后无论输赢都加1番。\n　　以上牌型，允许不报听胡牌，但此时没有加番。\n　　C、立门：即门清时，输赢都加1番。\n　　D、点炮；输加1番。\n　　E、自摸；赢加1番。\n　　F、坐庄；输赢都加1番。\n　　G、混一色：胡牌牌型为纯字牌或字牌加万、条、筒中的任一门；\n　　混一色胡牌时加1番，输牌不加番。\n　　H、手把一：手里就有一张牌，通过单贴胡牌时，输赢均加1番。\n　　I、杠后开：分为杠后胡和杠后点炮。在杠牌时，从后面提起的牌正好是自己要胡的牌是杠后胡；在杠牌后打出去的牌正好给别人点炮叫杠后点炮。\n　　无论输赢，均加1番。\n　　J、一般高：手里有二副完全相同的顺子时，如778899，称之为一般高。\n　　如果一般高牌型已经显露出来称之为明，反之为暗。明的情况下\n　　输赢均加1番。暗时赢时加番，输时不加番。\n　　K、四归一：有四个一样的牌且不是杠时，胡牌后加1番。同样也分为明暗二种\n　　情况，明时输赢都加1番，暗时赢加番输了不加番。\n　　二番牌：\n　　A、清一色：只有万、条、筒中的任一门牌。胡牌时加2番，输时不加番。\n　　B、三花同顺：手里有三副完全相同的顺子时，如777888999。\n　　也分为明暗二种情况加番。\n　　C、三家清：一家胡牌的时候另外三家都没开门。（此时不计输家门清番）\n　　三番牌：\n　　四家清：胡牌时四家都没开门。（此时四家都不重复计算门清、三家清加番）\n\n基础胡分：\n普通胡，漂胡：1分\n七对：胡牌牌型为七个对子组成的3分\n十三幺：每个幺九牌各一张，7分\n\n\n　3．杠牌计算：\n　杠，又称蛋，即4张同样的牌，杠牌后在牌墙的最后补一张牌。\n　杠牌随庄走。即庄家下蛋，其他3家要给2倍；别人下蛋，庄也要给2倍。\n　其中：大杠（大蛋）：杠1条×2倍，杠1饼×2倍，杠1万×2倍；\n　暗杠是明杠的2倍。\n　明杠、暗杠均三家输。荒庄时，杠牌的分要继续计算。\n\n3.特殊玩法\n \n点炮包三家：勾选了该选项的房间，未上听点炮需要包三家！\n封顶选项：玩家可以选择16封顶，32封顶\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.0,
+                  "Y": 1215.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 90,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6125
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.2039
+                },
+                "TopMargin": 1134.0,
+                "BottomMargin": 2028.0,
+                "Tag": 322,
+                "ActionTag": -598189208,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 810.0
+                },
+                "Name": "content2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "普通胡，漂胡：1分\n七对：胡牌牌型为七个对子组成的3分\n十三幺：每个幺九牌各一张，7分\n\n\n　3．杠牌计算：\n　杠，又称蛋，即4张同样的牌，杠牌后在牌墙的最后补一张牌。\n　杠牌随庄走。即庄家下蛋，其他3家要给2倍；别人下蛋，庄也要给2倍。\n　其中：大杠（大蛋）：杠1条×2倍，杠1饼×2倍，杠1万×2倍；\n　暗杠是明杠的2倍。\n　明杠、暗杠均三家输。荒庄时，杠牌的分要继续计算。\n\n3.特殊玩法\n \n点炮包三家：勾选了该选项的房间，未上听点炮需要包三家！\n封顶选项：玩家可以选择16封顶，32封顶",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.0,
+                  "Y": 405.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 90,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4086
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.2039
+                },
+                "TopMargin": 1944.0,
+                "BottomMargin": 1218.0,
+                "Tag": 323,
+                "ActionTag": -979242301,
+                "ZOrder": 3,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 810.0
+                },
+                "Name": "content3",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1459752909,
+            "Size": {
+              "X": 850.0,
+              "Y": 520.0
+            },
+            "Name": "panel_root",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 850.0,
+          "Y": 520.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/jzy.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

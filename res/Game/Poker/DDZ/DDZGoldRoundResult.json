@@ -1,0 +1,1407 @@
+{
+  "ID": "d0f307e8-963f-4a92-9fd5-5b370b63f1d1",
+  "Version": "2.3.3.0",
+  "Name": "DDZGoldRoundResult",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 104,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 128,
+            "ActionTag": 1014019002,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_mask",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 107,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/result/img_GameEnd_BG.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 603,
+                "Scale9Height": 421,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 616.18,
+                  "Y": 325.03
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4814,
+                  "Y": 0.4514
+                },
+                "PreSize": {
+                  "X": 0.4711,
+                  "Y": 0.5847
+                },
+                "LeftMargin": 314.68,
+                "RightMargin": 362.32,
+                "TopMargin": 184.47,
+                "BottomMargin": 114.53,
+                "Tag": 108,
+                "ActionTag": -1935738242,
+                "Size": {
+                  "X": 603.0,
+                  "Y": 421.0
+                },
+                "Name": "img_result_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/result/img_Result_shengli_bg1.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 826,
+                "Scale9Height": 360,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 614.0,
+                  "Y": 584.91
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4797,
+                  "Y": 0.8124
+                },
+                "PreSize": {
+                  "X": 0.6453,
+                  "Y": 0.5
+                },
+                "LeftMargin": 201.0,
+                "RightMargin": 253.0,
+                "TopMargin": -44.91,
+                "BottomMargin": 404.91,
+                "Tag": 109,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/result/img_Result_shengli.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 267,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 425.9967,
+                      "Y": 136.7919
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5157,
+                      "Y": 0.38
+                    },
+                    "PreSize": {
+                      "X": 0.3232,
+                      "Y": 0.3528
+                    },
+                    "LeftMargin": 292.4967,
+                    "RightMargin": 266.5033,
+                    "TopMargin": 159.7081,
+                    "BottomMargin": 73.2919,
+                    "Tag": 110,
+                    "ActionTag": 597240276,
+                    "Size": {
+                      "X": 267.0,
+                      "Y": 127.0
+                    },
+                    "Name": "img_title_win",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1240380760,
+                "Size": {
+                  "X": 826.0,
+                  "Y": 360.0
+                },
+                "Name": "img_win_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/result/img_Result_shibai_bg1.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 826,
+                "Scale9Height": 360,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 614.0,
+                  "Y": 584.91
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4797,
+                  "Y": 0.8124
+                },
+                "PreSize": {
+                  "X": 0.6453,
+                  "Y": 0.5
+                },
+                "LeftMargin": 201.0,
+                "RightMargin": 253.0,
+                "TopMargin": -44.91,
+                "BottomMargin": 404.91,
+                "Tag": 111,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/result/img_Result_shibai.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 267,
+                    "Scale9Height": 127,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 425.9967,
+                      "Y": 136.7919
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5157,
+                      "Y": 0.38
+                    },
+                    "PreSize": {
+                      "X": 0.3232,
+                      "Y": 0.3528
+                    },
+                    "LeftMargin": 292.4967,
+                    "RightMargin": 266.5033,
+                    "TopMargin": 159.7081,
+                    "BottomMargin": 73.2919,
+                    "Tag": 112,
+                    "ActionTag": 1218702787,
+                    "Size": {
+                      "X": 267.0,
+                      "Y": 127.0
+                    },
+                    "Name": "img_title_lose",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1510801554,
+                "Size": {
+                  "X": 826.0,
+                  "Y": 360.0
+                },
+                "Name": "img_lose_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 316.0,
+                  "Y": 392.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2469,
+                  "Y": 0.5456
+                },
+                "PreSize": {
+                  "X": 0.4711,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 316.0,
+                "RightMargin": 361.0,
+                "TopMargin": 277.2,
+                "BottomMargin": 392.8,
+                "CallBackType": "Click",
+                "Tag": 113,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/result/img_nicheng.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 50,
+                    "Scale9Height": 26,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5022,
+                      "ScaleY": 0.6181
+                    },
+                    "Position": {
+                      "X": 125.03,
+                      "Y": 24.6
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2073,
+                      "Y": 0.492
+                    },
+                    "PreSize": {
+                      "X": 0.0829,
+                      "Y": 0.52
+                    },
+                    "LeftMargin": 99.92,
+                    "RightMargin": 453.08,
+                    "TopMargin": 15.4706,
+                    "BottomMargin": 8.5294,
+                    "Tag": 114,
+                    "ActionTag": 177032564,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 26.0
+                    },
+                    "Name": "Image_name",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/result/img_beishu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 50,
+                    "Scale9Height": 26,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 314.15,
+                      "Y": 20.53
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.521,
+                      "Y": 0.4106
+                    },
+                    "PreSize": {
+                      "X": 0.0829,
+                      "Y": 0.52
+                    },
+                    "LeftMargin": 289.15,
+                    "RightMargin": 263.85,
+                    "TopMargin": 16.47,
+                    "BottomMargin": 7.53,
+                    "Tag": 115,
+                    "ActionTag": 226479567,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 26.0
+                    },
+                    "Name": "Image_zhadan",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/gold/img_jinbi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 53,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 508.38,
+                      "Y": 21.53
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8431,
+                      "Y": 0.4306
+                    },
+                    "PreSize": {
+                      "X": 0.0879,
+                      "Y": 0.58
+                    },
+                    "LeftMargin": 481.88,
+                    "RightMargin": 68.12,
+                    "TopMargin": 13.97,
+                    "BottomMargin": 7.03,
+                    "Tag": 116,
+                    "ActionTag": -2069564392,
+                    "Size": {
+                      "X": 53.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Image_fenshu",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1958922244,
+                "Size": {
+                  "X": 603.0,
+                  "Y": 50.0
+                },
+                "Alpha": 242,
+                "Name": "panel_title",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 317.34,
+                  "Y": 342.58
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2479,
+                  "Y": 0.4758
+                },
+                "PreSize": {
+                  "X": 0.4688,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 317.34,
+                "RightMargin": 362.66,
+                "TopMargin": 327.42,
+                "BottomMargin": 342.58,
+                "Tag": 117,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/result/dizhu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 457,
+                    "Scale9Height": 45,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.04,
+                      "Y": 24.09
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0734,
+                      "Y": 0.4818
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 0.8883,
+                      "Y": 0.9
+                    },
+                    "LeftMargin": 44.04,
+                    "RightMargin": 22.98,
+                    "TopMargin": 3.41,
+                    "BottomMargin": 1.59,
+                    "Tag": 118,
+                    "ActionTag": -722897262,
+                    "Size": {
+                      "X": 532.98,
+                      "Y": 45.0
+                    },
+                    "Alpha": 204,
+                    "Name": "img_me",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/result/nongming.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 457,
+                    "Scale9Height": 45,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.05,
+                      "Y": 24.09
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0734,
+                      "Y": 0.4818
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 0.8883,
+                      "Y": 0.9
+                    },
+                    "LeftMargin": 44.05,
+                    "RightMargin": 22.97,
+                    "TopMargin": 3.41,
+                    "BottomMargin": 1.59,
+                    "Tag": 119,
+                    "ActionTag": 1369611634,
+                    "Size": {
+                      "X": 532.98,
+                      "Y": 45.0
+                    },
+                    "Alpha": 204,
+                    "Name": "img_he",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/room/sprite_sign_landlord.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 80,
+                    "Scale9Height": 87,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.1699,
+                      "Y": 25.61
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 0.6
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0553,
+                      "Y": 0.5122
+                    },
+                    "PreSize": {
+                      "X": 0.1333,
+                      "Y": 1.74
+                    },
+                    "LeftMargin": -6.8301,
+                    "RightMargin": 526.8301,
+                    "TopMargin": -19.11,
+                    "BottomMargin": -17.89,
+                    "Tag": 120,
+                    "ActionTag": 1113846728,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 87.0
+                    },
+                    "Alpha": 226,
+                    "Name": "image_bank",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "玩家名称..",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 26,
+                      "G": 26,
+                      "B": 26
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 163.0105,
+                      "Y": 24.1965
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2717,
+                      "Y": 0.4839
+                    },
+                    "PreSize": {
+                      "X": 0.3,
+                      "Y": 0.6
+                    },
+                    "LeftMargin": 73.0105,
+                    "RightMargin": 346.9895,
+                    "TopMargin": 10.8035,
+                    "BottomMargin": 9.1965,
+                    "CallBackType": "Click",
+                    "Tag": 121,
+                    "ActionTag": -434227791,
+                    "Size": {
+                      "X": 180.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "6分",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 26,
+                      "G": 26,
+                      "B": 26
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 26,
+                      "G": 26,
+                      "B": 26
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 508.7,
+                      "Y": 24.195
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8478,
+                      "Y": 0.4839
+                    },
+                    "PreSize": {
+                      "X": 0.2117,
+                      "Y": 0.52
+                    },
+                    "LeftMargin": 445.2,
+                    "RightMargin": 27.8,
+                    "TopMargin": 12.805,
+                    "BottomMargin": 11.195,
+                    "Tag": 122,
+                    "ActionTag": -1968852128,
+                    "Size": {
+                      "X": 127.0,
+                      "Y": 26.0
+                    },
+                    "Name": "text_score",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "玩家名称..",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 26,
+                      "G": 26,
+                      "B": 26
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 317.01,
+                      "Y": 24.1965
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5283,
+                      "Y": 0.4839
+                    },
+                    "PreSize": {
+                      "X": 0.18,
+                      "Y": 0.6
+                    },
+                    "LeftMargin": 263.01,
+                    "RightMargin": 228.99,
+                    "TopMargin": 10.8035,
+                    "BottomMargin": 9.1965,
+                    "Tag": 123,
+                    "ActionTag": 963051629,
+                    "Size": {
+                      "X": 108.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_zhadan",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1086052090,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 50.0
+                },
+                "Name": "panel_cell",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "HorizontalType": "Align_HorizontalCenter",
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 316.83,
+                  "Y": 395.17
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2475,
+                  "Y": 0.5488
+                },
+                "PreSize": {
+                  "X": 0.4688,
+                  "Y": 0.2472
+                },
+                "LeftMargin": 316.83,
+                "RightMargin": 363.17,
+                "TopMargin": 324.83,
+                "BottomMargin": 217.17,
+                "Tag": 124,
+                "ActionTag": -1808208469,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 178.0
+                },
+                "Name": "listview_result",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/large/btn_jixuyouxi.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 191,
+                "Scale9Height": 54,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 793.6,
+                  "Y": 135.5773
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.62,
+                  "Y": 0.1883
+                },
+                "PreSize": {
+                  "X": 0.1727,
+                  "Y": 0.1056
+                },
+                "LeftMargin": 683.1,
+                "RightMargin": 375.9,
+                "TopMargin": 546.4227,
+                "BottomMargin": 97.5773,
+                "Tag": 125,
+                "ActionTag": 827272061,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 76.0
+                },
+                "Name": "btn_start",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "房间号:000000  第1局",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "TouchScaleChangeAble": true,
+                "OutlineColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.8251,
+                  "Y": 586.3998
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1108,
+                  "Y": 0.8144
+                },
+                "PreSize": {
+                  "X": 0.2828,
+                  "Y": 0.05
+                },
+                "LeftMargin": 141.8251,
+                "RightMargin": 776.1749,
+                "TopMargin": 115.6002,
+                "BottomMargin": 568.3998,
+                "Tag": 126,
+                "ActionTag": 1243544907,
+                "Size": {
+                  "X": 362.0,
+                  "Y": 36.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_bird",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/result/btn_fenxiangzhanji.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 191,
+                "Scale9Height": 54,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1511.6866,
+                  "Y": 227.5156
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.181,
+                  "Y": 0.316
+                },
+                "PreSize": {
+                  "X": 0.1727,
+                  "Y": 0.1056
+                },
+                "LeftMargin": 1401.1866,
+                "RightMargin": -342.1866,
+                "TopMargin": 454.4844,
+                "BottomMargin": 189.5156,
+                "Tag": 127,
+                "ActionTag": -1265752757,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 76.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_share",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/gold/btn_change.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 191,
+                "Scale9Height": 54,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 447.99,
+                  "Y": 135.5773
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.35,
+                  "Y": 0.1883
+                },
+                "PreSize": {
+                  "X": 0.1727,
+                  "Y": 0.1056
+                },
+                "LeftMargin": 337.49,
+                "RightMargin": 721.51,
+                "TopMargin": 546.4227,
+                "BottomMargin": 97.5773,
+                "Tag": 129,
+                "ActionTag": -1003802358,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 76.0
+                },
+                "Name": "btn_change",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "CharWidth": 26,
+                "CharHeight": 33,
+                "LabelText": "99",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/font/img_shuzi02.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 620.6896,
+                  "Y": 138.1913
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4849,
+                  "Y": 0.1919
+                },
+                "PreSize": {
+                  "X": 0.0406,
+                  "Y": 0.0458
+                },
+                "LeftMargin": 594.6896,
+                "RightMargin": 633.3104,
+                "TopMargin": 565.3087,
+                "BottomMargin": 121.6913,
+                "Tag": 130,
+                "ActionTag": -24021939,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 33.0
+                },
+                "Name": "time_tip",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": 181956484,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Game/Poker/DDZ/Resoures/large/btn_xianshi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 168,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1083.8519,
+              "Y": 86.2079
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8468,
+              "Y": 0.1197
+            },
+            "PreSize": {
+              "X": 0.1547,
+              "Y": 0.0736
+            },
+            "LeftMargin": 984.8519,
+            "RightMargin": 97.1481,
+            "TopMargin": 607.2921,
+            "BottomMargin": 59.7079,
+            "Tag": 105,
+            "ActionTag": -1160899278,
+            "Size": {
+              "X": 198.0,
+              "Y": 53.0
+            },
+            "Name": "btn_show",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "Game/Poker/DDZ/Resoures/large/btn_yinchang.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 168,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1114.6978,
+              "Y": 87.145
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8709,
+              "Y": 0.121
+            },
+            "PreSize": {
+              "X": 0.1547,
+              "Y": 0.0736
+            },
+            "LeftMargin": 1015.6978,
+            "RightMargin": 66.3022,
+            "TopMargin": 606.355,
+            "BottomMargin": 60.645,
+            "Tag": 106,
+            "ActionTag": -1749232782,
+            "Size": {
+              "X": 198.0,
+              "Y": 53.0
+            },
+            "Name": "btn_hide",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../font/jzy.TTF",
+        "Resoures/font/img_shuzi02.png",
+        "Resoures/gold/btn_change.png",
+        "Resoures/gold/img_jinbi.png",
+        "Resoures/large/btn_jixuyouxi.png",
+        "Resoures/large/btn_xianshi.png",
+        "Resoures/large/btn_yinchang.png",
+        "Resoures/result/btn_fenxiangzhanji.png",
+        "Resoures/result/dizhu.png",
+        "Resoures/result/img_beishu.png",
+        "Resoures/result/img_GameEnd_BG.png",
+        "Resoures/result/img_nicheng.png",
+        "Resoures/result/img_Result_shengli.png",
+        "Resoures/result/img_Result_shengli_bg1.png",
+        "Resoures/result/img_Result_shibai.png",
+        "Resoures/result/img_Result_shibai_bg1.png",
+        "Resoures/result/nongming.png",
+        "Resoures/room/sprite_sign_landlord.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

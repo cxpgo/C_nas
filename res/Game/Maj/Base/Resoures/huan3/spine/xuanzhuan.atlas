@@ -1,0 +1,152 @@
+
+xuanzhuan.png
+size: 1014,954
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: false
+  xy: 353, 242
+  size: 330, 242
+  orig: 418, 293
+  offset: 55, 29
+  index: -1
+1_00001
+  rotate: false
+  xy: 683, 242
+  size: 331, 242
+  orig: 418, 293
+  offset: 56, 29
+  index: -1
+1_00002
+  rotate: false
+  xy: 0, 5
+  size: 331, 242
+  orig: 418, 293
+  offset: 58, 29
+  index: -1
+1_00003
+  rotate: false
+  xy: 331, 0
+  size: 333, 242
+  orig: 418, 293
+  offset: 59, 29
+  index: -1
+1_00004
+  rotate: false
+  xy: 664, 0
+  size: 333, 242
+  orig: 418, 293
+  offset: 61, 29
+  index: -1
+1_00022
+  rotate: false
+  xy: 0, 247
+  size: 353, 237
+  orig: 418, 293
+  offset: 42, 34
+  index: -1
+1_00023
+  rotate: false
+  xy: 0, 719
+  size: 333, 235
+  orig: 418, 293
+  offset: 43, 36
+  index: -1
+1_00024
+  rotate: false
+  xy: 333, 719
+  size: 331, 235
+  orig: 418, 293
+  offset: 45, 36
+  index: -1
+1_00025
+  rotate: false
+  xy: 664, 719
+  size: 330, 235
+  orig: 418, 293
+  offset: 47, 36
+  index: -1
+1_00026
+  rotate: false
+  xy: 0, 484
+  size: 331, 235
+  orig: 418, 293
+  offset: 49, 36
+  index: -1
+1_00027
+  rotate: false
+  xy: 331, 484
+  size: 330, 235
+  orig: 418, 293
+  offset: 51, 36
+  index: -1
+1_00028
+  rotate: false
+  xy: 661, 484
+  size: 330, 235
+  orig: 418, 293
+  offset: 53, 36
+  index: -1
+
+xuanzhuan2.png
+size: 976,927
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00005
+  rotate: true
+  xy: 734, 64
+  size: 334, 242
+  orig: 418, 293
+  offset: 62, 29
+  index: -1
+1_00006
+  rotate: true
+  xy: 242, 16
+  size: 335, 242
+  orig: 418, 293
+  offset: 63, 29
+  index: -1
+1_00007
+  rotate: true
+  xy: 0, 0
+  size: 351, 242
+  orig: 418, 293
+  offset: 49, 29
+  index: -1
+1_00008
+  rotate: true
+  xy: 484, 26
+  size: 372, 250
+  orig: 418, 293
+  offset: 30, 21
+  index: -1
+1_00009
+  rotate: false
+  xy: 382, 658
+  size: 393, 269
+  orig: 418, 293
+  offset: 11, 6
+  index: -1
+1_00019
+  rotate: false
+  xy: 0, 634
+  size: 382, 293
+  orig: 418, 293
+  offset: 36, 0
+  index: -1
+1_00020
+  rotate: false
+  xy: 0, 351
+  size: 380, 283
+  orig: 418, 293
+  offset: 38, 6
+  index: -1
+1_00021
+  rotate: false
+  xy: 382, 398
+  size: 374, 260
+  orig: 418, 293
+  offset: 40, 20
+  index: -1

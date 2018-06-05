@@ -1,0 +1,16 @@
+{
+  "packageUrl" : "http://update.lekoy.com/ClientHot/YJDBQP/Res",
+  "remoteManifestUrl" : "http://update.lekoy.com/ClientHot/YJDBQP/Manifest/project.manifest",
+  "remoteVersionUrl" : "http://update.lekoy.com/ClientHot/YJDBQP/Manifest/version.manifest",
+  "version" : "1.0.0",
+  "groupVersions" : {
+    "0" : "1.0.0"
+  },
+  "engineVersion" : "3.8",
+  "assets" : {
+  
+  },
+  "searchPaths" : [
+  ]
+}
+

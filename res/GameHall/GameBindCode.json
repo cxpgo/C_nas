@@ -1,0 +1,1733 @@
+{
+  "ID": "bbc8655d-e22c-43dc-840a-32a91aeeea85",
+  "Version": "2.3.3.0",
+  "Name": "GameBindCode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 4,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 350.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4861
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 240.0,
+                "RightMargin": 240.0,
+                "TopMargin": 70.0,
+                "BottomMargin": 50.0,
+                "CallBackType": "Click",
+                "Tag": 5,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "img_shurukuang2.png",
+                      "Plist": "GameHall/Resoures/new_ui.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 42,
+                    "Scale9OriginY": 48,
+                    "Scale9Width": 50,
+                    "Scale9Height": 278,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 306.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.51
+                    },
+                    "PreSize": {
+                      "X": 0.9688,
+                      "Y": 1.095
+                    },
+                    "LeftMargin": 12.5,
+                    "RightMargin": 12.5,
+                    "TopMargin": -34.5,
+                    "BottomMargin": -22.5,
+                    "CallBackType": "Click",
+                    "Tag": 96,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_jiarubiaoti.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 26,
+                        "Scale9OriginY": 41,
+                        "Scale9Width": 795,
+                        "Scale9Height": 47,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 386.5,
+                          "Y": 599.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4987,
+                          "Y": 0.9117
+                        },
+                        "PreSize": {
+                          "X": 1.1019,
+                          "Y": 0.1963
+                        },
+                        "LeftMargin": -40.5,
+                        "RightMargin": -38.5,
+                        "TopMargin": -6.5,
+                        "BottomMargin": 534.5,
+                        "Tag": 1031,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/secondaryMenu/img_bangdingyaoqing.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 229,
+                            "Scale9Height": 52,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 427.0,
+                              "Y": 92.13
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.7142
+                            },
+                            "PreSize": {
+                              "X": 0.2681,
+                              "Y": 0.4031
+                            },
+                            "LeftMargin": 312.5,
+                            "RightMargin": 312.5,
+                            "TopMargin": 10.87,
+                            "BottomMargin": 66.13,
+                            "Tag": 1032,
+                            "ActionTag": -587419964,
+                            "Size": {
+                              "X": 229.0,
+                              "Y": 52.0
+                            },
+                            "Name": "Image_4",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 1814287123,
+                        "Size": {
+                          "X": 854.0,
+                          "Y": 129.0
+                        },
+                        "Name": "Image_3",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_shuzidikuang.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 537,
+                        "Scale9Height": 91,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 387.5,
+                          "Y": 496.9974
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.7565
+                        },
+                        "PreSize": {
+                          "X": 0.6929,
+                          "Y": 0.1385
+                        },
+                        "LeftMargin": 119.0,
+                        "RightMargin": 119.0,
+                        "TopMargin": 114.5026,
+                        "BottomMargin": 451.4974,
+                        "Tag": 1033,
+                        "ActionTag": 391177111,
+                        "Size": {
+                          "X": 537.0,
+                          "Y": 91.0
+                        },
+                        "Name": "Image_5",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "CharWidth": 33,
+                        "CharHeight": 62,
+                        "LabelText": "9",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_shuzi01.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 162.0525,
+                          "Y": 499.6485
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.2091,
+                          "Y": 0.7605
+                        },
+                        "PreSize": {
+                          "X": 0.0426,
+                          "Y": 0.0944
+                        },
+                        "LeftMargin": 145.5525,
+                        "RightMargin": 596.4475,
+                        "TopMargin": 126.3515,
+                        "BottomMargin": 468.6485,
+                        "Tag": 147,
+                        "ActionTag": 268613234,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 62.0
+                        },
+                        "Name": "text0",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "CharWidth": 33,
+                        "CharHeight": 62,
+                        "LabelText": "9",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_shuzi01.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 252.495,
+                          "Y": 499.6485
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.3258,
+                          "Y": 0.7605
+                        },
+                        "PreSize": {
+                          "X": 0.0426,
+                          "Y": 0.0944
+                        },
+                        "LeftMargin": 235.995,
+                        "RightMargin": 506.005,
+                        "TopMargin": 126.3515,
+                        "BottomMargin": 468.6485,
+                        "Tag": 148,
+                        "ActionTag": 482684939,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 62.0
+                        },
+                        "Name": "text1",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "CharWidth": 33,
+                        "CharHeight": 62,
+                        "LabelText": "9",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_shuzi01.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 342.9375,
+                          "Y": 499.6485
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4425,
+                          "Y": 0.7605
+                        },
+                        "PreSize": {
+                          "X": 0.0426,
+                          "Y": 0.0944
+                        },
+                        "LeftMargin": 326.4375,
+                        "RightMargin": 415.5625,
+                        "TopMargin": 126.3515,
+                        "BottomMargin": 468.6485,
+                        "Tag": 149,
+                        "ActionTag": -722047988,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 62.0
+                        },
+                        "Name": "text2",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "CharWidth": 33,
+                        "CharHeight": 62,
+                        "LabelText": "9",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_shuzi01.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 433.38,
+                          "Y": 499.6485
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5592,
+                          "Y": 0.7605
+                        },
+                        "PreSize": {
+                          "X": 0.0426,
+                          "Y": 0.0944
+                        },
+                        "LeftMargin": 416.88,
+                        "RightMargin": 325.12,
+                        "TopMargin": 126.3515,
+                        "BottomMargin": 468.6485,
+                        "Tag": 150,
+                        "ActionTag": 397627064,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 62.0
+                        },
+                        "Name": "text3",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "CharWidth": 33,
+                        "CharHeight": 62,
+                        "LabelText": "9",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_shuzi01.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 523.745,
+                          "Y": 499.6485
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.6758,
+                          "Y": 0.7605
+                        },
+                        "PreSize": {
+                          "X": 0.0426,
+                          "Y": 0.0944
+                        },
+                        "LeftMargin": 507.245,
+                        "RightMargin": 234.755,
+                        "TopMargin": 126.3515,
+                        "BottomMargin": 468.6485,
+                        "Tag": 151,
+                        "ActionTag": -1076878921,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 62.0
+                        },
+                        "Name": "text4",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "CharWidth": 33,
+                        "CharHeight": 62,
+                        "LabelText": "9",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_shuzi01.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 614.1875,
+                          "Y": 499.6485
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7925,
+                          "Y": 0.7605
+                        },
+                        "PreSize": {
+                          "X": 0.0426,
+                          "Y": 0.0944
+                        },
+                        "LeftMargin": 597.6875,
+                        "RightMargin": 144.3125,
+                        "TopMargin": 126.3515,
+                        "BottomMargin": 468.6485,
+                        "Tag": 152,
+                        "ActionTag": -2124692642,
+                        "Size": {
+                          "X": 33.0,
+                          "Y": 62.0
+                        },
+                        "Name": "text5",
+                        "ctype": "TextAtlasObjectData"
+                      }
+                    ],
+                    "ActionTag": -1569629237,
+                    "Size": {
+                      "X": 775.0,
+                      "Y": 657.0
+                    },
+                    "Name": "Image_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "首次绑定邀请码将获得88钻石和1000金币奖励哦~",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 542.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 183,
+                      "G": 36,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9033
+                    },
+                    "PreSize": {
+                      "X": 0.7588,
+                      "Y": 0.0533
+                    },
+                    "LeftMargin": 96.5,
+                    "RightMargin": 96.5,
+                    "TopMargin": 42.0,
+                    "BottomMargin": 526.0,
+                    "Tag": 626,
+                    "ActionTag": -35288967,
+                    "Size": {
+                      "X": 607.0,
+                      "Y": 32.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi1_01.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi1_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi1_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 159.5159,
+                      "Y": 368.1989
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1994,
+                      "Y": 0.6137
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 66.5159,
+                    "RightMargin": 547.4841,
+                    "TopMargin": 179.3011,
+                    "BottomMargin": 315.6989,
+                    "Tag": 6,
+                    "ActionTag": 819280546,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi2_01.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi2_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi2_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.32,
+                      "Y": 368.1989
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4979,
+                      "Y": 0.6137
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 305.32,
+                    "RightMargin": 308.68,
+                    "TopMargin": 179.3011,
+                    "BottomMargin": 315.6989,
+                    "Tag": 7,
+                    "ActionTag": -881078562,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi3_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi3_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 637.2029,
+                      "Y": 368.1989
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7965,
+                      "Y": 0.6137
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 544.2029,
+                    "RightMargin": 69.7971,
+                    "TopMargin": 179.3011,
+                    "BottomMargin": 315.6989,
+                    "Tag": 8,
+                    "ActionTag": -280045437,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi4_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi4_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 159.5159,
+                      "Y": 260.0128
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1994,
+                      "Y": 0.4334
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 66.5159,
+                    "RightMargin": 547.4841,
+                    "TopMargin": 287.4872,
+                    "BottomMargin": 207.5128,
+                    "Tag": 9,
+                    "ActionTag": 1161732853,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi5_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi5_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.32,
+                      "Y": 260.0118
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4979,
+                      "Y": 0.4334
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 305.32,
+                    "RightMargin": 308.68,
+                    "TopMargin": 287.4882,
+                    "BottomMargin": 207.5118,
+                    "Tag": 10,
+                    "ActionTag": 1305422273,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_5",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi6_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi6_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 637.2029,
+                      "Y": 260.0118
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7965,
+                      "Y": 0.4334
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 544.2029,
+                    "RightMargin": 69.7971,
+                    "TopMargin": 287.4882,
+                    "BottomMargin": 207.5118,
+                    "Tag": 11,
+                    "ActionTag": -762708822,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_6",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi7_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi7_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 159.5159,
+                      "Y": 151.8243
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1994,
+                      "Y": 0.253
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 66.5159,
+                    "RightMargin": 547.4841,
+                    "TopMargin": 395.6757,
+                    "BottomMargin": 99.3243,
+                    "Tag": 12,
+                    "ActionTag": 1590471024,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_7",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi8_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi8_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.32,
+                      "Y": 151.8243
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4979,
+                      "Y": 0.253
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 305.32,
+                    "RightMargin": 308.68,
+                    "TopMargin": 395.6757,
+                    "BottomMargin": 99.3243,
+                    "Tag": 13,
+                    "ActionTag": 1012577080,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_8",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi9_0.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi9_0.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 637.2,
+                      "Y": 151.8243
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7965,
+                      "Y": 0.253
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 544.2,
+                    "RightMargin": 69.8,
+                    "TopMargin": 395.6757,
+                    "BottomMargin": 99.3243,
+                    "Tag": 14,
+                    "ActionTag": 669394825,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_9",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi0_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_shuzi0_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 170,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.32,
+                      "Y": 43.6366
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4979,
+                      "Y": 0.0727
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 305.32,
+                    "RightMargin": 308.68,
+                    "TopMargin": 503.8634,
+                    "BottomMargin": -8.8634,
+                    "Tag": 15,
+                    "ActionTag": -286359310,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_0",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/btns/qd_joindel.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/btns/qd_joindel.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/btns/qd_joindel.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -25.7708,
+                      "Y": -150.7557
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0322,
+                      "Y": -0.2513
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": -96.7708,
+                    "RightMargin": 754.7708,
+                    "TopMargin": 711.7557,
+                    "BottomMargin": -189.7557,
+                    "Tag": 17,
+                    "ActionTag": -520979845,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_del",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_qingkong_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_qingkong_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 159.52,
+                      "Y": 43.6366
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1994,
+                      "Y": 0.0727
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 66.52,
+                    "RightMargin": 547.48,
+                    "TopMargin": 503.8634,
+                    "BottomMargin": -8.8634,
+                    "Tag": 309,
+                    "ActionTag": 925469648,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_reset",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_guanbi.png",
+                      "Plist": "GameHall/Resoures/new_ui.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_guanbi.png",
+                      "Plist": "GameHall/Resoures/new_ui.plist"
+                    },
+                    "Scale9Width": 78,
+                    "Scale9Height": 78,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 799.188,
+                      "Y": 606.6924
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.999,
+                      "Y": 1.0112
+                    },
+                    "PreSize": {
+                      "X": 0.0975,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 760.188,
+                    "RightMargin": -38.188,
+                    "TopMargin": -45.6924,
+                    "BottomMargin": 567.6924,
+                    "Tag": 31,
+                    "ActionTag": 82542351,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_queren_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_queren_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 156,
+                    "Scale9Height": 83,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 637.2,
+                      "Y": 43.6366
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7965,
+                      "Y": 0.0727
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 544.2,
+                    "RightMargin": 69.8,
+                    "TopMargin": 503.8634,
+                    "BottomMargin": -8.8634,
+                    "Tag": 1079,
+                    "ActionTag": 2095528258,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 105.0
+                    },
+                    "Name": "btn_confirm",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1654933729,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 600.0
+                },
+                "Name": "panel_room",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -997141541,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Club/Resoures/btns/qd_joindel.png",
+        "../Default/Button_Disable.png",
+        "../font/jzy.TTF",
+        "Resoures/new_ui.plist",
+        "Resoures/new_ui.png",
+        "Resoures/secondaryMenu/img_bangdingyaoqing.png",
+        "Resoures/secondaryMenu/img_jiarubiaoti.png",
+        "Resoures/secondaryMenu/img_qingkong_01.png",
+        "Resoures/secondaryMenu/img_queren_01.png",
+        "Resoures/secondaryMenu/img_shuzi0_01.png",
+        "Resoures/secondaryMenu/img_shuzi01.png",
+        "Resoures/secondaryMenu/img_shuzi1_01.png",
+        "Resoures/secondaryMenu/img_shuzi2_01.png",
+        "Resoures/secondaryMenu/img_shuzi3_01.png",
+        "Resoures/secondaryMenu/img_shuzi4_01.png",
+        "Resoures/secondaryMenu/img_shuzi5_01.png",
+        "Resoures/secondaryMenu/img_shuzi6_01.png",
+        "Resoures/secondaryMenu/img_shuzi7_01.png",
+        "Resoures/secondaryMenu/img_shuzi8_01.png",
+        "Resoures/secondaryMenu/img_shuzi9_0.png",
+        "Resoures/secondaryMenu/img_shuzidikuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,617 @@
+{
+  "ID": "f8111f40-d62b-44a9-9334-a36a023ba713",
+  "Version": "2.3.3.0",
+  "Name": "ClubPackNotice",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 533,
+        "Children": [
+          {
+            "BackColorAlpha": 65,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -2.9079,
+              "Y": 0.6699
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0023,
+              "Y": 0.0009
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -2.9079,
+            "RightMargin": 2.908,
+            "TopMargin": -0.6699,
+            "BottomMargin": 0.6699,
+            "Tag": 580,
+            "Children": [
+              {
+                "BackColorAlpha": 7,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6102,
+                  "Y": 0.8458
+                },
+                "LeftMargin": 249.5,
+                "RightMargin": 249.5,
+                "TopMargin": 55.5,
+                "BottomMargin": 55.5,
+                "Tag": 581,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/new_club/Common/btn_shutiao2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 103,
+                    "Scale9OriginY": 224,
+                    "Scale9Width": 108,
+                    "Scale9Height": 231,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.9589
+                    },
+                    "TopMargin": 25.0,
+                    "Tag": 759,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Club/Resoures/large/new_club/Common/img_jiarubiaoti.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 218,
+                        "Scale9OriginY": 24,
+                        "Scale9Width": 418,
+                        "Scale9Height": 81,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -36.0,
+                          "Y": 546.24
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0461,
+                          "Y": 0.9353
+                        },
+                        "PreSize": {
+                          "X": 1.0896,
+                          "Y": 0.2209
+                        },
+                        "LeftMargin": -36.0,
+                        "RightMargin": -34.0,
+                        "TopMargin": -26.74,
+                        "BottomMargin": 481.74,
+                        "Tag": 760,
+                        "ActionTag": 1557923451,
+                        "Size": {
+                          "X": 851.0,
+                          "Y": 129.0
+                        },
+                        "Name": "Image_8",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Club/Resoures/large/new_club/img_julebugonggao.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 228,
+                        "Scale9Height": 51,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 272.33,
+                          "Y": 574.4831
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3487,
+                          "Y": 0.9837
+                        },
+                        "PreSize": {
+                          "X": 0.2919,
+                          "Y": 0.0873
+                        },
+                        "LeftMargin": 272.33,
+                        "RightMargin": 280.67,
+                        "TopMargin": -15.9831,
+                        "BottomMargin": 548.9831,
+                        "Tag": 761,
+                        "ActionTag": -1646265632,
+                        "Size": {
+                          "X": 228.0,
+                          "Y": 51.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Image_title_0",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Club/Resoures/large/new_club/img_xiugaigonggao.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 183,
+                        "Scale9Height": 51,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 293.33,
+                          "Y": 574.48
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3756,
+                          "Y": 0.9837
+                        },
+                        "PreSize": {
+                          "X": 0.2343,
+                          "Y": 0.0873
+                        },
+                        "LeftMargin": 293.33,
+                        "RightMargin": 304.67,
+                        "TopMargin": -15.98,
+                        "BottomMargin": 548.98,
+                        "Tag": 763,
+                        "ActionTag": 1417439428,
+                        "Size": {
+                          "X": 183.0,
+                          "Y": 51.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "Image_title_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Club/Resoures/large/new_club/nine_02.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 27,
+                        "Scale9OriginY": 27,
+                        "Scale9Width": 29,
+                        "Scale9Height": 29,
+                        "AnchorPoint": {
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": 36.6,
+                          "Y": 528.52
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0469,
+                          "Y": 0.905
+                        },
+                        "PreSize": {
+                          "X": 0.8963,
+                          "Y": 0.6866
+                        },
+                        "LeftMargin": 36.6,
+                        "RightMargin": 44.4,
+                        "TopMargin": 55.48,
+                        "BottomMargin": 127.52,
+                        "Tag": 762,
+                        "ActionTag": 722537670,
+                        "Size": {
+                          "X": 700.0,
+                          "Y": 401.0
+                        },
+                        "Name": "Image_8_0_0",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 2053190105,
+                    "Size": {
+                      "X": 781.0,
+                      "Y": 584.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "FontSize": 28,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "请输入公告",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 514.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0794,
+                      "Y": 0.844
+                    },
+                    "PreSize": {
+                      "X": 0.8323,
+                      "Y": 0.5944
+                    },
+                    "LeftMargin": 62.0,
+                    "RightMargin": 69.0,
+                    "TopMargin": 95.0,
+                    "BottomMargin": 152.0,
+                    "Tag": 596,
+                    "ActionTag": 158453650,
+                    "Size": {
+                      "X": 650.0,
+                      "Y": 362.0
+                    },
+                    "Name": "input_notice",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "这是一个测试公告这是一个测试公告这是一个测试公告这是\n一个测试公告",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 62.0,
+                      "Y": 514.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0794,
+                      "Y": 0.844
+                    },
+                    "PreSize": {
+                      "X": 0.8323,
+                      "Y": 0.5944
+                    },
+                    "LeftMargin": 62.0,
+                    "RightMargin": 69.0,
+                    "TopMargin": 95.0,
+                    "BottomMargin": 152.0,
+                    "CallBackType": "Touch",
+                    "Tag": 595,
+                    "ActionTag": 1178288249,
+                    "Size": {
+                      "X": 650.0,
+                      "Y": 362.0
+                    },
+                    "Name": "text_notice",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/new_club/Common/btn_guanbi.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/new_club/Common/btn_guanbi.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 48,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 784.0881,
+                      "Y": 586.1599
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 1.004,
+                      "Y": 0.9625
+                    },
+                    "PreSize": {
+                      "X": 0.0999,
+                      "Y": 0.1281
+                    },
+                    "LeftMargin": 745.0881,
+                    "RightMargin": -42.0881,
+                    "TopMargin": -16.1599,
+                    "BottomMargin": 547.1599,
+                    "Tag": 593,
+                    "ActionTag": 762909159,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_back",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/new_club/btn_querenxiugai.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/new_club/btn_querenxiugai.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 220,
+                    "Scale9Height": 57,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 393.6,
+                      "Y": 74.3729
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.504,
+                      "Y": 0.1221
+                    },
+                    "PreSize": {
+                      "X": 0.3201,
+                      "Y": 0.1297
+                    },
+                    "LeftMargin": 268.6,
+                    "RightMargin": 262.4,
+                    "TopMargin": 495.1271,
+                    "BottomMargin": 34.8729,
+                    "Tag": 594,
+                    "ActionTag": -581829103,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 79.0
+                    },
+                    "Name": "btn_xiugai",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 203865862,
+                "Size": {
+                  "X": 781.0,
+                  "Y": 609.0
+                },
+                "Name": "panel_root",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 2001315907,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_shadow",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/jzy.TTF",
+        "Resoures/large/new_club/btn_querenxiugai.png",
+        "Resoures/large/new_club/Common/btn_guanbi.png",
+        "Resoures/large/new_club/Common/btn_shutiao2.png",
+        "Resoures/large/new_club/Common/img_jiarubiaoti.png",
+        "Resoures/large/new_club/img_julebugonggao.png",
+        "Resoures/large/new_club/img_xiugaigonggao.png",
+        "Resoures/large/new_club/nine_02.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

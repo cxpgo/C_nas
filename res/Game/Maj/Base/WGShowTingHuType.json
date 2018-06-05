@@ -1,0 +1,319 @@
+{
+  "ID": "ee1b32e8-a326-431c-8db8-8e625684481e",
+  "Version": "2.3.3.0",
+  "Name": "WGShowTingHuType",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 571,
+            "Children": [
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 599.9236,
+                  "Y": 189.3182
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4687,
+                  "Y": 0.2629
+                },
+                "PreSize": {
+                  "X": 0.0695,
+                  "Y": 0.1806
+                },
+                "LeftMargin": 599.9236,
+                "RightMargin": 591.0764,
+                "TopMargin": 400.6818,
+                "BottomMargin": 189.3182,
+                "Tag": 186,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "player.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9Width": 89,
+                    "Scale9Height": 130,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.5,
+                      "Y": 65.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 76,
+                    "ActionTag": 845993571,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 130.0
+                    },
+                    "Name": "image_cardBG",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_6.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9Width": 88,
+                    "Scale9Height": 106,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.5,
+                      "Y": 58.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.95,
+                      "ScaleY": 0.91
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.4462
+                    },
+                    "PreSize": {
+                      "X": 0.9888,
+                      "Y": 0.8154
+                    },
+                    "LeftMargin": 0.5,
+                    "RightMargin": 0.5,
+                    "TopMargin": 19.0,
+                    "BottomMargin": 5.0,
+                    "Tag": 77,
+                    "ActionTag": -1554754938,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "image_card",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1936442910,
+                "Size": {
+                  "X": 89.0,
+                  "Y": 130.0
+                },
+                "Name": "cell",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "打2万，胡6筒(剩1张)",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5005
+                },
+                "Position": {
+                  "X": 687.6031,
+                  "Y": 372.4254
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5372,
+                  "Y": 0.5173
+                },
+                "PreSize": {
+                  "X": 0.2109,
+                  "Y": 0.1111
+                },
+                "LeftMargin": 687.6031,
+                "RightMargin": 322.3969,
+                "TopMargin": 307.6146,
+                "BottomMargin": 332.3854,
+                "Tag": 190,
+                "ActionTag": -2001981962,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 80.0
+                },
+                "Name": "text_hu",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -213090389,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Game/Maj/Base/Resoures/large/img_ditu_tishi.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 15,
+            "Scale9Width": 43,
+            "Scale9Height": 53,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 368.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5111
+            },
+            "PreSize": {
+              "X": 0.057,
+              "Y": 0.1153
+            },
+            "LeftMargin": 603.5,
+            "RightMargin": 603.5,
+            "TopMargin": 310.5,
+            "BottomMargin": 326.5,
+            "Tag": 60,
+            "ActionTag": -1231931656,
+            "Size": {
+              "X": 73.0,
+              "Y": 83.0
+            },
+            "Name": "image_huTips",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../font/jzy.TTF",
+        "Resoures/large/img_ditu_tishi.png",
+        "Resoures/V3D/tileImage.plist",
+        "Resoures/V3D/tileImage.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

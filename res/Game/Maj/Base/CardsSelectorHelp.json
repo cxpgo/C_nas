@@ -1,0 +1,5358 @@
+{
+  "ID": "d67535e6-330f-4ce0-9ae4-12aa1568931a",
+  "Version": "2.3.3.0",
+  "Name": "CardsSelectorHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ComboBoxIndex": 2,
+            "SingleColor": {
+              "R": 26,
+              "G": 26,
+              "B": 26
+            },
+            "FirstColor": {
+              "R": 173,
+              "G": 216,
+              "B": 230
+            },
+            "EndColor": {
+              "R": 191,
+              "G": 191,
+              "B": 191
+            },
+            "ColorVector": {
+              "ScaleX": -0.0349,
+              "ScaleY": 0.9994
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.6198,
+              "Y": -1.6196
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0013,
+              "Y": -0.0022
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.6198,
+            "RightMargin": -1.6198,
+            "TopMargin": 1.6196,
+            "BottomMargin": -1.6196,
+            "Tag": 3,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "1",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 160.838,
+                  "Y": 535.7564
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1257,
+                  "Y": 0.7441
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 153.338,
+                "RightMargin": 1111.662,
+                "TopMargin": 169.2436,
+                "BottomMargin": 520.7564,
+                "Tag": 210,
+                "ActionTag": -608663683,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "2",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 192.3383,
+                  "Y": 535.7568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1503,
+                  "Y": 0.7441
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 184.8383,
+                "RightMargin": 1080.1617,
+                "TopMargin": 169.2432,
+                "BottomMargin": 520.7568,
+                "Tag": 211,
+                "ActionTag": 2027960652,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "3",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 231.1842,
+                  "Y": 534.7062
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1806,
+                  "Y": 0.7426
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 223.6842,
+                "RightMargin": 1041.3158,
+                "TopMargin": 170.2938,
+                "BottomMargin": 519.7062,
+                "Tag": 212,
+                "ActionTag": 4604906,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "4",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 262.6859,
+                  "Y": 533.6559
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2052,
+                  "Y": 0.7412
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 255.1859,
+                "RightMargin": 1009.8141,
+                "TopMargin": 171.3441,
+                "BottomMargin": 518.6559,
+                "Tag": 213,
+                "ActionTag": -1913513837,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "5",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 303.2198,
+                  "Y": 534.9407
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2369,
+                  "Y": 0.743
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 295.7198,
+                "RightMargin": 969.2802,
+                "TopMargin": 170.0593,
+                "BottomMargin": 519.9407,
+                "Tag": 214,
+                "ActionTag": -1498670499,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "6",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 337.8791,
+                  "Y": 536.5719
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.264,
+                  "Y": 0.7452
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 330.3791,
+                "RightMargin": 934.6209,
+                "TopMargin": 168.4281,
+                "BottomMargin": 521.5719,
+                "Tag": 215,
+                "ActionTag": -931327779,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "7",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 374.9871,
+                  "Y": 535.7563
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.293,
+                  "Y": 0.7441
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 367.4871,
+                "RightMargin": 897.5129,
+                "TopMargin": 169.2437,
+                "BottomMargin": 520.7563,
+                "Tag": 216,
+                "ActionTag": 1706808202,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_5",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "8",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 414.5424,
+                  "Y": 534.9408
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3239,
+                  "Y": 0.743
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 407.0424,
+                "RightMargin": 857.9576,
+                "TopMargin": 170.0592,
+                "BottomMargin": 519.9408,
+                "Tag": 217,
+                "ActionTag": -1165135514,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_6",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "9",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 455.7224,
+                  "Y": 534.9406
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.356,
+                  "Y": 0.743
+                },
+                "PreSize": {
+                  "X": 0.0117,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 448.2224,
+                "RightMargin": 816.7776,
+                "TopMargin": 170.0594,
+                "BottomMargin": 519.9406,
+                "Tag": 218,
+                "ActionTag": 693543956,
+                "Size": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "10",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 509.144,
+                  "Y": 534.1252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3978,
+                  "Y": 0.7418
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 494.144,
+                "RightMargin": 755.856,
+                "TopMargin": 170.8748,
+                "BottomMargin": 519.1252,
+                "Tag": 219,
+                "ActionTag": 2027273098,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_8",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "11",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 560.93,
+                  "Y": 534.1252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4382,
+                  "Y": 0.7418
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 545.93,
+                "RightMargin": 704.07,
+                "TopMargin": 170.8748,
+                "BottomMargin": 519.1252,
+                "Tag": 220,
+                "ActionTag": 997812053,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_9",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "12",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 607.8252,
+                  "Y": 534.1252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4749,
+                  "Y": 0.7418
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 592.8252,
+                "RightMargin": 657.1748,
+                "TopMargin": 170.8748,
+                "BottomMargin": 519.1252,
+                "Tag": 221,
+                "ActionTag": -2007296890,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_9_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "13",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 659.6095,
+                  "Y": 534.9409
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5153,
+                  "Y": 0.743
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 644.6095,
+                "RightMargin": 605.3905,
+                "TopMargin": 170.0591,
+                "BottomMargin": 519.9409,
+                "Tag": 222,
+                "ActionTag": -415983628,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_9_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "14",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 712.2158,
+                  "Y": 534.9406
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5564,
+                  "Y": 0.743
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 697.2158,
+                "RightMargin": 552.7842,
+                "TopMargin": 170.0594,
+                "BottomMargin": 519.9406,
+                "Tag": 223,
+                "ActionTag": -558254996,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_9_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "15",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 761.3634,
+                  "Y": 533.9121
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5948,
+                  "Y": 0.7415
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 746.3634,
+                "RightMargin": 503.6366,
+                "TopMargin": 171.0879,
+                "BottomMargin": 518.9121,
+                "Tag": 321,
+                "ActionTag": -105076037,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_9_1_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 157.2948,
+                  "Y": 452.786
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1229,
+                  "Y": 0.6289
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 157.2948,
+                "RightMargin": 922.7052,
+                "TopMargin": 217.214,
+                "BottomMargin": 452.786,
+                "Tag": 199,
+                "ActionTag": 13232045,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "Name": "player0",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 157.2947,
+                  "Y": 387.9262
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1229,
+                  "Y": 0.5388
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 157.2947,
+                "RightMargin": 922.7053,
+                "TopMargin": 282.0738,
+                "BottomMargin": 387.9262,
+                "Tag": 201,
+                "ActionTag": -631697811,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "Name": "player1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 154.0553,
+                  "Y": 332.7861
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1204,
+                  "Y": 0.4622
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 154.0553,
+                "RightMargin": 925.9447,
+                "TopMargin": 337.2139,
+                "BottomMargin": 332.7861,
+                "Tag": 202,
+                "ActionTag": 97201062,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "Name": "player2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 163.7734,
+                  "Y": 269.5465
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1279,
+                  "Y": 0.3744
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 163.7734,
+                "RightMargin": 916.2266,
+                "TopMargin": 400.4535,
+                "BottomMargin": 269.5465,
+                "Tag": 203,
+                "ActionTag": 1545843893,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "Name": "player3",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "庄家",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.0883,
+                  "Y": 471.0592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.1002
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0665,
+                  "Y": 0.6542
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 55.0883,
+                "RightMargin": 1164.9117,
+                "TopMargin": 233.9408,
+                "BottomMargin": 456.0592,
+                "Tag": 204,
+                "ActionTag": 526739480,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "玩家2",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 91.905,
+                  "Y": 411.0576
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0718,
+                  "Y": 0.5709
+                },
+                "PreSize": {
+                  "X": 0.0586,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 54.405,
+                "RightMargin": 1150.595,
+                "TopMargin": 293.9424,
+                "BottomMargin": 396.0576,
+                "Tag": 205,
+                "ActionTag": -1497167747,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "玩家3",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 95.3124,
+                  "Y": 351.0563
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0745,
+                  "Y": 0.4876
+                },
+                "PreSize": {
+                  "X": 0.0586,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 57.8124,
+                "RightMargin": 1147.1876,
+                "TopMargin": 353.9437,
+                "BottomMargin": 336.0563,
+                "Tag": 206,
+                "ActionTag": 215040235,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "玩家4",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.2682,
+                  "Y": 292.8427
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.076,
+                  "Y": 0.4067
+                },
+                "PreSize": {
+                  "X": 0.0586,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 59.7682,
+                "RightMargin": 1145.2318,
+                "TopMargin": 412.1573,
+                "BottomMargin": 277.8427,
+                "Tag": 207,
+                "ActionTag": -2069336765,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "玩家",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 78.2733,
+                  "Y": 534.4659
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0612,
+                  "Y": 0.7423
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 48.2733,
+                "RightMargin": 1171.7267,
+                "TopMargin": 170.5341,
+                "BottomMargin": 519.4659,
+                "Tag": 208,
+                "ActionTag": 674673697,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 929.9346,
+                  "Y": 476.1649
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7265,
+                  "Y": 0.6613
+                },
+                "PreSize": {
+                  "X": 0.0313,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 909.9346,
+                "RightMargin": 330.0654,
+                "TopMargin": 223.8351,
+                "BottomMargin": 456.1649,
+                "Tag": 224,
+                "ActionTag": 911618631,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "checkBox_0",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 929.9346,
+                  "Y": 416.1653
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7265,
+                  "Y": 0.578
+                },
+                "PreSize": {
+                  "X": 0.0313,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 909.9346,
+                "RightMargin": 330.0654,
+                "TopMargin": 283.8347,
+                "BottomMargin": 396.1653,
+                "Tag": 225,
+                "ActionTag": 1816211432,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "checkBox_1",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 929.9346,
+                  "Y": 356.1649
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7265,
+                  "Y": 0.4947
+                },
+                "PreSize": {
+                  "X": 0.0313,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 909.9346,
+                "RightMargin": 330.0654,
+                "TopMargin": 343.8351,
+                "BottomMargin": 336.1649,
+                "Tag": 226,
+                "ActionTag": 1500463994,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "checkBox_2",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 929.9346,
+                  "Y": 296.1654
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7265,
+                  "Y": 0.4113
+                },
+                "PreSize": {
+                  "X": 0.0313,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 909.9346,
+                "RightMargin": 330.0654,
+                "TopMargin": 403.8346,
+                "BottomMargin": 276.1654,
+                "Tag": 227,
+                "ActionTag": -941087503,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "checkBox_3",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 693.76,
+                  "Y": 40.7931
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.542,
+                  "Y": 0.0567
+                },
+                "PreSize": {
+                  "X": 0.2164,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 555.26,
+                "RightMargin": 447.74,
+                "TopMargin": 632.2069,
+                "BottomMargin": -6.2069,
+                "Tag": 228,
+                "ActionTag": 936213362,
+                "Size": {
+                  "X": 277.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_ok",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "清除",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 7,
+                "Scale9Width": 16,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1039.9399,
+                  "Y": 476.1696
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8125,
+                  "Y": 0.6613
+                },
+                "PreSize": {
+                  "X": 0.0484,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 1008.9399,
+                "RightMargin": 209.0601,
+                "TopMargin": 221.8304,
+                "BottomMargin": 454.1696,
+                "Tag": 230,
+                "ActionTag": 782030205,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_cancel0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "清除",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 7,
+                "Scale9Width": 16,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1039.9399,
+                  "Y": 416.1686
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8125,
+                  "Y": 0.578
+                },
+                "PreSize": {
+                  "X": 0.0484,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 1008.9399,
+                "RightMargin": 209.0601,
+                "TopMargin": 281.8314,
+                "BottomMargin": 394.1686,
+                "Tag": 231,
+                "ActionTag": -780440303,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_cancel1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "清除",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 7,
+                "Scale9Width": 16,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1039.9399,
+                  "Y": 356.1672
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8125,
+                  "Y": 0.4947
+                },
+                "PreSize": {
+                  "X": 0.0484,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 1008.9399,
+                "RightMargin": 209.0601,
+                "TopMargin": 341.8328,
+                "BottomMargin": 334.1672,
+                "Tag": 232,
+                "ActionTag": 1610903909,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_cancel2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "清除",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 7,
+                "Scale9Width": 16,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1039.9399,
+                  "Y": 296.1657
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8125,
+                  "Y": 0.4113
+                },
+                "PreSize": {
+                  "X": 0.0484,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 1008.9399,
+                "RightMargin": 209.0601,
+                "TopMargin": 401.8343,
+                "BottomMargin": 274.1657,
+                "Tag": 233,
+                "ActionTag": 1468384070,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_cancel3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "摸\n牌",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.2266,
+                  "Y": 209.0728
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0236,
+                  "Y": 0.2904
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0833
+                },
+                "LeftMargin": 15.2266,
+                "RightMargin": 1234.7734,
+                "TopMargin": 480.9272,
+                "BottomMargin": 179.0728,
+                "Tag": 328,
+                "ActionTag": -237243948,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 60.0
+                },
+                "Name": "Text_1_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1156.0374,
+                  "Y": 235.5545
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9032,
+                  "Y": 0.3272
+                },
+                "PreSize": {
+                  "X": 0.0313,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 1136.0374,
+                "RightMargin": 103.9626,
+                "TopMargin": 464.4455,
+                "BottomMargin": 215.5545,
+                "Tag": 329,
+                "ActionTag": -736904851,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "checkBox_4",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "清除",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 7,
+                "Scale9Width": 16,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1156.6831,
+                  "Y": 166.3237
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9037,
+                  "Y": 0.231
+                },
+                "PreSize": {
+                  "X": 0.0484,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 1125.6831,
+                "RightMargin": 92.3169,
+                "TopMargin": 531.6763,
+                "BottomMargin": 144.3237,
+                "Tag": 330,
+                "ActionTag": -20485959,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_cancel4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "PressedBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Press.png",
+                  "Plist": ""
+                },
+                "DisableBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Disable.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "NodeDisableFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Disable.png",
+                  "Plist": ""
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1178.1151,
+                  "Y": 102.7787
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9204,
+                  "Y": 0.1427
+                },
+                "PreSize": {
+                  "X": 0.0313,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 1158.1151,
+                "RightMargin": 81.8849,
+                "TopMargin": 597.2213,
+                "BottomMargin": 82.7787,
+                "Tag": 113,
+                "ActionTag": -1210752487,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "checkBox_5",
+                "ctype": "CheckBoxObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "清除",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 7,
+                "Scale9Width": 16,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1237.7852,
+                  "Y": 100.6619
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.967,
+                  "Y": 0.1398
+                },
+                "PreSize": {
+                  "X": 0.0484,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 1206.7852,
+                "RightMargin": 11.2148,
+                "TopMargin": 597.3381,
+                "BottomMargin": 78.6619,
+                "Tag": 114,
+                "ActionTag": 1928906692,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 44.0
+                },
+                "Name": "btn_cancel5",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 90.5361,
+                  "Y": 81.8722
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0707,
+                  "Y": 0.1137
+                },
+                "PreSize": {
+                  "X": 0.8,
+                  "Y": 0.2506
+                },
+                "LeftMargin": 90.5361,
+                "RightMargin": 165.464,
+                "TopMargin": 457.7278,
+                "BottomMargin": 81.8722,
+                "Tag": 293,
+                "ActionTag": -1906339641,
+                "Size": {
+                  "X": 1023.9999,
+                  "Y": 180.4
+                },
+                "Name": "player4",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 3.2267,
+                  "Y": 555.5784
+                },
+                "Scale": {
+                  "ScaleX": 0.75,
+                  "ScaleY": 0.75
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0025,
+                  "Y": 0.7716
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.33,
+                  "Y": 0.3
+                },
+                "LeftMargin": 3.2267,
+                "RightMargin": -425.6267,
+                "TopMargin": -51.5784,
+                "BottomMargin": 555.5784,
+                "Tag": 189,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_1.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 47.7539,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0281,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 3.7539,
+                    "RightMargin": 1610.6461,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 190,
+                    "ActionTag": 1740434773,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_2.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 143.1341,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0841,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 99.1341,
+                    "RightMargin": 1515.2659,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 191,
+                    "ActionTag": -1721750500,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_3.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 238.5143,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1401,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 194.5143,
+                    "RightMargin": 1419.8857,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 192,
+                    "ActionTag": -1137107960,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_4.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 333.8937,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1961,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 289.8937,
+                    "RightMargin": 1324.5063,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 193,
+                    "ActionTag": 1705748223,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_5.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 429.2732,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2522,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 385.2732,
+                    "RightMargin": 1229.1268,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 194,
+                    "ActionTag": 1107870477,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W5",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_6.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 524.6517,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3082,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 480.6517,
+                    "RightMargin": 1133.7483,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 195,
+                    "ActionTag": 741194599,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W6",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_7.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 620.0323,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3642,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 576.0323,
+                    "RightMargin": 1038.3677,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 196,
+                    "ActionTag": 537877335,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W7",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_8.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 715.411,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4202,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 671.411,
+                    "RightMargin": 942.989,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 197,
+                    "ActionTag": -729113439,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W8",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_wan_9.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 810.7909,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4763,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 766.7909,
+                    "RightMargin": 847.6091,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 198,
+                    "ActionTag": 1056987265,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "W9",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_1.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 906.1707,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5323,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 862.1707,
+                    "RightMargin": 752.2293,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 199,
+                    "ActionTag": 2071416892,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_2.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1001.5505,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5883,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 957.5505,
+                    "RightMargin": 656.8495,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 200,
+                    "ActionTag": 1337926009,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_3.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1096.9314,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6443,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1052.9314,
+                    "RightMargin": 561.4686,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 201,
+                    "ActionTag": 1941340911,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_4.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1192.3096,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7004,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1148.3096,
+                    "RightMargin": 466.0905,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 202,
+                    "ActionTag": -793721293,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_5.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1287.6931,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7564,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1243.6931,
+                    "RightMargin": 370.7069,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 203,
+                    "ActionTag": 1597961676,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T5",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_6.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1383.0743,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8124,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1339.0743,
+                    "RightMargin": 275.3257,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 204,
+                    "ActionTag": 1941195517,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T6",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_7.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1478.4572,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8685,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1434.4572,
+                    "RightMargin": 179.9429,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 205,
+                    "ActionTag": 898459951,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T7",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_8.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1573.8289,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9245,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1529.8289,
+                    "RightMargin": 84.5712,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 206,
+                    "ActionTag": -70331601,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T8",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_tiao_9.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1669.2087,
+                      "Y": 160.349
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9805,
+                      "Y": 0.7424
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1625.2087,
+                    "RightMargin": -10.8087,
+                    "TopMargin": 2.651,
+                    "BottomMargin": 107.349,
+                    "Tag": 207,
+                    "ActionTag": -1649237583,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "T9",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_1.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.5606,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0291,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 5.5606,
+                    "RightMargin": 1608.8395,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 208,
+                    "ActionTag": -2082392740,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_2.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 155.692,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0915,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 111.692,
+                    "RightMargin": 1502.708,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 209,
+                    "ActionTag": 1411529916,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_3.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 252.6292,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1484,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 208.6292,
+                    "RightMargin": 1405.7708,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 210,
+                    "ActionTag": -1588031302,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_4.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 372.5412,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2188,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 328.5412,
+                    "RightMargin": 1285.8589,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 211,
+                    "ActionTag": 1975083897,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_5.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 497.0459,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.292,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 453.0459,
+                    "RightMargin": 1161.3541,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 212,
+                    "ActionTag": 128919864,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B5",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_6.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 620.0232,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3642,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 576.0232,
+                    "RightMargin": 1038.3768,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 213,
+                    "ActionTag": -1101286585,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B6",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_7.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 741.4646,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4355,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 697.4646,
+                    "RightMargin": 916.9354,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 214,
+                    "ActionTag": 638197053,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B7",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_8.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 846.0641,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.497,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 802.0641,
+                    "RightMargin": 812.3359,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 215,
+                    "ActionTag": 460728218,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B8",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_bing_9.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 934.1278,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5487,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 890.1278,
+                    "RightMargin": 724.2722,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 216,
+                    "ActionTag": -665661233,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "B9",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_feng_dong.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1050.9773,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6174,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1006.9773,
+                    "RightMargin": 607.4227,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 217,
+                    "ActionTag": 275332407,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "F1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_feng_xi.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1150.9753,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6761,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1106.9753,
+                    "RightMargin": 507.4247,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 218,
+                    "ActionTag": 1045543512,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "F2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_feng_nan.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1241.7909,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7294,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1197.7909,
+                    "RightMargin": 416.6091,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 219,
+                    "ActionTag": 619026898,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "F3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_feng_bei.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1332.5999,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7828,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1288.5999,
+                    "RightMargin": 325.8002,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 220,
+                    "ActionTag": -1828849315,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "F4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_zi_zhong.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1463.2311,
+                      "Y": 54.0914
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8595,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1419.2311,
+                    "RightMargin": 195.1689,
+                    "TopMargin": 108.9086,
+                    "BottomMargin": 1.0914,
+                    "Tag": 221,
+                    "ActionTag": -531141454,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "J1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_zi_fa.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1557.1046,
+                      "Y": 54.0914
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9147,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1513.1046,
+                    "RightMargin": 101.2954,
+                    "TopMargin": 108.9086,
+                    "BottomMargin": 1.0914,
+                    "Tag": 222,
+                    "ActionTag": -2008516748,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "J2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_tile_big_zi_baiban.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 84,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1661.6978,
+                      "Y": 54.0916
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9761,
+                      "Y": 0.2504
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1617.6978,
+                    "RightMargin": -3.2977,
+                    "TopMargin": 108.9084,
+                    "BottomMargin": 1.0916,
+                    "Tag": 223,
+                    "ActionTag": -165450262,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "J3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1504.3591,
+                      "Y": -60.7527
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8837,
+                      "Y": -0.2813
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1460.3591,
+                    "RightMargin": 154.0409,
+                    "TopMargin": 223.7527,
+                    "BottomMargin": -113.7527,
+                    "Tag": 192,
+                    "ActionTag": 1384668478,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "H1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1634.299,
+                      "Y": -63.29
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.96,
+                      "Y": -0.293
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1590.299,
+                    "RightMargin": 24.1011,
+                    "TopMargin": 226.29,
+                    "BottomMargin": -116.29,
+                    "Tag": 193,
+                    "ActionTag": 1842510047,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "H2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1468.3684,
+                      "Y": -188.9261
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8625,
+                      "Y": -0.8747
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1424.3684,
+                    "RightMargin": 190.0316,
+                    "TopMargin": 351.9261,
+                    "BottomMargin": -241.9261,
+                    "Tag": 194,
+                    "ActionTag": 1375267448,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "H3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1563.7786,
+                      "Y": -189.3027
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9186,
+                      "Y": -0.8764
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1519.7786,
+                    "RightMargin": 94.6215,
+                    "TopMargin": 352.3027,
+                    "BottomMargin": -242.3027,
+                    "Tag": 195,
+                    "ActionTag": 1953171185,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "H4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1654.8549,
+                      "Y": -191.8385
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9721,
+                      "Y": -0.8881
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1610.8549,
+                    "RightMargin": 3.5452,
+                    "TopMargin": 354.8385,
+                    "BottomMargin": -244.8385,
+                    "Tag": 196,
+                    "ActionTag": -1792321229,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "H5",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1478.1455,
+                      "Y": -321.7891
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8683,
+                      "Y": -1.4898
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1434.1455,
+                    "RightMargin": 180.2545,
+                    "TopMargin": 484.7891,
+                    "BottomMargin": -374.7891,
+                    "Tag": 197,
+                    "ActionTag": -1745152487,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "H6",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1562.7491,
+                      "Y": -320.0056
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.918,
+                      "Y": -1.4815
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1518.7491,
+                    "RightMargin": 95.6509,
+                    "TopMargin": 483.0056,
+                    "BottomMargin": -373.0056,
+                    "Tag": 198,
+                    "ActionTag": -1748194656,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "H7",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 28,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1651.6674,
+                      "Y": -322.5412
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9702,
+                      "Y": -1.4932
+                    },
+                    "PreSize": {
+                      "X": 0.0517,
+                      "Y": 0.4907
+                    },
+                    "LeftMargin": 1607.6674,
+                    "RightMargin": 6.7327,
+                    "TopMargin": 485.5412,
+                    "BottomMargin": -375.5412,
+                    "Tag": 199,
+                    "ActionTag": 2124026597,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 106.0
+                    },
+                    "Name": "H8",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -2079017661,
+                "Size": {
+                  "X": 1702.4,
+                  "Y": 216.0
+                },
+                "Name": "Panel_1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1006.311,
+                  "Y": 14.9698
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7862,
+                  "Y": 0.0208
+                },
+                "PreSize": {
+                  "X": 0.1006,
+                  "Y": 0.1504
+                },
+                "LeftMargin": 1006.311,
+                "RightMargin": 144.9568,
+                "TopMargin": 596.7203,
+                "BottomMargin": 14.9698,
+                "Tag": 115,
+                "ActionTag": -1818131272,
+                "Size": {
+                  "X": 128.7323,
+                  "Y": 108.3099
+                },
+                "Name": "player5",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "16",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 810.2991,
+                  "Y": 534.7275
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.633,
+                  "Y": 0.7427
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 795.2991,
+                "RightMargin": 454.7009,
+                "TopMargin": 170.2725,
+                "BottomMargin": 519.7275,
+                "Tag": 322,
+                "ActionTag": 43895630,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_9_1_0_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "17",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 860.262,
+                  "Y": 535.3301
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6721,
+                  "Y": 0.7435
+                },
+                "PreSize": {
+                  "X": 0.0234,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 845.262,
+                "RightMargin": 404.738,
+                "TopMargin": 169.6699,
+                "BottomMargin": 520.3301,
+                "Tag": 323,
+                "ActionTag": 1048769393,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_1_4_9_1_0_1_0",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1298464965,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../Default/Button_Disable.png",
+        "../../../Default/Button_Normal.png",
+        "../../../Default/Button_Press.png",
+        "../../../Default/CheckBox_Disable.png",
+        "../../../Default/CheckBox_Normal.png",
+        "../../../Default/CheckBox_Press.png",
+        "../../../Default/CheckBoxNode_Disable.png",
+        "../../../Default/CheckBoxNode_Normal.png",
+        "Resoures/V3D/tileImage.plist",
+        "Resoures/V3D/tileImage.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

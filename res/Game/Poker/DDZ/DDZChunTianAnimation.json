@@ -1,0 +1,503 @@
+{
+  "ID": "fc5b868f-ddbb-4124-b0d1-a87d5eae1285",
+  "Version": "2.3.3.0",
+  "Name": "DDZChunTianAnimation",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 101,
+        "Speed": 1.0,
+        "ActivedAnimationName": "chuntian",
+        "Timelines": [
+          {
+            "ActionTag": 1134511126,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 0.01,
+                "Y": 0.01,
+                "FrameIndex": 0,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              },
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 30,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 1134511126,
+            "Property": "VisibleForFrame",
+            "Frames": [
+              {
+                "Value": true,
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "BoolFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2063755874,
+            "Property": "Position",
+            "Frames": [
+              {
+                "X": 490.54,
+                "Y": 307.98,
+                "FrameIndex": 66,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "PointFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2063755874,
+            "Property": "Scale",
+            "Frames": [
+              {
+                "X": 1.0,
+                "Y": 1.0,
+                "FrameIndex": 66,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2063755874,
+            "Property": "RotationSkew",
+            "Frames": [
+              {
+                "X": 0.0,
+                "Y": 0.0,
+                "FrameIndex": 66,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "ScaleValueFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 2063755874,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 25,
+                "FrameIndex": 46,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 66,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": -1065124126,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 25,
+                "FrameIndex": 61,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 86,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 101,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 689766574,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 25,
+                "FrameIndex": 71,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 96,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          },
+          {
+            "ActionTag": 138210168,
+            "Property": "Alpha",
+            "Frames": [
+              {
+                "Value": 25,
+                "FrameIndex": 81,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              },
+              {
+                "Value": 255,
+                "FrameIndex": 101,
+                "EasingData": {
+                  "Type": 0
+                },
+                "ctype": "IntFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 110,
+          "Name": "chuntian",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 200,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 233,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/ani/spring_1.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 434,
+                "Scale9Height": 224,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3391,
+                  "Y": 0.3111
+                },
+                "LeftMargin": 423.0,
+                "RightMargin": 423.0,
+                "TopMargin": 248.0,
+                "BottomMargin": 248.0,
+                "Tag": 234,
+                "ActionTag": 1134511126,
+                "Size": {
+                  "X": 434.0,
+                  "Y": 224.0
+                },
+                "Name": "Image1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/ani/spring_2.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 94,
+                "Scale9Height": 82,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 490.54,
+                  "Y": 307.98
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3832,
+                  "Y": 0.4278
+                },
+                "PreSize": {
+                  "X": 0.0734,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 443.54,
+                "RightMargin": 742.46,
+                "TopMargin": 371.02,
+                "BottomMargin": 266.98,
+                "Tag": 235,
+                "ActionTag": 2063755874,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 82.0
+                },
+                "Name": "Image2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/ani/spring_3.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 64,
+                "Scale9Height": 76,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 737.3209,
+                  "Y": 279.6548
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.576,
+                  "Y": 0.3884
+                },
+                "PreSize": {
+                  "X": 0.05,
+                  "Y": 0.1056
+                },
+                "LeftMargin": 705.3209,
+                "RightMargin": 510.6791,
+                "TopMargin": 402.3452,
+                "BottomMargin": 241.6548,
+                "Tag": 236,
+                "ActionTag": -1065124126,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 76.0
+                },
+                "Name": "Image3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/ani/spring_4.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 52,
+                "Scale9Height": 54,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 666.7234,
+                  "Y": 417.5715
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5209,
+                  "Y": 0.58
+                },
+                "PreSize": {
+                  "X": 0.0406,
+                  "Y": 0.075
+                },
+                "LeftMargin": 640.7234,
+                "RightMargin": 587.2766,
+                "TopMargin": 275.4285,
+                "BottomMargin": 390.5715,
+                "Tag": 237,
+                "ActionTag": 689766574,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 54.0
+                },
+                "Alpha": 236,
+                "Name": "Image4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/ani/spring_5.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 58,
+                "Scale9Height": 48,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 825.3765,
+                  "Y": 325.2415
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6448,
+                  "Y": 0.4517
+                },
+                "PreSize": {
+                  "X": 0.0453,
+                  "Y": 0.0667
+                },
+                "LeftMargin": 796.3765,
+                "RightMargin": 425.6235,
+                "TopMargin": 370.7585,
+                "BottomMargin": 301.2415,
+                "Tag": 238,
+                "ActionTag": 138210168,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 48.0
+                },
+                "Alpha": 174,
+                "Name": "Image5",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -774902645,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_chuntian",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resoures/ani/spring_1.png",
+        "Resoures/ani/spring_2.png",
+        "Resoures/ani/spring_3.png",
+        "Resoures/ani/spring_4.png",
+        "Resoures/ani/spring_5.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

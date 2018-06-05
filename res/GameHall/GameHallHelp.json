@@ -1,0 +1,523 @@
+{
+  "ID": "72e6382d-264e-4113-932b-4dc325e14390",
+  "Version": "2.3.3.0",
+  "Name": "GameHallHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 51,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 53,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_shurukuang2.png",
+                  "Plist": "GameHall/Resoures/new_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 43,
+                "Scale9OriginY": 123,
+                "Scale9Width": 47,
+                "Scale9Height": 128,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9531,
+                  "Y": 0.9431
+                },
+                "LeftMargin": 30.0,
+                "RightMargin": 30.0,
+                "TopMargin": 20.5,
+                "BottomMargin": 20.5,
+                "Tag": 54,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/wanfa/btn_shutiao3.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 1254,
+                    "Scale9Height": 128,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -28.0,
+                      "Y": 630.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.023,
+                      "Y": 0.9286
+                    },
+                    "PreSize": {
+                      "X": 1.0467,
+                      "Y": 0.1885
+                    },
+                    "LeftMargin": -28.0,
+                    "RightMargin": -29.0,
+                    "TopMargin": -15.5,
+                    "BottomMargin": 566.5,
+                    "CallBackType": "Click",
+                    "Tag": 531,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/wanfa/img_youxiguize.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 179,
+                        "Scale9Height": 50,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 638.5,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.7031
+                        },
+                        "PreSize": {
+                          "X": 0.1402,
+                          "Y": 0.3906
+                        },
+                        "LeftMargin": 549.0,
+                        "RightMargin": 549.0,
+                        "TopMargin": 13.0,
+                        "BottomMargin": 65.0,
+                        "Tag": 532,
+                        "ActionTag": 1557308630,
+                        "Size": {
+                          "X": 179.0,
+                          "Y": 50.0
+                        },
+                        "Name": "Image_66",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1039184149,
+                    "Size": {
+                      "X": 1277.0,
+                      "Y": 128.0
+                    },
+                    "Name": "Image_65",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1322588463,
+                "Size": {
+                  "X": 1220.0,
+                  "Y": 679.0
+                },
+                "Name": "image_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_guanbi.png",
+                  "Plist": "GameHall/Resoures/new_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_guanbi.png",
+                  "Plist": "GameHall/Resoures/new_ui.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1246.1964,
+                  "Y": 684.98
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9736,
+                  "Y": 0.9514
+                },
+                "PreSize": {
+                  "X": 0.0609,
+                  "Y": 0.1083
+                },
+                "LeftMargin": 1207.1964,
+                "RightMargin": -5.1964,
+                "TopMargin": -3.98,
+                "BottomMargin": 645.98,
+                "CallBackType": "Click",
+                "Tag": 127,
+                "ActionTag": -504655231,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_back",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Maj/XueZhan/Resoures/large/btn_xiezhandaodi02.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Maj/XueZhan/Resoures/large/btn_xiezhandaodi02.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Maj/XueZhan/Resoures/large/btn_xiezhandaodi01.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 198,
+                "Scale9Height": 66,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -293.2483,
+                  "Y": 368.0163
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2291,
+                  "Y": 0.5111
+                },
+                "PreSize": {
+                  "X": 0.1781,
+                  "Y": 0.1222
+                },
+                "LeftMargin": -407.2483,
+                "RightMargin": 1459.2483,
+                "TopMargin": 307.9837,
+                "BottomMargin": 324.0163,
+                "Tag": 687,
+                "ActionTag": -1512255676,
+                "Size": {
+                  "X": 228.0,
+                  "Y": 88.0
+                },
+                "Name": "btn_game",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/wanfa/btn_shutiao.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 251,
+                "Scale9Height": 627,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 170.0,
+                  "Y": 322.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1328,
+                  "Y": 0.4472
+                },
+                "PreSize": {
+                  "X": 0.1961,
+                  "Y": 0.8708
+                },
+                "LeftMargin": 44.5,
+                "RightMargin": 984.5,
+                "TopMargin": 84.5,
+                "BottomMargin": 8.5,
+                "Tag": 534,
+                "Children": [
+                  {
+                    "ItemMargin": 5,
+                    "DirectionType": "Vertical",
+                    "HorizontalType": "Align_HorizontalCenter",
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 50.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0797
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.8963
+                    },
+                    "TopMargin": 15.0,
+                    "BottomMargin": 50.0,
+                    "Tag": 533,
+                    "ActionTag": -1138054719,
+                    "Size": {
+                      "X": 251.0,
+                      "Y": 562.0
+                    },
+                    "Name": "btn_ListView",
+                    "ctype": "ListViewObjectData"
+                  }
+                ],
+                "ActionTag": -90669729,
+                "Size": {
+                  "X": 251.0,
+                  "Y": 627.0
+                },
+                "Name": "Image_67",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 310.0,
+                  "Y": 73.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2422,
+                  "Y": 0.1014
+                },
+                "PreSize": {
+                  "X": 0.6641,
+                  "Y": 0.7222
+                },
+                "LeftMargin": 310.0,
+                "RightMargin": 120.0,
+                "TopMargin": 127.0,
+                "BottomMargin": 73.0,
+                "Tag": 326,
+                "ActionTag": -1959988754,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 520.0
+                },
+                "Name": "ScrollView_1",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1752249258,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Game/Maj/XueZhan/Resoures/large/btn_xiezhandaodi01.png",
+        "../Game/Maj/XueZhan/Resoures/large/btn_xiezhandaodi02.png",
+        "Resoures/new_ui.plist",
+        "Resoures/new_ui.png",
+        "Resoures/wanfa/btn_shutiao.png",
+        "Resoures/wanfa/btn_shutiao3.png",
+        "Resoures/wanfa/img_youxiguize.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

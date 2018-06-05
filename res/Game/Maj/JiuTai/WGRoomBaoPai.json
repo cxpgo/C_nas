@@ -1,0 +1,230 @@
+{
+  "ID": "fc1a9933-d81c-4ca9-bbc4-e691e4a5b4ea",
+  "Version": "2.3.3.0",
+  "Name": "WGRoomBaoPai",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 501,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 440,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/ChangChun/Resoures/room/baopaibg.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 70,
+                    "Scale9Height": 108,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 753.334,
+                      "Y": 393.3394
+                    },
+                    "Scale": {
+                      "ScaleX": 1.2,
+                      "ScaleY": 1.2
+                    },
+                    "RotationSkewY": -0.0015,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5885,
+                      "Y": 0.5463
+                    },
+                    "PreSize": {
+                      "X": 0.0547,
+                      "Y": 0.15
+                    },
+                    "LeftMargin": 718.334,
+                    "RightMargin": 491.666,
+                    "TopMargin": 272.6606,
+                    "BottomMargin": 339.3394,
+                    "Tag": 143,
+                    "Children": [
+                      {
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 34.7552,
+                          "Y": 58.001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4965,
+                          "Y": 0.537
+                        },
+                        "PreSize": {
+                          "X": 0.7143,
+                          "Y": 0.6481
+                        },
+                        "LeftMargin": 9.7552,
+                        "RightMargin": 10.2448,
+                        "TopMargin": 14.999,
+                        "BottomMargin": 23.001,
+                        "Tag": 94,
+                        "ActionTag": 945811600,
+                        "Size": {
+                          "X": 50.0,
+                          "Y": 70.0
+                        },
+                        "Name": "panel_baopai",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1871308927,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 108.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_baopai",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -903509019,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "panel_pub",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -501860773,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "@plugin@",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../ChangChun/Resoures/room/baopaibg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

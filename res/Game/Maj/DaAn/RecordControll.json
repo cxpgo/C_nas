@@ -1,0 +1,773 @@
+{
+  "ID": "3c5da0a9-d87c-49d0-9781-eb28c901e4a1",
+  "Version": "2.3.3.0",
+  "Name": "RecordControll",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 42,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 252,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 481.4128,
+                  "Y": 176.2534
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3761,
+                  "Y": 0.2448
+                },
+                "PreSize": {
+                  "X": 0.2156,
+                  "Y": 0.1528
+                },
+                "LeftMargin": 481.4128,
+                "RightMargin": 522.5872,
+                "TopMargin": 433.7466,
+                "BottomMargin": 176.2534,
+                "Tag": 253,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 32,
+                    "LabelText": "进度:999/999",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 138.0,
+                      "Y": 250.5267
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 2.2775
+                    },
+                    "PreSize": {
+                      "X": 1.0145,
+                      "Y": 0.3455
+                    },
+                    "LeftMargin": -2.0,
+                    "RightMargin": -2.0,
+                    "TopMargin": -159.5267,
+                    "BottomMargin": 231.5267,
+                    "Tag": 254,
+                    "ActionTag": -1761507875,
+                    "Size": {
+                      "X": 280.0,
+                      "Y": 38.0
+                    },
+                    "Name": "text_process",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hist_rec_play_bg.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 20,
+                    "Scale9OriginY": 23,
+                    "Scale9Width": 23,
+                    "Scale9Height": 26,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 138.0,
+                      "Y": 55.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.7273
+                    },
+                    "TopMargin": 15.0,
+                    "BottomMargin": 15.0,
+                    "Tag": 255,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "hist_rec_play_line.png",
+                          "Plist": "Game/Resoures/gameHistory.plist"
+                        },
+                        "Scale9Width": 2,
+                        "Scale9Height": 54,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 92.0,
+                          "Y": 40.4752
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3333,
+                          "Y": 0.5059
+                        },
+                        "PreSize": {
+                          "X": 0.0072,
+                          "Y": 0.675
+                        },
+                        "LeftMargin": 91.0,
+                        "RightMargin": 183.0,
+                        "TopMargin": 12.5248,
+                        "BottomMargin": 13.4752,
+                        "CallBackType": "Click",
+                        "Tag": 256,
+                        "ActionTag": -297799889,
+                        "Size": {
+                          "X": 2.0,
+                          "Y": 54.0
+                        },
+                        "Name": "Image_line_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "hist_rec_play_line.png",
+                          "Plist": "Game/Resoures/gameHistory.plist"
+                        },
+                        "Scale9Width": 2,
+                        "Scale9Height": 54,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 184.0001,
+                          "Y": 40.4752
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6667,
+                          "Y": 0.5059
+                        },
+                        "PreSize": {
+                          "X": 0.0072,
+                          "Y": 0.675
+                        },
+                        "LeftMargin": 183.0001,
+                        "RightMargin": 90.9999,
+                        "TopMargin": 12.5248,
+                        "BottomMargin": 13.4752,
+                        "CallBackType": "Click",
+                        "Tag": 257,
+                        "ActionTag": 6957272,
+                        "Size": {
+                          "X": 2.0,
+                          "Y": 54.0
+                        },
+                        "Name": "Image_line_2",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "hist_rec_play_line.png",
+                          "Plist": "Game/Resoures/gameHistory.plist"
+                        },
+                        "Scale9Width": 2,
+                        "Scale9Height": 54,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 276.0,
+                          "Y": 40.4752
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 1.0,
+                          "Y": 0.5059
+                        },
+                        "PreSize": {
+                          "X": 0.0072,
+                          "Y": 0.675
+                        },
+                        "LeftMargin": 275.0,
+                        "RightMargin": -1.0,
+                        "TopMargin": 12.5248,
+                        "BottomMargin": 13.4752,
+                        "CallBackType": "Click",
+                        "Tag": 258,
+                        "ActionTag": -191327983,
+                        "Size": {
+                          "X": 2.0,
+                          "Y": 54.0
+                        },
+                        "Name": "Image_line_1_0",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -642679621,
+                    "Size": {
+                      "X": 276.0,
+                      "Y": 80.0
+                    },
+                    "Name": "image_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hist_rec_play.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 13,
+                    "Scale9Height": 34,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 141.8466,
+                      "Y": 56.683
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5139,
+                      "Y": 0.5153
+                    },
+                    "PreSize": {
+                      "X": 0.1196,
+                      "Y": 0.5091
+                    },
+                    "LeftMargin": 125.3466,
+                    "RightMargin": 117.6534,
+                    "TopMargin": 25.317,
+                    "BottomMargin": 28.683,
+                    "Tag": 259,
+                    "ActionTag": -1236718340,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 56.0
+                    },
+                    "Name": "btn_play",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hist_rec_pause.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 13,
+                    "Scale9Height": 34,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 141.8452,
+                      "Y": 56.683
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5139,
+                      "Y": 0.5153
+                    },
+                    "PreSize": {
+                      "X": 0.1196,
+                      "Y": 0.5091
+                    },
+                    "LeftMargin": 125.3452,
+                    "RightMargin": 117.6548,
+                    "TopMargin": 25.317,
+                    "BottomMargin": 28.683,
+                    "Tag": 260,
+                    "ActionTag": 408484265,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 56.0
+                    },
+                    "Name": "btn_pause",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hist_rec_backward.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 17,
+                    "Scale9Height": 32,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.8446,
+                      "Y": 56.683
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1697,
+                      "Y": 0.5153
+                    },
+                    "PreSize": {
+                      "X": 0.163,
+                      "Y": 0.4909
+                    },
+                    "LeftMargin": 24.3446,
+                    "RightMargin": 206.6554,
+                    "TopMargin": 26.317,
+                    "BottomMargin": 29.683,
+                    "Tag": 261,
+                    "ActionTag": -2137854548,
+                    "Size": {
+                      "X": 45.0,
+                      "Y": 54.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_backward",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hist_rec_forward.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 17,
+                    "Scale9Height": 32,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 236.845,
+                      "Y": 56.683
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8581,
+                      "Y": 0.5153
+                    },
+                    "PreSize": {
+                      "X": 0.163,
+                      "Y": 0.4909
+                    },
+                    "LeftMargin": 214.345,
+                    "RightMargin": 16.655,
+                    "TopMargin": 26.317,
+                    "BottomMargin": 29.683,
+                    "Tag": 262,
+                    "ActionTag": -859469968,
+                    "Size": {
+                      "X": 45.0,
+                      "Y": 54.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_forward",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hist_rec_share2.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 13,
+                    "Scale9Height": 34,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 52.6135,
+                      "Y": 56.683
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1906,
+                      "Y": 0.5153
+                    },
+                    "PreSize": {
+                      "X": 0.1268,
+                      "Y": 0.5091
+                    },
+                    "LeftMargin": 35.1135,
+                    "RightMargin": 205.8865,
+                    "TopMargin": 25.317,
+                    "BottomMargin": 28.683,
+                    "Tag": 263,
+                    "ActionTag": -1629914339,
+                    "Size": {
+                      "X": 35.0,
+                      "Y": 56.0
+                    },
+                    "Name": "btn_share",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hist_rec_exit.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 13,
+                    "Scale9Height": 32,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 228.3741,
+                      "Y": 56.683
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8274,
+                      "Y": 0.5153
+                    },
+                    "PreSize": {
+                      "X": 0.1268,
+                      "Y": 0.4909
+                    },
+                    "LeftMargin": 210.8741,
+                    "RightMargin": 30.1259,
+                    "TopMargin": 26.317,
+                    "BottomMargin": 29.683,
+                    "Tag": 264,
+                    "ActionTag": -1990287177,
+                    "Size": {
+                      "X": 35.0,
+                      "Y": 54.0
+                    },
+                    "Name": "btn_exit",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1480598709,
+                "Size": {
+                  "X": 276.0,
+                  "Y": 110.0
+                },
+                "Name": "panel_control",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 865675518,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../font/jzy.TTF",
+        "../../Resoures/gameHistory.plist",
+        "../../Resoures/gameHistory.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

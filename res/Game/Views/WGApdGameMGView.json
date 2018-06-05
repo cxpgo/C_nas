@@ -1,0 +1,340 @@
+{
+  "ID": "1308d567-3753-4765-a7ca-63c72532b139",
+  "Version": "2.3.3.0",
+  "Name": "WGApdGameMGView",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 85,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -1.53,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": -0.0017,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.53,
+            "RightMargin": 1.53,
+            "Tag": 86,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Resoures/apdgameCr/img_tianjia.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 298,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 480.4716,
+                  "Y": 456.9283
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5339,
+                  "Y": 0.9139
+                },
+                "PreSize": {
+                  "X": 0.3311,
+                  "Y": 0.058
+                },
+                "LeftMargin": 331.4716,
+                "RightMargin": 270.5284,
+                "TopMargin": 28.5717,
+                "BottomMargin": 442.4283,
+                "Tag": 207,
+                "ActionTag": -318291094,
+                "Size": {
+                  "X": 298.0,
+                  "Y": 29.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ItemMargin": 20,
+                "DirectionType": "Vertical",
+                "HorizontalType": "Align_HorizontalCenter",
+                "ScrollDirectionType": 0,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.0688,
+                  "Y": 21.2445
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.029,
+                  "Y": 0.0425
+                },
+                "PreSize": {
+                  "X": 0.9556,
+                  "Y": 0.8
+                },
+                "LeftMargin": 26.0688,
+                "RightMargin": 13.9312,
+                "TopMargin": 78.7555,
+                "BottomMargin": 21.2445,
+                "Tag": 208,
+                "ActionTag": 1429745388,
+                "Size": {
+                  "X": 860.0,
+                  "Y": 400.0
+                },
+                "Name": "ListView",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": 2124358727,
+            "Size": {
+              "X": 900.0,
+              "Y": 500.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 37.1998,
+              "Y": 330.9012
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0413,
+              "Y": 0.6618
+            },
+            "PreSize": {
+              "X": 0.24,
+              "Y": 0.15
+            },
+            "LeftMargin": 37.1998,
+            "RightMargin": 646.8002,
+            "TopMargin": 94.0988,
+            "BottomMargin": 330.9012,
+            "Tag": 278,
+            "Children": [
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Resoures/apdgameCr/btn_xuanzhong_01.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Resoures/apdgameCr/btn_xuanzhong_02.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 108.0,
+                  "Y": 37.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 279,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "白山麻将",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 56.0,
+                      "Y": 36.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2593,
+                      "Y": 0.48
+                    },
+                    "PreSize": {
+                      "X": 1.0185,
+                      "Y": 0.48
+                    },
+                    "LeftMargin": 56.0,
+                    "RightMargin": -60.0,
+                    "TopMargin": 21.0,
+                    "BottomMargin": 18.0,
+                    "Tag": 280,
+                    "ActionTag": -41457138,
+                    "Size": {
+                      "X": 220.0,
+                      "Y": 36.0
+                    },
+                    "Name": "text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1306354532,
+                "Size": {
+                  "X": 216.0,
+                  "Y": 75.0
+                },
+                "Name": "checkbox",
+                "ctype": "CheckBoxObjectData"
+              }
+            ],
+            "ActionTag": 175918377,
+            "Size": {
+              "X": 216.0,
+              "Y": 75.0
+            },
+            "Name": "panel_item_clone",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 900.0,
+          "Y": 500.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../font/jzy.TTF",
+        "../Resoures/apdgameCr/btn_xuanzhong_01.png",
+        "../Resoures/apdgameCr/btn_xuanzhong_02.png",
+        "../Resoures/apdgameCr/img_tianjia.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

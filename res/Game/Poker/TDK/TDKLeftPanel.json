@@ -1,0 +1,748 @@
+{
+  "ID": "e07d180c-43c5-4102-a7b7-5952b460a032",
+  "Version": "2.3.3.0",
+  "Name": "TDKLeftPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "SingleColor": {
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0002,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.0002,
+            "RightMargin": -400.0002,
+            "TopMargin": -200.0,
+            "CallBackType": "Click",
+            "Tag": 239,
+            "Children": [
+              {
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 130.0002,
+                  "Y": 66.0002
+                },
+                "Scale": {
+                  "ScaleX": 0.55,
+                  "ScaleY": 0.55
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.325,
+                  "Y": 0.33
+                },
+                "PreSize": {
+                  "X": 0.35,
+                  "Y": 1.08
+                },
+                "LeftMargin": 130.0002,
+                "RightMargin": 129.9998,
+                "TopMargin": -82.0002,
+                "BottomMargin": 66.0002,
+                "Tag": 1561,
+                "ActionTag": 1328421661,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 216.0
+                },
+                "Name": "panel_cardIn",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_touxiangkuang.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 122,
+                "Scale9Height": 142,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1.7888,
+                  "Y": 53.7012
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0045,
+                  "Y": 0.2685
+                },
+                "PreSize": {
+                  "X": 0.305,
+                  "Y": 0.71
+                },
+                "LeftMargin": 1.7888,
+                "RightMargin": 276.2112,
+                "TopMargin": 4.2988,
+                "BottomMargin": 53.7012,
+                "Tag": 1705,
+                "ActionTag": -1371489624,
+                "Size": {
+                  "X": 122.0,
+                  "Y": 142.0
+                },
+                "Name": "panel_head",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 126.0806,
+                  "Y": 185.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3152,
+                  "Y": 0.925
+                },
+                "PreSize": {
+                  "X": 0.3,
+                  "Y": 0.2
+                },
+                "LeftMargin": 126.0806,
+                "RightMargin": 153.9194,
+                "TopMargin": -25.0,
+                "BottomMargin": 185.0,
+                "Tag": 81,
+                "Children": [
+                  {
+                    "FontSize": 28,
+                    "LabelText": "140",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.8712,
+                      "Y": 17.2133
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4323,
+                      "Y": 0.4303
+                    },
+                    "PreSize": {
+                      "X": 0.3583,
+                      "Y": 0.8
+                    },
+                    "LeftMargin": 8.8712,
+                    "RightMargin": 68.1288,
+                    "TopMargin": 6.7867,
+                    "BottomMargin": 1.2133,
+                    "Tag": 1563,
+                    "ActionTag": 86842057,
+                    "Size": {
+                      "X": 43.0,
+                      "Y": 32.0
+                    },
+                    "Name": "text_pour_score1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 28,
+                    "LabelText": "(-120)",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.7935,
+                      "Y": 17.2133
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4316,
+                      "Y": 0.4303
+                    },
+                    "PreSize": {
+                      "X": 0.6,
+                      "Y": 0.8
+                    },
+                    "LeftMargin": 51.7935,
+                    "RightMargin": -3.7935,
+                    "TopMargin": 6.7867,
+                    "BottomMargin": 1.2133,
+                    "Tag": 1565,
+                    "ActionTag": 1844728583,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 32.0
+                    },
+                    "Name": "text_pour_score2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/large/img_zuigaofen.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 87,
+                    "Scale9Height": 76,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 74.8594,
+                      "Y": 19.2134
+                    },
+                    "Scale": {
+                      "ScaleX": 0.4,
+                      "ScaleY": 0.4
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6238,
+                      "Y": 0.4803
+                    },
+                    "PreSize": {
+                      "X": 0.725,
+                      "Y": 1.9
+                    },
+                    "LeftMargin": 31.3594,
+                    "RightMargin": 1.6406,
+                    "TopMargin": -17.2134,
+                    "BottomMargin": -18.7866,
+                    "Tag": 58,
+                    "ActionTag": -694201081,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 76.0
+                    },
+                    "Name": "img_best",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 365845544,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 40.0
+                },
+                "Name": "panel_cardS",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/countd/img_daojishi.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 140,
+                "Scale9Height": 164,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 66.2106,
+                  "Y": 125.2989
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1655,
+                  "Y": 0.6265
+                },
+                "PreSize": {
+                  "X": 0.35,
+                  "Y": 0.82
+                },
+                "LeftMargin": -3.7894,
+                "RightMargin": 263.7894,
+                "TopMargin": -7.2989,
+                "BottomMargin": 43.2989,
+                "Tag": 26,
+                "ActionTag": 1407317803,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 164.0
+                },
+                "Name": "count_down",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_ok.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 79,
+                "Scale9Height": 49,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.1879,
+                  "Y": 124.2573
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4755,
+                  "Y": 0.6213
+                },
+                "PreSize": {
+                  "X": 0.1975,
+                  "Y": 0.245
+                },
+                "LeftMargin": 150.6879,
+                "RightMargin": 170.3121,
+                "TopMargin": 51.2427,
+                "BottomMargin": 99.7573,
+                "Tag": 1019,
+                "ActionTag": -1055865412,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 49.0
+                },
+                "Name": "img_ready",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_koule.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 116,
+                "Scale9Height": 47,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.09,
+                  "Y": 130.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5602,
+                  "Y": 0.65
+                },
+                "PreSize": {
+                  "X": 0.29,
+                  "Y": 0.235
+                },
+                "LeftMargin": 166.09,
+                "RightMargin": 117.91,
+                "TopMargin": 46.5,
+                "BottomMargin": 106.5,
+                "Tag": 537,
+                "ActionTag": 1848899416,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 47.0
+                },
+                "Name": "img_tips",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 169.1945,
+                  "Y": 33.0011
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.423,
+                  "Y": 0.165
+                },
+                "PreSize": {
+                  "X": 0.2925,
+                  "Y": 0.15
+                },
+                "LeftMargin": 169.1945,
+                "RightMargin": 113.8055,
+                "TopMargin": 136.9989,
+                "BottomMargin": 33.0011,
+                "Tag": 47,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/large/img_xiazhudi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 117,
+                    "Scale9Height": 30,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 58.5,
+                      "Y": 15.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 48,
+                    "ActionTag": -741446082,
+                    "Size": {
+                      "X": 117.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/large/img_jifenbiaozhi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 31,
+                    "Scale9Height": 31,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 9.6913,
+                      "Y": 15.9218
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0828,
+                      "Y": 0.5307
+                    },
+                    "PreSize": {
+                      "X": 0.265,
+                      "Y": 1.0333
+                    },
+                    "LeftMargin": -5.8087,
+                    "RightMargin": 91.8087,
+                    "TopMargin": -1.4218,
+                    "BottomMargin": 0.4218,
+                    "Tag": 49,
+                    "ActionTag": 957529836,
+                    "Size": {
+                      "X": 31.0,
+                      "Y": 31.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 40,
+                    "LabelText": "1000000",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 69.9183,
+                      "Y": 14.5374
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5976,
+                      "Y": 0.4846
+                    },
+                    "PreSize": {
+                      "X": 1.1966,
+                      "Y": 1.3333
+                    },
+                    "LeftMargin": -0.0817,
+                    "RightMargin": -22.9183,
+                    "TopMargin": -4.5374,
+                    "BottomMargin": -5.4626,
+                    "Tag": 50,
+                    "ActionTag": -1805190317,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 40.0
+                    },
+                    "Name": "txt_cp_v",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 433483594,
+                "Size": {
+                  "X": 117.0,
+                  "Y": 30.0
+                },
+                "Name": "panel_cp_pour",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "LabelText": "-100",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/HYDHJ.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 336.2256,
+                  "Y": 126.3687
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8406,
+                  "Y": 0.6318
+                },
+                "PreSize": {
+                  "X": 0.18,
+                  "Y": 0.23
+                },
+                "LeftMargin": 336.2256,
+                "RightMargin": -8.2256,
+                "TopMargin": 50.6313,
+                "BottomMargin": 103.3687,
+                "Tag": 228,
+                "ActionTag": 996533036,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 46.0
+                },
+                "Name": "text_result",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -334063629,
+            "Size": {
+              "X": 400.0,
+              "Y": 200.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../font/HYDHJ.fnt",
+        "../../../font/HYDHJ.png",
+        "../../../font/jzy.TTF",
+        "Resoures/countd/img_daojishi.png",
+        "Resoures/large/img_jifenbiaozhi.png",
+        "Resoures/large/img_koule.png",
+        "Resoures/large/img_ok.png",
+        "Resoures/large/img_touxiangkuang.png",
+        "Resoures/large/img_xiazhudi.png",
+        "Resoures/large/img_zuigaofen.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,410 @@
+{
+  "ID": "cd983ea0-5401-43ff-acd2-e735994d7715",
+  "Version": "2.3.3.0",
+  "Name": "GameXieyi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 51,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 53,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Resoures/create_room/btn_shutiao2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 103,
+                "Scale9OriginY": 224,
+                "Scale9Width": 108,
+                "Scale9Height": 231,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9438,
+                  "Y": 0.9431
+                },
+                "LeftMargin": 36.0,
+                "RightMargin": 36.0,
+                "TopMargin": 20.5,
+                "BottomMargin": 20.5,
+                "Tag": 54,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Resoures/create_room/btn_shutiao3.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 1254,
+                    "Scale9Height": 128,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 604.0,
+                      "Y": 626.11
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9221
+                    },
+                    "PreSize": {
+                      "X": 1.0381,
+                      "Y": 0.1885
+                    },
+                    "LeftMargin": -23.0,
+                    "RightMargin": -23.0,
+                    "TopMargin": -11.11,
+                    "BottomMargin": 562.11,
+                    "Tag": 1683,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_yonghuxieyi.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 183,
+                        "Scale9Height": 47,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 627.0,
+                          "Y": 90.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.7031
+                        },
+                        "PreSize": {
+                          "X": 0.1459,
+                          "Y": 0.3672
+                        },
+                        "LeftMargin": 535.5,
+                        "RightMargin": 535.5,
+                        "TopMargin": 14.5,
+                        "BottomMargin": 66.5,
+                        "Tag": 1682,
+                        "ActionTag": -1455653653,
+                        "Size": {
+                          "X": 183.0,
+                          "Y": 47.0
+                        },
+                        "Name": "Image_2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -401959823,
+                    "Size": {
+                      "X": 1254.0,
+                      "Y": 128.0
+                    },
+                    "Name": "Image_3",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1322588463,
+                "Size": {
+                  "X": 1208.0,
+                  "Y": 679.0
+                },
+                "Name": "image_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "HorizontalType": "Align_HorizontalCenter",
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 42.99,
+                  "Y": 54.2997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0336,
+                  "Y": 0.0754
+                },
+                "PreSize": {
+                  "X": 0.9375,
+                  "Y": 0.7986
+                },
+                "LeftMargin": 42.99,
+                "RightMargin": 37.01,
+                "TopMargin": 90.7003,
+                "BottomMargin": 54.2997,
+                "Tag": 1684,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "                                                                    晓蚁网络-用户服务协议\n \n晓蚁网络-在此特别提醒用户认真阅读《晓蚁网络-用户服务协议》,本协议是用户与晓蚁网络-及其运营合作单位之间关于用户下载、安装、使用、复制\"晓蚁网络-\"软件,注册、使用、管理晓蚁网络-账号所订立的协议。除非您接受本《协议》条款，否则您无权下载、安装或使用本软件及其相关服务。您的安装使用行为将视为对本《协议》的接受，并同意接受本《协议》各项条款的约束。\n1.晓蚁网络-的服务 \n    1.1　晓蚁网络-的服务由晓蚁网络-根据实际情况提供，包括但不限于线上游戏及其他增值服务等。\n    1.2　晓蚁网络-拥有向用户提供服务过程中所产生并存储于晓蚁网络-游戏系统中的任何数据（包括但不限于账号、钻石、积分、级别等游戏数据）的所有权。\n    1.3　晓蚁网络-仅提供相关的网络服务,除此之外与相关网络服务有关的上网设备(如电脑、调制解调器及其他互联网接入装置)及所需的费用（如为接入互联网而支付的电话费、上网费）均由用户自行负担。 \n\n2.用户使用需知 \n    2.1　用户承诺按照晓蚁网络-的要求提供准确、真实、完整的个人注册信息。 \n    2.2　用户可以选择晓蚁网络-的保护服务以保障账号安全。用户选择保护服务时应按照要求填写身份证、护照等证件的号码，作为晓蚁网络-判断账号使用权归属的最终依据。 \n    2.3　个人资料发生变更，如用户延迟更新个人注册信息导致影响晓蚁网络-对该用户提供服务，则由此产生的全部责任均由用户承担。 \n    2.4  晓蚁网络-账号使用权仅属初始申请注册人，禁止转让、售卖。如果晓蚁网络-账号现使用者并非账号初始注册人，晓蚁网络-有权回收该帐号。晓蚁网络-禁止用户私下有偿或无偿转让账号，以免因账号问题产生纠纷，用户因违反此要求遭致的任何损失由用户自行承担。\n    2.5  使用\"晓蚁网络-软件\"必须遵守国家有关法律和政策等，维护国家利益，保护国家安全，并遵守本协议，对于用户违法或违反本协议的使用而引起的一切责任，由用户负全部责任，一概与晓蚁网络-及合作单位无关。导致晓蚁网络-及合作单位损失的，晓蚁网络-及合作单位有权要求用户赔偿，并有权立即停止向其提供服务，保留相关记录，保留配合司法机关追究法律责任的权利。\n    2.6  晓蚁网络-将会采取合理的措施保护用户的信息资源，除法律或政府要求或用户同意等原因外，晓蚁网络-未经用户同意不向除合作单位以外的第三方公开、透露用户信息资源。但是用户在注册时选择或同意，或用户与晓蚁网络-及合作单位之间就用户信息资源公开或使用另有约定的除外，同时用户应自行承担因此可能产生的任何风险，晓蚁网络-对此不予负责。\n    2.7  晓蚁网络-有权调整其服务的收费标准，并保留对提供给用户的免费服务项目收取相应费用的权利，如用户拒绝按收费标准交费，则晓蚁网络-不再提供相应的服务。 \n\n3.用户账号密码的安全性 \n    3.1　用户应维持账号密码的安全，妥善保管，谨防被盗或泄露，不应将账号出借或者转让他人使用，并对任何人利用其账号所进行的活动负完全的责任。本服务条款所指密码，包含平台的帐号登录密码、银行密码及其他二级密码。 \n    3.2　因非晓蚁网络-原因导致账号密码丢失或被盗以及造成其他损失，均由用户自行承担损失。用户发现其账号被他人非法使用，应立即通知晓蚁网络-，并根据晓蚁网络-的要求提交其拥有该账号使用权的证明及其他材料。晓蚁网络-有权封存该账号以保障用户的权利。 \n    3.3　用户可以更改账号的密码，也可以申请新账号，但不可以要求删除旧账号。 \n    3.4　用户向晓蚁网络-查询、修改或重置其账号密码时，必须提供完全准确的个人注册信息（包括注册时间），否则晓蚁网络-有权本着为用户保密的原则不予受理服务。 \n    3.5  如用户注册后三个月内或者连续六个月没有进行账号登录，晓蚁网络-有权收回和处分该账号的使用权；对于该账号上附随的游戏数据、虚拟财产以及其他晓蚁网络-产品和服务等，晓蚁网络-不承担返还、退费、赔偿或补偿等任何形式的责任。上述游戏数据、虚拟财产以及其他产品和服务包括但不限于游戏银子、金子、比赛币等。 \n\n4.法律责任与免责\n    4.1  用户违反本协议或相关服务条款的规定，导致或产生的任何第三方主张的索赔、要求或损失，包括合理的律师费，由用户赔偿晓蚁网络-与合作公司、关联公司，并使之免受损害。对此，晓蚁网络-有权视用户的行为性质，采取包括但不限于中断使用许可、停止提供服务、限制使用、回收用户晓蚁网络-账号、法律追究等措施。对利用晓蚁网络-账号进行违法活动、捣乱、骚扰、欺骗其他用户等行为，晓蚁网络-有权回收其账号。同时，晓蚁网络-有权配合司法部门协助调查。\n    4.2  使用\"晓蚁网络-客户端软件\"由用户自行承担风险，晓蚁网络-及合作单位对本\"软件\"不作任何类型的担保，不论是明示的、默示的或法令的保证和条件，对在任何情况下因使用或不能使用本\"软件\"所产生的直接、间接、偶然、特殊及后续的损害及风险，晓蚁网络-及合作单位不承担任何责任。\n    4.3  使用\"晓蚁网络-客户端软件\"涉及到互联网服务，可能会受到各个环节不稳定因素的影响，存在因不可抗力、计算机病毒、黑客攻击、系统不稳定、用户所在位置、用户关机以及其他任何网络、技术、通信线路等原因造成的服务中断或不能满足用户要求的风险，用户须充分认识并自行承担以上风险，用户因此不能正常使用服务的，晓蚁网络-及合作单位不承担任何责任。 \n\n5.服务条款的修改或补充 \n    晓蚁网络-保留随时修改或补充本服务条款的权利，修改或补充本服务条款时，晓蚁网络-将以公告的方式通知用户，而不另对用户进行个别通知。若用户不同意修改或补充的内容，可停止使用晓蚁网络-的服务，晓蚁网络-不承担返还、退费、赔偿或者补偿等任何形式的责任。若用户继续使用晓蚁网络-的服务，即视为用户已接受晓蚁网络-所修改或补充的内容。 \n\n6.服务的变更、中断或终止 \n    用户原因导致服务中断、终止，晓蚁网络-不承担退费、补偿等责任；晓蚁网络-有权以事前或事后通知的方式变更、中断或终止部分或全部服务，因此造成用户或第三方损失的，晓蚁网络-不承担退费、赔偿或者补偿等任何形式的责任。 \n\n7.损害赔偿 \n    用户若违反本服务条款或晓蚁网络-相关规定，导致晓蚁网络-、合作单位或其他用户因此而受到损害（包括但不限于由法律诉讼、行政程序等所支出的诉讼费用、律师费用、实际遭受损失的费用等），用户应负担损害赔偿责任。 \n\n8.用户纠纷处理机制 \n    8.1　用户就账号等游戏数据的使用权归属等存在争议，可以通过晓蚁网络-网站提供的客服渠道进行处理。 \n    8.2　用户须按照晓蚁网络-处理各类事务的要求、流程，对自己的主张提供相应的材料予以证明。如用户不能提供充分材料证明其主张成立，因此受到损失的，则由用户独立承担全部责任。 \n    8.3　用户证明其会员资格时，应根据晓蚁网络-的要求提供身份证件以及其他资料。如因用户无法证明其会员资格影响晓蚁网络-为其提供服务，则由该用户承担全部责任。 \n    8.4　用户同意以晓蚁网络-系统所记载的数据作为处理用户之间或用户与晓蚁网络-之间纠纷的判断标准。 \n    8.5　用户自行承担其因处理此类纠纷而产生之通讯费、邮寄费、交通费等一切费用。 \n\n9.法律管辖 \n    本服务条款以及晓蚁网络-相关规定的订立、执行和解释及争议的解决均适用中华人民共和国法律、行政法规有关规定。如发生服务条款与法律条款有相抵触的内容，以法律条款为准。 \n     \n10.通知和送达 \n    10.1 晓蚁网络-通过网站、论坛、通告栏、系统信息等发布公告为主要通知方式，自公告发布之日起即为送达。因用户原因没有及时看到通知而产生的损害，晓蚁网络-对此不承担任何责任。 \n    10.2 在个别情况下会通过登录提示、电子邮件、常规信件或电话等方式通知，但晓蚁网络-没有以此方式进行个别通知的义务。 \n     \n11.其他规定 \n    11.1 晓蚁网络-相关规定与用户服务条款具有同等效力，共同构成对本服务之约定事项及其他有关事宜的完整协议，用户应一并遵守。 \n    11.2 如本服务条款中的任何条款完全或部分无效，本服务条款的其余条款仍有效且具有约束力。 \n    11.3 本服务条款的最终解释权归晓蚁网络-所有。\n\n\n\n\n\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 25.0,
+                      "Y": 2700.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0208,
+                      "Y": 1.0
+                    },
+                    "PreSize": {
+                      "X": 0.9583,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 25.0,
+                    "RightMargin": 25.0,
+                    "Tag": 1549,
+                    "ActionTag": -1297705320,
+                    "Size": {
+                      "X": 1150.0,
+                      "Y": 2700.0
+                    },
+                    "Name": "Image_content",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -535580324,
+                "Size": {
+                  "X": 1200.0,
+                  "Y": 575.0
+                },
+                "Name": "msg_view",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": 1752249258,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_guanbi.png",
+              "Plist": "GameHall/Resoures/new_ui.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_guanbi.png",
+              "Plist": "GameHall/Resoures/new_ui.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 48,
+            "Scale9Height": 56,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1241.856,
+              "Y": 681.919
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.9702,
+              "Y": 0.9471
+            },
+            "PreSize": {
+              "X": 0.0609,
+              "Y": 0.1083
+            },
+            "LeftMargin": 1202.856,
+            "RightMargin": -0.856,
+            "TopMargin": -0.919,
+            "BottomMargin": 642.919,
+            "CallBackType": "Click",
+            "Tag": 127,
+            "ActionTag": -504655231,
+            "Size": {
+              "X": 78.0,
+              "Y": 78.0
+            },
+            "Name": "btn_back",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/jzy.TTF",
+        "../Game/Resoures/create_room/btn_shutiao2.png",
+        "../Game/Resoures/create_room/btn_shutiao3.png",
+        "Resoures/new_ui.plist",
+        "Resoures/new_ui.png",
+        "Resoures/secondaryMenu/img_yonghuxieyi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,250 @@
+{
+  "ID": "7ee1094b-1c7d-42c3-997c-ed586b4acc84",
+  "Version": "2.3.3.0",
+  "Name": "SYHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 161,
+        "Children": [
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "CallBackType": "Click",
+            "Tag": 319,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "[基础规则]-------------",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.5,
+                  "Y": 1361.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 183,
+                  "G": 36,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2029,
+                  "Y": 0.9891
+                },
+                "PreSize": {
+                  "X": 0.4059,
+                  "Y": 0.0218
+                },
+                "RightMargin": 505.0,
+                "BottomMargin": 1346.0,
+                "Tag": 320,
+                "ActionTag": -697891929,
+                "Size": {
+                  "X": 345.0,
+                  "Y": 30.0
+                },
+                "Name": "content0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "【总张数】\n 麻将总张数为112张除万、饼、条外 只有四张红中\n\n胡牌条件：\n1：最少有两门，不能清一色\n2：不能缺1和9，红中顶1/9\n3：必须开门，暗杠不算开门\n4：需要报听\n5：摸宝：听牌后摸到宝算胡牌\n\n玩法：\n1：点炮包三家：勾选了此选项，没听牌放炮的玩家，一赔三，听牌了就正常\n2：三七夹：勾选了此选项，则1,2胡3,9，8胡7算夹\n3：四清：勾选了这个选项，可以立门胡\n4：快宝：勾选了这个选项，上听后当圈就打宝\n5：砍对宝：勾选了这个选项，上听后，手里有个叉是宝就可以直接胡\n6：杠上开花：勾选了此选项，杠上开花加一番\n7：七对：勾选了此选项，可以胡七对\n\n流局：\n最后四张分张，不打出去！ 杠分正常结算\n\n积分算法：\n平胡：1分\n夹胡：2分(胡一张为夹胡，单调不算夹胡)\n飘胡：8分\n7对：8分\n\n\n庄家：庄家不管输赢 都1番\n点炮：1番\n自摸：1番\n摸宝：1番\n杠上开花：1番\n对宝：1番\n门清：1番（立门胡，勾选了四清时）\n三家清：1番\n夹五胡：1番（当胡夹并且是胡的是五时，为夹五）\n三清夹五：1番（三家门清并且正好胡夹五，在三家清，夹五胡的基础上额外加1番）",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.0,
+                  "Y": 794.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 90,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.577
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.8023
+                },
+                "TopMargin": 30.0,
+                "BottomMargin": 242.0,
+                "Tag": 321,
+                "ActionTag": -1916272478,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 1104.0
+                },
+                "Name": "content1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "杠分：\n明杠+2分，暗杠+4分\n\n特殊规则：7小对5对算开门\n1.\t赢家胡7小对算开门\n2.\t输家未上听时，手里有5对或者6对时，算开门\n3.\t输家七小对上听时，算开门\n4.\t其它情况均不算开门",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.0,
+                  "Y": 121.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 90,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0879
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1759
+                },
+                "TopMargin": 1134.0,
+                "Tag": 322,
+                "ActionTag": -598189208,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 242.0
+                },
+                "Name": "content2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1459752909,
+            "Size": {
+              "X": 850.0,
+              "Y": 520.0
+            },
+            "Name": "panel_root",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 850.0,
+          "Y": 520.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/jzy.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

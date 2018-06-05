@@ -1,0 +1,448 @@
+{
+  "ID": "fe2c2477-bdb7-48e4-a068-7f6f8941cc53",
+  "Version": "2.3.3.0",
+  "Name": "SetupPlugInScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 200.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "CallBackType": "Click",
+            "Tag": 239,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/zhuomian.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 69,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 72.01,
+                  "Y": 100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0938,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0898,
+                  "Y": 0.145
+                },
+                "LeftMargin": 37.51,
+                "RightMargin": 661.49,
+                "TopMargin": 85.5,
+                "BottomMargin": 85.5,
+                "Tag": 731,
+                "ActionTag": 162298056,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 29.0
+                },
+                "Name": "image_game",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/btn_jingdian2d1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/btn_jingdian2d.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 197,
+                "Scale9Height": 135,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 245.3147,
+                  "Y": 98.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3194,
+                  "Y": 0.494
+                },
+                "PreSize": {
+                  "X": 0.2969,
+                  "Y": 0.785
+                },
+                "LeftMargin": 131.3147,
+                "RightMargin": 408.6853,
+                "TopMargin": 22.7,
+                "BottomMargin": 20.3,
+                "Tag": 732,
+                "ActionTag": 1108812835,
+                "Size": {
+                  "X": 228.0,
+                  "Y": 157.0
+                },
+                "Name": "btn_2D",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/btn_jingdian3d2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/btn_jingdian3d.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 197,
+                "Scale9Height": 135,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 533.7387,
+                  "Y": 98.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.695,
+                  "Y": 0.494
+                },
+                "PreSize": {
+                  "X": 0.2969,
+                  "Y": 0.785
+                },
+                "LeftMargin": 419.7387,
+                "RightMargin": 120.2613,
+                "TopMargin": 22.7,
+                "BottomMargin": 20.3,
+                "Tag": 733,
+                "ActionTag": -371210205,
+                "Size": {
+                  "X": 228.0,
+                  "Y": 157.0
+                },
+                "Name": "btn_3D",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/img_xuanzhong.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 82,
+                "Scale9OriginY": 59,
+                "Scale9Width": 87,
+                "Scale9Height": 61,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 244.3123,
+                  "Y": 100.7972
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3181,
+                  "Y": 0.504
+                },
+                "PreSize": {
+                  "X": 0.3268,
+                  "Y": 0.895
+                },
+                "LeftMargin": 118.8123,
+                "RightMargin": 398.1877,
+                "TopMargin": 9.7028,
+                "BottomMargin": 11.2972,
+                "Tag": 734,
+                "ActionTag": -2132265741,
+                "Size": {
+                  "X": 251.0,
+                  "Y": 179.0
+                },
+                "Name": "img_2D",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/img_xuanzhong.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 251,
+                "Scale9Height": 179,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 533.2634,
+                  "Y": 100.7972
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6944,
+                  "Y": 0.504
+                },
+                "PreSize": {
+                  "X": 0.3268,
+                  "Y": 0.895
+                },
+                "LeftMargin": 407.7634,
+                "RightMargin": 109.2366,
+                "TopMargin": 9.7028,
+                "BottomMargin": 11.2972,
+                "CallBackType": "Touch",
+                "Tag": 735,
+                "ActionTag": -1416580908,
+                "Size": {
+                  "X": 251.0,
+                  "Y": 179.0
+                },
+                "Name": "img_3D",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/img_shiyongzhong.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 134,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 232.0467,
+                  "Y": 98.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3021,
+                  "Y": 0.494
+                },
+                "PreSize": {
+                  "X": 0.1745,
+                  "Y": 0.16
+                },
+                "LeftMargin": 165.0467,
+                "RightMargin": 468.9533,
+                "TopMargin": 85.2,
+                "BottomMargin": 82.8,
+                "Tag": 736,
+                "ActionTag": 1612707476,
+                "Size": {
+                  "X": 134.0,
+                  "Y": 32.0
+                },
+                "Name": "img_use2D",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/setting/img_shiyongzhong.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 134,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 534.0463,
+                  "Y": 98.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6954,
+                  "Y": 0.494
+                },
+                "PreSize": {
+                  "X": 0.1745,
+                  "Y": 0.16
+                },
+                "LeftMargin": 467.0463,
+                "RightMargin": 166.9537,
+                "TopMargin": 85.2,
+                "BottomMargin": 82.8,
+                "Tag": 737,
+                "ActionTag": -1894236376,
+                "Size": {
+                  "X": 134.0,
+                  "Y": 32.0
+                },
+                "Name": "img_use3D",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -334063629,
+            "Size": {
+              "X": 768.0,
+              "Y": 200.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 200.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../GameHall/Resoures/setting/btn_jingdian2d.png",
+        "../../GameHall/Resoures/setting/btn_jingdian2d1.png",
+        "../../GameHall/Resoures/setting/btn_jingdian3d.png",
+        "../../GameHall/Resoures/setting/btn_jingdian3d2.png",
+        "../../GameHall/Resoures/setting/img_shiyongzhong.png",
+        "../../GameHall/Resoures/setting/img_xuanzhong.png",
+        "../../GameHall/Resoures/setting/zhuomian.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

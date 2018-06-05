@@ -1,0 +1,454 @@
+{
+  "ID": "3a31e845-1784-44bf-8a92-9b4f284be54f",
+  "Version": "2.3.3.0",
+  "Name": "PDKRightPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 880.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6875,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 1.0
+            },
+            "LeftMargin": 880.0,
+            "Tag": 40,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "player_yaobuqi.png",
+                  "Plist": "Game/Poker/DDZ/Resoures/pdkTable.plist"
+                },
+                "Scale9Width": 134,
+                "Scale9Height": 56,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 530.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.125,
+                  "Y": 0.7361
+                },
+                "PreSize": {
+                  "X": 0.335,
+                  "Y": 0.0778
+                },
+                "LeftMargin": -17.0,
+                "RightMargin": 283.0,
+                "TopMargin": 162.0,
+                "BottomMargin": 502.0,
+                "Tag": 49,
+                "ActionTag": 1064743855,
+                "Size": {
+                  "X": 134.0,
+                  "Y": 56.0
+                },
+                "VisibleForFrame": false,
+                "Name": "Image_tip",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 320.0,
+                  "Y": 390.0
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8,
+                  "Y": 0.5417
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 320.0,
+                "RightMargin": 80.0,
+                "TopMargin": 330.0,
+                "BottomMargin": 390.0,
+                "Tag": 220,
+                "ActionTag": -408143569,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "panel_cardIn",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 153.71,
+                  "Y": 420.0
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.3843,
+                  "Y": 0.5833
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 153.71,
+                "RightMargin": 246.29,
+                "TopMargin": 300.0,
+                "BottomMargin": 420.0,
+                "Tag": 211,
+                "ActionTag": -2138081662,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "panel_card_show",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 50.0,
+                  "Y": 470.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.125,
+                  "Y": 0.6528
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 50.0,
+                "RightMargin": 350.0,
+                "TopMargin": 250.0,
+                "BottomMargin": 470.0,
+                "Tag": 251,
+                "ActionTag": 1488651678,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "panel_cardOut",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "LabelText": "17",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/font/blb_b.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 187.71,
+                  "Y": 475.06
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4693,
+                  "Y": 0.6598
+                },
+                "PreSize": {
+                  "X": 0.1275,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 162.21,
+                "RightMargin": 186.79,
+                "TopMargin": 215.94,
+                "BottomMargin": 446.06,
+                "Tag": 210,
+                "ActionTag": -1765766820,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 58.0
+                },
+                "Name": "txt_cardNum",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1355038170,
+            "Size": {
+              "X": 400.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1140.0,
+              "Y": 400.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8906,
+              "Y": 0.5556
+            },
+            "PreSize": {
+              "X": 0.0797,
+              "Y": 0.1736
+            },
+            "LeftMargin": 1140.0,
+            "RightMargin": 38.0,
+            "TopMargin": 195.0,
+            "BottomMargin": 400.0,
+            "Tag": 311,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "head3.png",
+                  "Plist": "Game/Poker/DDZ/Resoures/pdkTable.plist"
+                },
+                "Scale9Width": 102,
+                "Scale9Height": 125,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 51.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.48
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "TopMargin": 2.5,
+                "BottomMargin": -2.5,
+                "Tag": 312,
+                "ActionTag": 1485584454,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 125.0
+                },
+                "Name": "image_frame",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/image/btn_daojishi.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 83,
+                "Scale9Height": 92,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -48.66,
+                  "Y": 200.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.4771,
+                  "Y": 1.6
+                },
+                "PreSize": {
+                  "X": 0.8137,
+                  "Y": 0.736
+                },
+                "LeftMargin": -90.16,
+                "RightMargin": 109.16,
+                "TopMargin": -121.0,
+                "BottomMargin": 154.0,
+                "Tag": 313,
+                "Children": [
+                  {
+                    "CharWidth": 26,
+                    "CharHeight": 32,
+                    "LabelText": "9",
+                    "StartChar": "0",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/font/img_shuzi03.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 43.8165,
+                      "Y": 40.7312
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5279,
+                      "Y": 0.4427
+                    },
+                    "PreSize": {
+                      "X": 0.3133,
+                      "Y": 0.3478
+                    },
+                    "LeftMargin": 30.8165,
+                    "RightMargin": 26.1835,
+                    "TopMargin": 35.2688,
+                    "BottomMargin": 24.7312,
+                    "Tag": 314,
+                    "ActionTag": 2123225465,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 32.0
+                    },
+                    "Name": "text_time",
+                    "ctype": "TextAtlasObjectData"
+                  }
+                ],
+                "ActionTag": -786362194,
+                "Size": {
+                  "X": 83.0,
+                  "Y": 92.0
+                },
+                "Name": "image0",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1869002104,
+            "Size": {
+              "X": 102.0,
+              "Y": 125.0
+            },
+            "Name": "panel_head",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../DDZ/Resoures/font/blb_b.fnt",
+        "../DDZ/Resoures/font/blb_b.png",
+        "../DDZ/Resoures/font/img_shuzi03.png",
+        "../DDZ/Resoures/image/btn_daojishi.png",
+        "../DDZ/Resoures/pdkTable.plist",
+        "../DDZ/Resoures/pdkTable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

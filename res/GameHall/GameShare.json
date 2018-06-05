@@ -1,0 +1,660 @@
+{
+  "ID": "d14e6194-b626-4258-98d1-dcb8bd0eb5ec",
+  "Version": "2.3.3.0",
+  "Name": "GameShare",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 69,
+        "Children": [
+          {
+            "BackColorAlpha": 127,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 70,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_shurukuang2.png",
+                  "Plist": "GameHall/Resoures/new_ui.plist"
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 43,
+                "Scale9OriginY": 123,
+                "Scale9Width": 47,
+                "Scale9Height": 128,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4641,
+                  "Y": 0.5194
+                },
+                "LeftMargin": 343.0,
+                "RightMargin": 343.0,
+                "TopMargin": 173.0,
+                "BottomMargin": 173.0,
+                "Tag": 72,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "img_hengtiao.png",
+                      "Plist": "GameHall/Resoures/new_ui.plist"
+                    },
+                    "Scale9Width": 662,
+                    "Scale9Height": 129,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 297.0,
+                      "Y": 336.1214
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8987
+                    },
+                    "PreSize": {
+                      "X": 1.1145,
+                      "Y": 0.3449
+                    },
+                    "LeftMargin": -34.0,
+                    "RightMargin": -34.0,
+                    "TopMargin": -26.6214,
+                    "BottomMargin": 271.6214,
+                    "Tag": 1029,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/secondaryMenu/img_fenxiangsongzhuan.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 183,
+                        "Scale9Height": 51,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 331.0,
+                          "Y": 91.72
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.711
+                        },
+                        "PreSize": {
+                          "X": 0.2719,
+                          "Y": 0.3876
+                        },
+                        "LeftMargin": 241.0,
+                        "RightMargin": 241.0,
+                        "TopMargin": 12.28,
+                        "BottomMargin": 66.72,
+                        "Tag": 1030,
+                        "ActionTag": 1217094894,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 50.0
+                        },
+                        "Name": "Image_12",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1824214658,
+                    "Size": {
+                      "X": 662.0,
+                      "Y": 129.0
+                    },
+                    "Name": "Image_11",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_haoyoufengxiang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 271,
+                    "Scale9Height": 53,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 175.2068,
+                      "Y": 121.8128
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.295,
+                      "Y": 0.3257
+                    },
+                    "PreSize": {
+                      "X": 0.4562,
+                      "Y": 0.1417
+                    },
+                    "LeftMargin": 39.7068,
+                    "RightMargin": 283.2932,
+                    "TopMargin": 225.6872,
+                    "BottomMargin": 95.3128,
+                    "Tag": 1001,
+                    "ActionTag": 687373065,
+                    "Size": {
+                      "X": 271.0,
+                      "Y": 53.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_weixin.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_weixin.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_weixin.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 98,
+                    "Scale9Height": 109,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 171.4284,
+                      "Y": 226.0011
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2886,
+                      "Y": 0.6043
+                    },
+                    "PreSize": {
+                      "X": 0.2155,
+                      "Y": 0.3503
+                    },
+                    "LeftMargin": 107.4284,
+                    "RightMargin": 358.5716,
+                    "TopMargin": 82.4989,
+                    "BottomMargin": 160.5011,
+                    "Tag": 75,
+                    "ActionTag": -1633543109,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 131.0
+                    },
+                    "Name": "btn_friendgrounps",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_pengyouquanfenxiang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 271,
+                    "Scale9Height": 53,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 426.0466,
+                      "Y": 121.8128
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7173,
+                      "Y": 0.3257
+                    },
+                    "PreSize": {
+                      "X": 0.4562,
+                      "Y": 0.1417
+                    },
+                    "LeftMargin": 290.5466,
+                    "RightMargin": 32.4534,
+                    "TopMargin": 225.6872,
+                    "BottomMargin": 95.3128,
+                    "Tag": 1002,
+                    "ActionTag": 1883383996,
+                    "Size": {
+                      "X": 271.0,
+                      "Y": 53.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_pengyouquan.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_pengyouquan.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_pengyouquan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 98,
+                    "Scale9Height": 109,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 420.849,
+                      "Y": 226.0011
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7085,
+                      "Y": 0.6043
+                    },
+                    "PreSize": {
+                      "X": 0.2155,
+                      "Y": 0.3503
+                    },
+                    "LeftMargin": 356.849,
+                    "RightMargin": 109.151,
+                    "TopMargin": 82.4989,
+                    "BottomMargin": 160.5011,
+                    "Tag": 76,
+                    "ActionTag": -1277128574,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 131.0
+                    },
+                    "Name": "btn_friendmoments",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "每天首次分享朋友圈可获得 10 钻石和1000金币奖励哦！",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 297.0,
+                      "Y": 36.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 126,
+                      "G": 68,
+                      "B": 29
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0963
+                    },
+                    "PreSize": {
+                      "X": 0.9613,
+                      "Y": 0.0722
+                    },
+                    "LeftMargin": 11.5,
+                    "RightMargin": 11.5,
+                    "TopMargin": 324.5,
+                    "BottomMargin": 22.5,
+                    "Tag": 254,
+                    "ActionTag": 1876887106,
+                    "Size": {
+                      "X": 571.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Common/texture/hall_freeDia.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 89,
+                    "Scale9Height": 88,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 486.5046,
+                      "Y": 269.0082
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.819,
+                      "Y": 0.7193
+                    },
+                    "PreSize": {
+                      "X": 0.1498,
+                      "Y": 0.2353
+                    },
+                    "LeftMargin": 442.0046,
+                    "RightMargin": 62.9954,
+                    "TopMargin": 60.9918,
+                    "BottomMargin": 225.0082,
+                    "Tag": 252,
+                    "ActionTag": 126011184,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 88.0
+                    },
+                    "Name": "img_award1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_guanbi.png",
+                      "Plist": "GameHall/Resoures/new_ui.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_guanbi.png",
+                      "Plist": "GameHall/Resoures/new_ui.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_guanbi.png",
+                      "Plist": "GameHall/Resoures/new_ui.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 48,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 603.3258,
+                      "Y": 386.7872
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 1.0157,
+                      "Y": 1.0342
+                    },
+                    "PreSize": {
+                      "X": 0.1313,
+                      "Y": 0.2086
+                    },
+                    "LeftMargin": 564.3258,
+                    "RightMargin": -48.3258,
+                    "TopMargin": -51.7872,
+                    "BottomMargin": 347.7872,
+                    "Tag": 3884,
+                    "ActionTag": -360437770,
+                    "Size": {
+                      "X": 78.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 765244096,
+                "Size": {
+                  "X": 594.0,
+                  "Y": 374.0
+                },
+                "Name": "panel_2",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1314568043,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Common/texture/hall_freeDia.png",
+        "../font/jzy.TTF",
+        "Resoures/new_ui.plist",
+        "Resoures/new_ui.png",
+        "Resoures/secondaryMenu/img_fenxiangsongzhuan.png",
+        "Resoures/secondaryMenu/img_haoyoufengxiang.png",
+        "Resoures/secondaryMenu/img_pengyouquan.png",
+        "Resoures/secondaryMenu/img_pengyouquanfenxiang.png",
+        "Resoures/secondaryMenu/img_weixin.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

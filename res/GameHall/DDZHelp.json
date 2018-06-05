@@ -1,0 +1,774 @@
+{
+  "ID": "db33baf1-1f26-4153-9cd3-60a3353ea9be",
+  "Version": "2.3.3.0",
+  "Name": "DDZHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 161,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 315,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/wanfa/btn_ditukuangxian1.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 703,
+                "Scale9Height": 94,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 440.4862,
+                  "Y": 505.426
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5182,
+                  "Y": 0.919
+                },
+                "PreSize": {
+                  "X": 0.8271,
+                  "Y": 0.1709
+                },
+                "LeftMargin": 88.9862,
+                "RightMargin": 58.0138,
+                "TopMargin": -2.426,
+                "BottomMargin": 458.426,
+                "Tag": 303,
+                "ActionTag": -112289418,
+                "Size": {
+                  "X": 703.0,
+                  "Y": 94.0
+                },
+                "Name": "Image_30",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.8727
+                },
+                "TopMargin": 70.0,
+                "Tag": 304,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "[基础规则]-------------",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 172.5,
+                      "Y": 1935.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 183,
+                      "G": 36,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2029,
+                      "Y": 0.9923
+                    },
+                    "PreSize": {
+                      "X": 0.4059,
+                      "Y": 0.0154
+                    },
+                    "RightMargin": 505.0,
+                    "BottomMargin": 1920.0,
+                    "Tag": 305,
+                    "ActionTag": 1215554247,
+                    "Size": {
+                      "X": 345.0,
+                      "Y": 30.0
+                    },
+                    "Name": "content0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": " 基本玩法：\n1、发牌：一副牌去掉3和4，再随机抽出9张废牌，剩余共37张，每人 17 张，留 3 张做底牌，在确定地主之前玩家不能看底牌。\n2、叫地主：系统随机选择其中一个玩家，如果玩家没有“叫地主”，而另一个玩家也没有“叫地主”，则地主权利属于该玩家。\n3、抢地主：\n玩家“叫地主”后，另外一个玩家选择“抢地主”，如果没有玩家继续“抢地主”则地主权利属于“抢地主”的玩家。\n玩家“叫地主”后，如果玩家没有选择“抢地主”，则地主权利属于“叫地主”的玩家。\n玩家“叫地主”后，每“抢地主”一次，游戏倍数 *2 ，让牌个数+1。\n凡是有过“不叫”操作的玩家，无法进行“抢地主”的操作。\n4、出牌：将三张底牌交给地主，并亮出底牌让所有人都能看到。地主首先出牌，然后轮到另一玩家出牌，玩家可以选择“不出”\n或出比上一个玩家大的牌。某一玩家出完牌时游戏结束。\n5、让牌：当有“抢地主”操作时，界面会显示“地主 让n张”，n=抢地主次数。\n牌型介绍：\n1、火箭：即双王（大王和小王），最大的牌。\n2、炸弹：数值相同四张牌（如四个7）。\n3、单牌：单张牌（如红桃5） 。\n4、对牌：数值相同的两张牌（如梅花8+方块8） 。\n5、单顺：五张或更多的连续单牌（如：56789或78910JQK），不包括 2 和双王。\n7、三张：数值相同的三张牌（如：999）。\n牌型大小\n火箭最大，可以打任意其他的牌。炸弹比火箭小，比其他牌大。都是炸弹时按牌的分值比大小。\n除火箭和炸弹外，其他牌必须要牌型相同且总张数相同才能比大小。相同牌型按牌的分值比大小。\n依次是 大王 > 小王 >2>A>K>Q>J>10>9>8>7>6>5>4>3 ，不分花色。\n顺牌按最大的一张牌的分值来比大小。\n飞机带翅膀和四带二按其中的三顺和四张部分来比，带的牌不影响大小。\n1.底分：叫牌的底分\n2.每出一个炸弹，翻一倍\n3.地主胜：地主得分为2×底分×倍数。 其余用户各得：-底分×倍数\n4.地主败：地主得分为-2×底分×倍数。 其余用户各得：底分×倍数\n5.地主所有牌出完，其他两家一张都未出： 分数 × 2\n6.其他两家中有一家先出完牌，地主只出过一手牌： 分数 × 2\n7.逃跑扣分：基础分×倍数×炸弹数×3\n8.还没人叫牌时逃跑：扣6分",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 417.5,
+                      "Y": 1365.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4912,
+                      "Y": 0.7
+                    },
+                    "PreSize": {
+                      "X": 0.9824,
+                      "Y": 0.5692
+                    },
+                    "RightMargin": 15.0,
+                    "TopMargin": 30.0,
+                    "BottomMargin": 810.0,
+                    "Tag": 306,
+                    "ActionTag": -213970638,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 835.0,
+                      "Y": 1110.0
+                    },
+                    "Name": "content1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "胜方用户平分所有失败用户所应扣的分数。 每局比赛的队伍数目以结束时的情况为准，中途逃跑的用户所扣的分系统收回。\n胜负判定\n任意一家出完牌后结束游戏，若是地主先出完牌则地主胜，否则另外两家胜。\n所获积分\n计分方式\n计分算法\n底分：\n叫牌的分数\n春天：\n地主出牌至结束，但其余农民一张牌未出即为“春天”，并翻一倍。\n反春天：\n地主只出了一手牌后，其余的农民出牌直至牌局结束即为“反春天”，并翻一倍。\n\n正常算法\n注：这是在没有炸弹，及春天时候的算法，每出一个炸弹翻一倍。\n地主胜：\n地主赢=2* 底分 * 倍数。\n农民各输=底分 * 倍数。\n地主败：\n地主输= 2* 底分 * 倍数；\n农民各赢=底分 * 倍数。\n积分计算\n游戏积分=房间底分×叫分×倍数×玩家身份系数（农民为1地主为2）。房间底分，每个房间不同，以具体房间为准。叫分：即叫牌的分数，有1 、2、3分三种情况。倍数：根据游戏的行为计算相应的倍数。每个炸弹×2 ，春天（地主把牌出完，两家一张都没出）×2，反春（两家有一家出完，地主仅仅出过一手牌）×2。\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 417.5,
+                      "Y": 405.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4912,
+                      "Y": 0.2077
+                    },
+                    "PreSize": {
+                      "X": 0.9824,
+                      "Y": 0.4154
+                    },
+                    "RightMargin": 15.0,
+                    "TopMargin": 1140.0,
+                    "Tag": 307,
+                    "ActionTag": 873172003,
+                    "ZOrder": 2,
+                    "Size": {
+                      "X": 835.0,
+                      "Y": 810.0
+                    },
+                    "Name": "content2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1067556651,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 480.0
+                },
+                "Name": "msg_view0",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.8727
+                },
+                "TopMargin": 70.0,
+                "Tag": 308,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "[基础规则]-------------",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 172.5,
+                      "Y": 2172.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 183,
+                      "G": 36,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2029,
+                      "Y": 0.9931
+                    },
+                    "PreSize": {
+                      "X": 0.4059,
+                      "Y": 0.0137
+                    },
+                    "RightMargin": 505.0,
+                    "BottomMargin": 2157.0,
+                    "Tag": 309,
+                    "ActionTag": 304479236,
+                    "Size": {
+                      "X": 345.0,
+                      "Y": 30.0
+                    },
+                    "Name": "content0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "发牌 \n一副牌 54 张，一人 17 张，留 3 张做底牌，在确定地主之前玩家不能看底牌，地主确定后，底牌亮出，底牌分给地主。  \n\n第一个叫牌的玩家 \n翻一张地主牌，地主牌被谁拿到谁是地主。棋牌平台上为第一轮叫牌的玩家由系统选定。\n\n叫牌 \n叫牌按出牌的顺序轮流进行，每人只能叫一次。叫牌时可以叫“1分”，“2分”，“3分”，“不叫”。后叫牌者只能叫比前面玩家高的分或者不叫。叫牌结束后所叫分值最大的玩家为地主；如果有玩家叫“3分”则立即结束叫牌，该玩家为地主；如果都不叫，则重新发牌，重新叫牌。\n\n加倍\n叫牌结束后，玩家可选择“加倍”和“不加倍”。加倍后玩家输赢结算得分翻倍，不加倍得分无倍率变化。\n出牌\n将三张底牌交给地主，并亮出底牌让所有人都能看到。地主首先出牌，然后按逆时针顺序依次出牌，轮到用户跟牌时，用户可以选择“不出”或出比上一个玩家大的牌。某一玩家出完牌时结束本局。\n牌型比较\n王炸：即双王（大王和小王），最大的牌。\n炸弹：四张同数值牌（如四个7）。\n\n单牌：单个牌（如红桃5）。\n对牌：数值相同的两张牌（如梅花4+方块4）。\n三张牌：数值相同的三张牌（如三个J）。\n三带一：数值相同的三张牌 + 一张单牌或一对牌。例如：333+6 或 444+99。\n单顺：五张或更多的连续单牌（如：45678 或 78910JQK）。不包括 2 和双王。\n双顺：三对或更多的连续对牌（如：334455 、77 88 99 1010 JJ）。不包括 2 和双王。\n三顺：二个或更多的连续三张牌（如：333444 、 555 666 777 888）。不包括 2 和双王。\n飞机带翅膀：三顺+同数量的单牌（或同数量的对牌）。\n如： 444555+79 或 333444555+7799JJ。\n四带二：四张牌+两手牌（注意：四带二不是炸弹）。\n如： 5555+3+8 或 4444+55+77。",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 417.5,
+                      "Y": 1632.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4912,
+                      "Y": 0.7462
+                    },
+                    "PreSize": {
+                      "X": 0.9824,
+                      "Y": 0.4801
+                    },
+                    "RightMargin": 15.0,
+                    "TopMargin": 30.0,
+                    "BottomMargin": 1107.0,
+                    "Tag": 310,
+                    "ActionTag": -106987166,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 835.0,
+                      "Y": 1050.0
+                    },
+                    "Name": "content1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "牌型大小\n火箭最大，可以打任意其他的牌。炸弹比火箭小，比其他牌大。都是炸弹时按牌的分值比大小。\n除火箭和炸弹外，其他牌必须要牌型相同且总张数相同才能比大小。相同牌型按牌的分值比大小。\n依次是 大王 > 小王 >2>A>K>Q>J>10>9>8>7>6>5>4>3 ，不分花色。\n顺牌按最大的一张牌的分值来比大小。\n飞机带翅膀和四带二按其中的三顺和四张部分来比，带的牌不影响大小。\n1.底分：叫牌的底分\n2.每出一个炸弹，翻一倍\n3.地主胜：地主得分为2×底分×倍数。 其余用户各得：-底分×倍数\n4.地主败：地主得分为-2×底分×倍数。 其余用户各得：底分×倍数\n5.地主所有牌出完，其他两家一张都未出： 分数 × 2\n6.其他两家中有一家先出完牌，地主只出过一手牌： 分数 × 2\n7.逃跑扣分：基础分×倍数×炸弹数×3\n8.还没人叫牌时逃跑：扣6分\n胜方用户平分所有失败用户所应扣的分数。 每局比赛的队伍数目以结束时的情况为准，中途逃跑的用户所扣的分系统收回。\n胜负判定\n任意一家出完牌后结束游戏，若是地主先出完牌则地主胜，否则另外两家胜。\n\n计分算法\n底分：叫牌的分数\n春天：地主出牌至结束，但其余农民一张牌未出即为“春天”，并翻一倍。\n反春天：地主只出了一手牌后，其余的农民出牌直至牌局结束即为“反春天”，并翻一倍。",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 417.5,
+                      "Y": 743.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4912,
+                      "Y": 0.34
+                    },
+                    "PreSize": {
+                      "X": 0.9824,
+                      "Y": 0.3324
+                    },
+                    "RightMargin": 15.0,
+                    "TopMargin": 1080.0,
+                    "BottomMargin": 380.0,
+                    "Tag": 311,
+                    "ActionTag": -299220065,
+                    "ZOrder": 2,
+                    "Size": {
+                      "X": 835.0,
+                      "Y": 727.0
+                    },
+                    "Name": "content2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "正常算法\n注：这是在没有炸弹，及春天时候的算法，每出一个炸弹翻一倍。\n地主胜：\n地主赢=2* 底分 * 倍数。\n农民各输=底分 * 倍数。\n地主败：\n地主输= 2* 底分 * 倍数；\n农民各赢=底分 * 倍数。\n积分计算\n游戏积分=房间底分×叫分×倍数×玩家身份系数（农民为1地主为2）。房间底分，每个房间不同，以具体房间为准。叫分：即叫牌的分数，有1 、2、3分三种情况。倍数：根据游戏的行为计算相应的倍数。每个炸弹×2 ，春天（地主把牌出完，两家一张都没出）×2，反春（两家有一家出完，地主仅仅出过一手牌）×2。",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 417.5,
+                      "Y": 190.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4912,
+                      "Y": 0.0869
+                    },
+                    "PreSize": {
+                      "X": 0.9824,
+                      "Y": 0.1738
+                    },
+                    "RightMargin": 15.0,
+                    "TopMargin": 1807.0,
+                    "Tag": 312,
+                    "ActionTag": -1775572065,
+                    "ZOrder": 3,
+                    "Size": {
+                      "X": 835.0,
+                      "Y": 380.0
+                    },
+                    "Name": "content3",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 780984495,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 480.0
+                },
+                "Name": "msg_view1",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/wanfa/btn_erren1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/wanfa/btn_erren1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/wanfa/btn_erren.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 150,
+                "Scale9Height": 26,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 321.0257,
+                  "Y": 522.3001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3777,
+                  "Y": 0.9496
+                },
+                "PreSize": {
+                  "X": 0.2118,
+                  "Y": 0.0873
+                },
+                "LeftMargin": 231.0257,
+                "RightMargin": 438.9743,
+                "TopMargin": 3.6999,
+                "BottomMargin": 498.3001,
+                "Tag": 313,
+                "ActionTag": -1296022048,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 48.0
+                },
+                "Name": "Button_0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/wanfa/btn_sanren1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/wanfa/btn_sanren1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/wanfa/btn_sanren.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 150,
+                "Scale9Height": 26,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 559.8071,
+                  "Y": 522.3001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6586,
+                  "Y": 0.9496
+                },
+                "PreSize": {
+                  "X": 0.2118,
+                  "Y": 0.0873
+                },
+                "LeftMargin": 469.8071,
+                "RightMargin": 200.1929,
+                "TopMargin": 3.6999,
+                "BottomMargin": 498.3001,
+                "Tag": 314,
+                "ActionTag": 762662900,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 48.0
+                },
+                "Name": "Button_1",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 267141506,
+            "Size": {
+              "X": 850.0,
+              "Y": 550.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 850.0,
+          "Y": 550.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/jzy.TTF",
+        "Resoures/wanfa/btn_ditukuangxian1.png",
+        "Resoures/wanfa/btn_erren.png",
+        "Resoures/wanfa/btn_erren1.png",
+        "Resoures/wanfa/btn_sanren.png",
+        "Resoures/wanfa/btn_sanren1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

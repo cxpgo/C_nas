@@ -1,0 +1,3897 @@
+{
+  "ID": "377d0daf-29b9-4b26-a9d5-0bae33df3f01",
+  "Version": "2.3.3.0",
+  "Name": "CreateRoom_xz",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 85,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -1.53,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": -0.0017,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.53,
+            "RightMargin": 1.53,
+            "Tag": 86,
+            "Children": [
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 304,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_shutiao4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 88,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.0,
+                      "Y": 458.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0022,
+                      "Y": 0.916
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.152
+                    },
+                    "LeftMargin": 2.0,
+                    "RightMargin": -2.0,
+                    "TopMargin": 4.0,
+                    "BottomMargin": 420.0,
+                    "Tag": 343,
+                    "ActionTag": -881013281,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 76.0
+                    },
+                    "Name": "Image_11",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_shutiao4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 88,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.0001,
+                      "Y": 374.698
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0022,
+                      "Y": 0.7494
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.152
+                    },
+                    "LeftMargin": 2.0001,
+                    "RightMargin": -2.0001,
+                    "TopMargin": 87.302,
+                    "BottomMargin": 336.698,
+                    "Tag": 344,
+                    "ActionTag": 246665962,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 76.0
+                    },
+                    "Name": "Image_11_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_shutiao4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 88,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.0001,
+                      "Y": 291.396
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0022,
+                      "Y": 0.5828
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.152
+                    },
+                    "LeftMargin": 2.0001,
+                    "RightMargin": -2.0001,
+                    "TopMargin": 170.604,
+                    "BottomMargin": 253.396,
+                    "Tag": 345,
+                    "ActionTag": -848951051,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 76.0
+                    },
+                    "Name": "Image_11_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_shutiao4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 88,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.0001,
+                      "Y": 208.094
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0022,
+                      "Y": 0.4162
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.152
+                    },
+                    "LeftMargin": 2.0001,
+                    "RightMargin": -2.0001,
+                    "TopMargin": 253.906,
+                    "BottomMargin": 170.094,
+                    "Tag": 346,
+                    "ActionTag": 742171709,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 76.0
+                    },
+                    "Name": "Image_11_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_shutiao4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 88,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.0001,
+                      "Y": 124.792
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0022,
+                      "Y": 0.2496
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.152
+                    },
+                    "LeftMargin": 2.0001,
+                    "RightMargin": -2.0001,
+                    "TopMargin": 337.208,
+                    "BottomMargin": 86.792,
+                    "Tag": 347,
+                    "ActionTag": 1972708301,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 76.0
+                    },
+                    "Name": "Image_11_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_shutiao4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 16,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 88,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 2.0001,
+                      "Y": 80.49
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0022,
+                      "Y": 0.161
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.152
+                    },
+                    "LeftMargin": 2.0001,
+                    "RightMargin": -2.0001,
+                    "TopMargin": 419.51,
+                    "BottomMargin": 4.49,
+                    "Tag": 348,
+                    "ActionTag": -1555683215,
+                    "Size": {
+                      "X": 900.0,
+                      "Y": 76.0
+                    },
+                    "Name": "Image_11_4",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 468456331,
+                "Size": {
+                  "X": 900.0,
+                  "Y": 500.0
+                },
+                "Name": "panel_bg",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -251.5476,
+                  "Y": -150.0113
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2795,
+                  "Y": -0.3
+                },
+                "PreSize": {
+                  "X": 0.2222,
+                  "Y": 0.4
+                },
+                "LeftMargin": -251.5476,
+                "RightMargin": 951.5476,
+                "TopMargin": 450.0113,
+                "BottomMargin": -150.0113,
+                "Tag": 275,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/word_jushu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 310.0,
+                      "Y": 607.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.55,
+                      "Y": 3.04
+                    },
+                    "PreSize": {
+                      "X": 0.345,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 275.5,
+                    "RightMargin": -144.5,
+                    "TopMargin": -422.4999,
+                    "BottomMargin": 593.4999,
+                    "Tag": 430,
+                    "ActionTag": 2144616151,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "text_jushu",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 620.9999,
+                      "Y": 607.9285
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.105,
+                      "Y": 3.0396
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 600.9999,
+                    "RightMargin": -440.9999,
+                    "TopMargin": -427.9285,
+                    "BottomMargin": 587.9285,
+                    "Tag": 101,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "8局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.25,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 1.05,
+                          "Y": 0.725
+                        },
+                        "LeftMargin": 50.0,
+                        "RightMargin": -52.0,
+                        "TopMargin": 6.3,
+                        "BottomMargin": 4.7,
+                        "Tag": 318,
+                        "ActionTag": -1439437626,
+                        "Size": {
+                          "X": 42.0,
+                          "Y": 29.0
+                        },
+                        "Name": "Text_10_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1040481845,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.0,
+                      "Y": 607.9284
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.99,
+                      "Y": 3.0396
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 378.0,
+                    "RightMargin": -218.0,
+                    "TopMargin": -427.9284,
+                    "BottomMargin": 587.9284,
+                    "Tag": 100,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "4局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.25,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 1.05,
+                          "Y": 0.725
+                        },
+                        "LeftMargin": 50.0,
+                        "RightMargin": -52.0,
+                        "TopMargin": 6.3,
+                        "BottomMargin": 4.7,
+                        "Tag": 317,
+                        "ActionTag": 1459069008,
+                        "Size": {
+                          "X": 42.0,
+                          "Y": 29.0
+                        },
+                        "Name": "Text_10",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1680987424,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_0",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 581.0,
+                      "Y": 582.9286
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.905,
+                      "Y": 2.9146
+                    },
+                    "PreSize": {
+                      "X": 0.75,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 581.0,
+                    "RightMargin": -531.0,
+                    "TopMargin": -432.9286,
+                    "BottomMargin": 582.9286,
+                    "Tag": 125,
+                    "ActionTag": -631230059,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 368.0,
+                      "Y": 582.9286
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.84,
+                      "Y": 2.9146
+                    },
+                    "PreSize": {
+                      "X": 0.75,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 368.0,
+                    "RightMargin": -318.0,
+                    "TopMargin": -432.9286,
+                    "BottomMargin": 582.9286,
+                    "Tag": 124,
+                    "ActionTag": -1815573724,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "底分",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 822.0,
+                      "Y": 605.9285
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.11,
+                      "Y": 3.0296
+                    },
+                    "PreSize": {
+                      "X": 0.275,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 822.0,
+                    "RightMargin": -677.0,
+                    "TopMargin": -420.4285,
+                    "BottomMargin": 591.4285,
+                    "Tag": 351,
+                    "ActionTag": -945687686,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 29.0
+                    },
+                    "Name": "text_score0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/room/room_scoreBg.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 130,
+                    "Scale9Height": 41,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 959.9996,
+                      "Y": 606.9285
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.8,
+                      "Y": 3.0346
+                    },
+                    "PreSize": {
+                      "X": 0.65,
+                      "Y": 0.205
+                    },
+                    "LeftMargin": 894.9996,
+                    "RightMargin": -824.9996,
+                    "TopMargin": -427.4285,
+                    "BottomMargin": 586.4285,
+                    "Tag": 352,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "20",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.0,
+                          "Y": 22.55
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 94,
+                          "G": 64,
+                          "B": 7
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.55
+                        },
+                        "PreSize": {
+                          "X": 0.6154,
+                          "Y": 0.878
+                        },
+                        "LeftMargin": 25.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 0.45,
+                        "BottomMargin": 4.55,
+                        "Tag": 353,
+                        "ActionTag": -774841324,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 36.0
+                        },
+                        "Name": "text_score",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/XueZhan/Resoures/room/room_0_1.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/XueZhan/Resoures/room/room_0_0.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 14,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 8,
+                        "Scale9Height": 14,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 18.0,
+                          "Y": 22.14
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.1385,
+                          "Y": 0.54
+                        },
+                        "PreSize": {
+                          "X": 0.2769,
+                          "Y": 0.878
+                        },
+                        "RightMargin": 94.0,
+                        "TopMargin": 0.86,
+                        "BottomMargin": 4.14,
+                        "Tag": 354,
+                        "ActionTag": -526242884,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 36.0
+                        },
+                        "Name": "btn_score0",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/XueZhan/Resoures/room/room_1_1.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/XueZhan/Resoures/room/room_1_0.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 11,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 14,
+                        "Scale9Height": 14,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 111.0,
+                          "Y": 22.14
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.8538,
+                          "Y": 0.54
+                        },
+                        "PreSize": {
+                          "X": 0.2769,
+                          "Y": 0.878
+                        },
+                        "LeftMargin": 93.0,
+                        "RightMargin": 1.0,
+                        "TopMargin": 0.86,
+                        "BottomMargin": 4.14,
+                        "Tag": 355,
+                        "ActionTag": -149927045,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 36.0
+                        },
+                        "Name": "btn_score1",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1289287980,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 41.0
+                    },
+                    "Name": "image_score",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1968370288,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "panel_common",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -251.5476,
+                  "Y": -150.0113
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.2795,
+                  "Y": -0.3
+                },
+                "PreSize": {
+                  "X": 0.2222,
+                  "Y": 0.4
+                },
+                "LeftMargin": -251.5476,
+                "RightMargin": 951.5476,
+                "TopMargin": 450.0113,
+                "BottomMargin": -150.0113,
+                "Tag": 218,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/word_fufei.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 310.0,
+                      "Y": 524.8
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.55,
+                      "Y": 2.624
+                    },
+                    "PreSize": {
+                      "X": 0.345,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 275.5,
+                    "RightMargin": -144.5,
+                    "TopMargin": -339.3,
+                    "BottomMargin": 510.3,
+                    "Tag": 307,
+                    "ActionTag": -1916791097,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "text_zhifu",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 621.0,
+                      "Y": 525.3932
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.105,
+                      "Y": 2.627
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 601.0,
+                    "RightMargin": -441.0,
+                    "TopMargin": -345.3932,
+                    "BottomMargin": 505.3932,
+                    "Tag": 237,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "房主支付(4房卡)",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.125,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 5.5,
+                          "Y": 0.9
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -225.0,
+                        "TopMargin": 2.8,
+                        "BottomMargin": 1.2,
+                        "Tag": 321,
+                        "ActionTag": -458296575,
+                        "Size": {
+                          "X": 220.0,
+                          "Y": 36.0
+                        },
+                        "Name": "text_banker",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1539605519,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_fufei0",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.0,
+                      "Y": 525.3932
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.99,
+                      "Y": 2.627
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 378.0,
+                    "RightMargin": -218.0,
+                    "TopMargin": -345.3932,
+                    "BottomMargin": 505.3932,
+                    "Tag": 235,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 26,
+                        "LabelText": "AA支付(1房卡)",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.125,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 4.5,
+                          "Y": 0.9
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -185.0,
+                        "TopMargin": 2.8,
+                        "BottomMargin": 1.2,
+                        "Tag": 320,
+                        "ActionTag": -106813373,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 36.0
+                        },
+                        "Name": "text_aa",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1302226509,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_fufei1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 599.0,
+                      "Y": 503.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.995,
+                      "Y": 2.515
+                    },
+                    "PreSize": {
+                      "X": 1.15,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 599.0,
+                    "RightMargin": -629.0,
+                    "TopMargin": -353.0,
+                    "BottomMargin": 503.0,
+                    "Tag": 58,
+                    "ActionTag": 405039809,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_fufei0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 373.0801,
+                      "Y": 503.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.8654,
+                      "Y": 2.515
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 373.0801,
+                    "RightMargin": -373.0801,
+                    "TopMargin": -353.0,
+                    "BottomMargin": 503.0,
+                    "Tag": 59,
+                    "ActionTag": 1313427495,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_fufei1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/large/chupai.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 310.0,
+                      "Y": 441.6
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.55,
+                      "Y": 2.208
+                    },
+                    "PreSize": {
+                      "X": 0.345,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 275.5,
+                    "RightMargin": -144.5,
+                    "TopMargin": -256.1,
+                    "BottomMargin": 427.1,
+                    "Tag": 309,
+                    "ActionTag": 1808575680,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "text_out",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.0,
+                      "Y": 440.6474
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.99,
+                      "Y": 2.2032
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 378.0,
+                    "RightMargin": -218.0,
+                    "TopMargin": -260.6474,
+                    "BottomMargin": 420.6474,
+                    "Tag": 346,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "30秒",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.25,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 1.425,
+                          "Y": 0.725
+                        },
+                        "LeftMargin": 50.0,
+                        "RightMargin": -67.0,
+                        "TopMargin": 6.3,
+                        "BottomMargin": 4.7,
+                        "Tag": 322,
+                        "ActionTag": 2033284644,
+                        "Size": {
+                          "X": 57.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -709513956,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_out0",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 621.0001,
+                      "Y": 440.6474
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.105,
+                      "Y": 2.2032
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 601.0001,
+                    "RightMargin": -441.0001,
+                    "TopMargin": -260.6474,
+                    "BottomMargin": 420.6474,
+                    "Tag": 348,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "60秒",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.25,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 1.425,
+                          "Y": 0.725
+                        },
+                        "LeftMargin": 50.0,
+                        "RightMargin": -67.0,
+                        "TopMargin": 6.3,
+                        "BottomMargin": 4.7,
+                        "Tag": 323,
+                        "ActionTag": 1172067568,
+                        "Size": {
+                          "X": 57.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -2110235787,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_out1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 844.0,
+                      "Y": 440.6474
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.22,
+                      "Y": 2.2032
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 824.0,
+                    "RightMargin": -664.0,
+                    "TopMargin": -260.6474,
+                    "BottomMargin": 420.6474,
+                    "Tag": 350,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "无限制",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.25,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 2.025,
+                          "Y": 0.725
+                        },
+                        "LeftMargin": 50.0,
+                        "RightMargin": -91.0,
+                        "TopMargin": 6.3,
+                        "BottomMargin": 4.7,
+                        "Tag": 324,
+                        "ActionTag": 1018979984,
+                        "Size": {
+                          "X": 81.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 434191740,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_out2",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 368.0,
+                      "Y": 418.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.84,
+                      "Y": 2.09
+                    },
+                    "PreSize": {
+                      "X": 0.75,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 368.0,
+                    "RightMargin": -318.0,
+                    "TopMargin": -268.0,
+                    "BottomMargin": 418.0,
+                    "Tag": 60,
+                    "ActionTag": 1055918509,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_out0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 589.9999,
+                      "Y": 418.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.95,
+                      "Y": 2.09
+                    },
+                    "PreSize": {
+                      "X": 0.75,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 589.9999,
+                    "RightMargin": -539.9999,
+                    "TopMargin": -268.0,
+                    "BottomMargin": 418.0,
+                    "Tag": 61,
+                    "ActionTag": 822306998,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_out1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 809.9999,
+                      "Y": 418.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.05,
+                      "Y": 2.09
+                    },
+                    "PreSize": {
+                      "X": 0.75,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 809.9999,
+                    "RightMargin": -759.9999,
+                    "TopMargin": -268.0,
+                    "BottomMargin": 418.0,
+                    "Tag": 62,
+                    "ActionTag": 1024597387,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_out2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/large/fengding.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 309.9952,
+                      "Y": 358.4
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.55,
+                      "Y": 1.792
+                    },
+                    "PreSize": {
+                      "X": 0.345,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 275.4952,
+                    "RightMargin": -144.4952,
+                    "TopMargin": -172.9,
+                    "BottomMargin": 343.9,
+                    "Tag": 311,
+                    "ActionTag": -1769815168,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "text_fengding",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.0,
+                      "Y": 357.32
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.99,
+                      "Y": 1.7866
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 378.0,
+                    "RightMargin": -218.0,
+                    "TopMargin": -177.32,
+                    "BottomMargin": 337.32,
+                    "Tag": 353,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "2番",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.25,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 1.075,
+                          "Y": 0.725
+                        },
+                        "LeftMargin": 50.0,
+                        "RightMargin": -53.0,
+                        "TopMargin": 6.3,
+                        "BottomMargin": 4.7,
+                        "Tag": 325,
+                        "ActionTag": -1928076732,
+                        "Size": {
+                          "X": 43.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 983197822,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_ding0",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 620.9999,
+                      "Y": 357.32
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.105,
+                      "Y": 1.7866
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 600.9999,
+                    "RightMargin": -440.9999,
+                    "TopMargin": -177.32,
+                    "BottomMargin": 337.32,
+                    "Tag": 355,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "3番",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.25,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 1.075,
+                          "Y": 0.725
+                        },
+                        "LeftMargin": 50.0,
+                        "RightMargin": -53.0,
+                        "TopMargin": 6.3,
+                        "BottomMargin": 4.7,
+                        "Tag": 328,
+                        "ActionTag": -347749157,
+                        "Size": {
+                          "X": 43.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -2128716659,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_ding1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 843.9999,
+                      "Y": 357.32
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.22,
+                      "Y": 1.7866
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 823.9999,
+                    "RightMargin": -663.9999,
+                    "TopMargin": -177.32,
+                    "BottomMargin": 337.32,
+                    "Tag": 357,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "4番",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 50.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.25,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 1.075,
+                          "Y": 0.725
+                        },
+                        "LeftMargin": 50.0,
+                        "RightMargin": -53.0,
+                        "TopMargin": 6.3,
+                        "BottomMargin": 4.7,
+                        "Tag": 327,
+                        "ActionTag": 1582712465,
+                        "Size": {
+                          "X": 43.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1111058803,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_ding2",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 369.4175,
+                      "Y": 332.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.8471,
+                      "Y": 1.66
+                    },
+                    "PreSize": {
+                      "X": 0.6,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 369.4175,
+                    "RightMargin": -289.4175,
+                    "TopMargin": -182.0,
+                    "BottomMargin": 332.0,
+                    "Tag": 65,
+                    "ActionTag": 1464693132,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_ding0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 576.0,
+                      "Y": 332.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.88,
+                      "Y": 1.66
+                    },
+                    "PreSize": {
+                      "X": 0.75,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 576.0,
+                    "RightMargin": -526.0,
+                    "TopMargin": -182.0,
+                    "BottomMargin": 332.0,
+                    "Tag": 64,
+                    "ActionTag": 332373461,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_ding1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 801.0,
+                      "Y": 332.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.005,
+                      "Y": 1.66
+                    },
+                    "PreSize": {
+                      "X": 0.75,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 801.0,
+                    "RightMargin": -751.0,
+                    "TopMargin": -182.0,
+                    "BottomMargin": 332.0,
+                    "Tag": 63,
+                    "ActionTag": -957882827,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_ding2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/word_wanfa.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 309.9952,
+                      "Y": 275.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.55,
+                      "Y": 1.376
+                    },
+                    "PreSize": {
+                      "X": 0.345,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 275.4952,
+                    "RightMargin": -144.4952,
+                    "TopMargin": -89.7,
+                    "BottomMargin": 260.7,
+                    "Tag": 315,
+                    "ActionTag": -773412843,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "text_wanfa",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 398.0,
+                      "Y": 277.7877
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.99,
+                      "Y": 1.3889
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 378.0,
+                    "RightMargin": -218.0,
+                    "TopMargin": -97.7877,
+                    "BottomMargin": 257.7877,
+                    "Tag": 360,
+                    "Children": [
+                      {
+                        "FontSize": 25,
+                        "LabelText": "自摸加底",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.125,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 2.575,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -108.0,
+                        "TopMargin": 6.8,
+                        "BottomMargin": 5.2,
+                        "Tag": 329,
+                        "ActionTag": 765512953,
+                        "Size": {
+                          "X": 103.0,
+                          "Y": 28.0
+                        },
+                        "Name": "content_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -729161503,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_wanfa10",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 588.6666,
+                      "Y": 277.7877
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.9433,
+                      "Y": 1.3889
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 568.6666,
+                    "RightMargin": -408.6666,
+                    "TopMargin": -97.7877,
+                    "BottomMargin": 257.7877,
+                    "Tag": 362,
+                    "Children": [
+                      {
+                        "FontSize": 25,
+                        "LabelText": "自摸加番",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.125,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 2.575,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -108.0,
+                        "TopMargin": 6.8,
+                        "BottomMargin": 5.2,
+                        "Tag": 330,
+                        "ActionTag": 11935784,
+                        "Size": {
+                          "X": 103.0,
+                          "Y": 28.0
+                        },
+                        "Name": "content_0_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 59018462,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_wanfa11",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 779.3333,
+                      "Y": 277.7877
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.8967,
+                      "Y": 1.3889
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 759.3333,
+                    "RightMargin": -599.3333,
+                    "TopMargin": -97.7877,
+                    "BottomMargin": 257.7877,
+                    "Tag": 364,
+                    "Children": [
+                      {
+                        "FontSize": 25,
+                        "LabelText": "点杠花(自摸)",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.125,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 3.475,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -144.0,
+                        "TopMargin": 6.8,
+                        "BottomMargin": 5.2,
+                        "Tag": 331,
+                        "ActionTag": -1011619557,
+                        "Size": {
+                          "X": 139.0,
+                          "Y": 28.0
+                        },
+                        "Name": "content_0_1",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -836026892,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_wanfa20",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan2.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan3.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 969.9999,
+                      "Y": 277.7877
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.85,
+                      "Y": 1.3889
+                    },
+                    "PreSize": {
+                      "X": 0.2,
+                      "Y": 0.2
+                    },
+                    "LeftMargin": 949.9999,
+                    "RightMargin": -789.9999,
+                    "TopMargin": -97.7877,
+                    "BottomMargin": 257.7877,
+                    "Tag": 366,
+                    "Children": [
+                      {
+                        "FontSize": 25,
+                        "LabelText": "点杠花(点炮)",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.2
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 1.125,
+                          "Y": 0.48
+                        },
+                        "PreSize": {
+                          "X": 3.475,
+                          "Y": 0.7
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -144.0,
+                        "TopMargin": 6.8,
+                        "BottomMargin": 5.2,
+                        "Tag": 332,
+                        "ActionTag": 1300319523,
+                        "Size": {
+                          "X": 139.0,
+                          "Y": 28.0
+                        },
+                        "Name": "content_0_2",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1628857062,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 40.0
+                    },
+                    "Name": "checkbox_wanfa21",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/word_kexuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 310.0,
+                      "Y": 192.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.55,
+                      "Y": 0.96
+                    },
+                    "PreSize": {
+                      "X": 0.345,
+                      "Y": 0.145
+                    },
+                    "LeftMargin": 275.5,
+                    "RightMargin": -144.5,
+                    "TopMargin": -6.5,
+                    "BottomMargin": 177.5,
+                    "Tag": 313,
+                    "ActionTag": -2029476547,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "text_kexuan",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan4.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0001,
+                      "Y": 192.2525
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.0,
+                      "Y": 0.9613
+                    },
+                    "PreSize": {
+                      "X": 0.235,
+                      "Y": 0.23
+                    },
+                    "LeftMargin": 376.5001,
+                    "RightMargin": -223.5001,
+                    "TopMargin": -15.2525,
+                    "BottomMargin": 169.2525,
+                    "Tag": 369,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "换三张",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.32
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.9574,
+                          "Y": 0.42
+                        },
+                        "PreSize": {
+                          "X": 1.7234,
+                          "Y": 0.6304
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -79.0,
+                        "TopMargin": 12.18,
+                        "BottomMargin": 4.82,
+                        "Tag": 333,
+                        "ActionTag": 512183676,
+                        "Size": {
+                          "X": 81.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 895793133,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 46.0
+                    },
+                    "Name": "checkbox_op0",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan4.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 591.6667,
+                      "Y": 192.2525
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.9583,
+                      "Y": 0.9613
+                    },
+                    "PreSize": {
+                      "X": 0.235,
+                      "Y": 0.23
+                    },
+                    "LeftMargin": 568.1667,
+                    "RightMargin": -415.1667,
+                    "TopMargin": -15.2525,
+                    "BottomMargin": 169.2525,
+                    "Tag": 371,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "幺九将对",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.32
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.9574,
+                          "Y": 0.42
+                        },
+                        "PreSize": {
+                          "X": 2.2766,
+                          "Y": 0.6304
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -105.0,
+                        "TopMargin": 12.18,
+                        "BottomMargin": 4.82,
+                        "Tag": 334,
+                        "ActionTag": -645958743,
+                        "Size": {
+                          "X": 107.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1614108509,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 46.0
+                    },
+                    "Name": "checkbox_op1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan4.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 783.3332,
+                      "Y": 192.2525
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.9167,
+                      "Y": 0.9613
+                    },
+                    "PreSize": {
+                      "X": 0.235,
+                      "Y": 0.23
+                    },
+                    "LeftMargin": 759.8332,
+                    "RightMargin": -606.8332,
+                    "TopMargin": -15.2525,
+                    "BottomMargin": 169.2525,
+                    "Tag": 373,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "门清中张",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.32
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.9574,
+                          "Y": 0.42
+                        },
+                        "PreSize": {
+                          "X": 2.2766,
+                          "Y": 0.6304
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -105.0,
+                        "TopMargin": 12.18,
+                        "BottomMargin": 4.82,
+                        "Tag": 335,
+                        "ActionTag": 13047307,
+                        "Size": {
+                          "X": 107.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content_1",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1999613198,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 46.0
+                    },
+                    "Name": "checkbox_op2",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/XueZhan/Resoures/create_room/btn_gouxuan4.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 974.9993,
+                      "Y": 192.2525
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.875,
+                      "Y": 0.9613
+                    },
+                    "PreSize": {
+                      "X": 0.235,
+                      "Y": 0.23
+                    },
+                    "LeftMargin": 951.4993,
+                    "RightMargin": -798.4993,
+                    "TopMargin": -15.2525,
+                    "BottomMargin": 169.2525,
+                    "Tag": 375,
+                    "Children": [
+                      {
+                        "FontSize": 26,
+                        "LabelText": "天地胡",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 19.32
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 123,
+                          "G": 90,
+                          "B": 70
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.9574,
+                          "Y": 0.42
+                        },
+                        "PreSize": {
+                          "X": 1.7021,
+                          "Y": 0.6304
+                        },
+                        "LeftMargin": 45.0,
+                        "RightMargin": -78.0,
+                        "TopMargin": 12.18,
+                        "BottomMargin": 4.82,
+                        "Tag": 336,
+                        "ActionTag": -551743354,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 29.0
+                        },
+                        "Name": "content_2",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1564064569,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 46.0
+                    },
+                    "Name": "checkbox_op3",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 367.7597,
+                      "Y": 252.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.8388,
+                      "Y": 1.2649
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 367.7597,
+                    "RightMargin": -367.7598,
+                    "TopMargin": -102.9718,
+                    "BottomMargin": 252.9718,
+                    "Tag": 66,
+                    "ActionTag": 446434470,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_wanfa10",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 538.6135,
+                      "Y": 252.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.6931,
+                      "Y": 1.2649
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 538.6135,
+                    "RightMargin": -538.6135,
+                    "TopMargin": -102.9718,
+                    "BottomMargin": 252.9718,
+                    "Tag": 67,
+                    "ActionTag": 2002517945,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_wanfa11",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 744.4539,
+                      "Y": 252.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.7223,
+                      "Y": 1.2649
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 744.4539,
+                    "RightMargin": -744.4539,
+                    "TopMargin": -102.9718,
+                    "BottomMargin": 252.9718,
+                    "Tag": 68,
+                    "ActionTag": 927274312,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_wanfa20",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 947.2535,
+                      "Y": 252.9718
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.7363,
+                      "Y": 1.2649
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 947.2535,
+                    "RightMargin": -947.2535,
+                    "TopMargin": -102.9718,
+                    "BottomMargin": 252.9718,
+                    "Tag": 69,
+                    "ActionTag": -1277545249,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_wanfa21",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 368.8932,
+                      "Y": 165.2524
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.8445,
+                      "Y": 0.8263
+                    },
+                    "PreSize": {
+                      "X": 0.8,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 368.8932,
+                    "RightMargin": -328.8932,
+                    "TopMargin": -15.2524,
+                    "BottomMargin": 165.2524,
+                    "Tag": 70,
+                    "ActionTag": 964109995,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_op0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 564.0001,
+                      "Y": 165.2524
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.82,
+                      "Y": 0.8263
+                    },
+                    "PreSize": {
+                      "X": 0.8,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 564.0001,
+                    "RightMargin": -524.0001,
+                    "TopMargin": -15.2524,
+                    "BottomMargin": 165.2524,
+                    "Tag": 71,
+                    "ActionTag": 267693389,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_op1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 757.9999,
+                      "Y": 165.2524
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 3.79,
+                      "Y": 0.8263
+                    },
+                    "PreSize": {
+                      "X": 0.8,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 757.9999,
+                    "RightMargin": -717.9999,
+                    "TopMargin": -15.2524,
+                    "BottomMargin": 165.2524,
+                    "Tag": 72,
+                    "ActionTag": -250298732,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_op2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 950.0,
+                      "Y": 165.2524
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 4.75,
+                      "Y": 0.8263
+                    },
+                    "PreSize": {
+                      "X": 0.8,
+                      "Y": 0.25
+                    },
+                    "LeftMargin": 950.0,
+                    "RightMargin": -910.0,
+                    "TopMargin": -15.2524,
+                    "BottomMargin": 165.2524,
+                    "Tag": 73,
+                    "ActionTag": -1022954848,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 50.0
+                    },
+                    "Name": "panel_op3",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -477083001,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "panel_xuezhan",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 2124358727,
+            "Size": {
+              "X": 900.0,
+              "Y": 500.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 900.0,
+          "Y": 500.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../font/jzy.TTF",
+        "../../Poker/DDZ/Resoures/large/fengding.png",
+        "Resoures/create_room/btn_gouxuan.png",
+        "Resoures/create_room/btn_gouxuan2.png",
+        "Resoures/create_room/btn_gouxuan3.png",
+        "Resoures/create_room/btn_gouxuan4.png",
+        "Resoures/create_room/btn_shutiao4.png",
+        "Resoures/create_room/word_fufei.png",
+        "Resoures/create_room/word_jushu.png",
+        "Resoures/create_room/word_kexuan.png",
+        "Resoures/create_room/word_wanfa.png",
+        "Resoures/large/chupai.png",
+        "Resoures/room/room_0_0.png",
+        "Resoures/room/room_0_1.png",
+        "Resoures/room/room_1_0.png",
+        "Resoures/room/room_1_1.png",
+        "Resoures/room/room_scoreBg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

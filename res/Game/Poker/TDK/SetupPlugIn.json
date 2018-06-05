@@ -1,0 +1,446 @@
+{
+  "ID": "cd05231a-e145-46f1-97e9-cf557d441f7a",
+  "Version": "2.3.3.0",
+  "Name": "SetupPlugIn",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "CallBackType": "Click",
+            "Tag": 239,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/secondaryMenu/img_xiazhufangshi.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 129,
+                "Scale9Height": 29,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 117.6713,
+                  "Y": 40.6639
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1532,
+                  "Y": 0.5083
+                },
+                "PreSize": {
+                  "X": 0.168,
+                  "Y": 0.3625
+                },
+                "LeftMargin": 53.1713,
+                "RightMargin": 585.8287,
+                "TopMargin": 24.8361,
+                "BottomMargin": 26.1639,
+                "Tag": 218,
+                "ActionTag": -902818215,
+                "Size": {
+                  "X": 129.0,
+                  "Y": 29.0
+                },
+                "Name": "image_music_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 440.6071,
+                  "Y": 9.838
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5737,
+                  "Y": 0.123
+                },
+                "PreSize": {
+                  "X": 0.194,
+                  "Y": 0.75
+                },
+                "LeftMargin": 440.6071,
+                "RightMargin": 178.3929,
+                "TopMargin": 10.162,
+                "BottomMargin": 9.838,
+                "Tag": 212,
+                "Children": [
+                  {
+                    "FontSize": 28,
+                    "LabelText": "滑动下注",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 73.4833,
+                      "Y": 30.8338
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4932,
+                      "Y": 0.5139
+                    },
+                    "PreSize": {
+                      "X": 0.7517,
+                      "Y": 0.4667
+                    },
+                    "LeftMargin": 73.4833,
+                    "RightMargin": -36.4833,
+                    "TopMargin": 15.1662,
+                    "BottomMargin": 16.8338,
+                    "Tag": 213,
+                    "ActionTag": 57835690,
+                    "Size": {
+                      "X": 112.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_music1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_gouxuan_01.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_gouxuan_01.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_gouxuan_01.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_gouxuan_02.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.546,
+                      "ScaleY": 0.5983
+                    },
+                    "Position": {
+                      "X": 38.7701,
+                      "Y": 36.8343
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2602,
+                      "Y": 0.6139
+                    },
+                    "PreSize": {
+                      "X": 0.2953,
+                      "Y": 0.7333
+                    },
+                    "LeftMargin": 14.7461,
+                    "RightMargin": 90.2539,
+                    "TopMargin": 5.4909,
+                    "BottomMargin": 10.5091,
+                    "Tag": 214,
+                    "ActionTag": 1848129797,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "checkbox_music1",
+                    "ctype": "CheckBoxObjectData"
+                  }
+                ],
+                "ActionTag": -2012151591,
+                "Size": {
+                  "X": 149.0,
+                  "Y": 60.0
+                },
+                "Name": "panel_music1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 220.0718,
+                  "Y": 10.9832
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2866,
+                  "Y": 0.1373
+                },
+                "PreSize": {
+                  "X": 0.2083,
+                  "Y": 0.75
+                },
+                "LeftMargin": 220.0718,
+                "RightMargin": 387.9282,
+                "TopMargin": 9.0168,
+                "BottomMargin": 10.9832,
+                "Tag": 215,
+                "Children": [
+                  {
+                    "FontSize": 28,
+                    "LabelText": "点击下注",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 65.0072,
+                      "Y": 28.5423
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4063,
+                      "Y": 0.4757
+                    },
+                    "PreSize": {
+                      "X": 0.7,
+                      "Y": 0.4667
+                    },
+                    "LeftMargin": 65.0072,
+                    "RightMargin": -17.0072,
+                    "TopMargin": 17.4577,
+                    "BottomMargin": 14.5423,
+                    "Tag": 216,
+                    "ActionTag": -79102262,
+                    "Size": {
+                      "X": 112.0,
+                      "Y": 28.0
+                    },
+                    "Name": "text_music0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_gouxuan_01.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_gouxuan_01.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_gouxuan_01.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/secondaryMenu/img_gouxuan_02.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.546,
+                      "ScaleY": 0.5983
+                    },
+                    "Position": {
+                      "X": 32.8899,
+                      "Y": 34.5436
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2056,
+                      "Y": 0.5757
+                    },
+                    "PreSize": {
+                      "X": 0.275,
+                      "Y": 0.7333
+                    },
+                    "LeftMargin": 8.8659,
+                    "RightMargin": 107.1341,
+                    "TopMargin": 7.7816,
+                    "BottomMargin": 8.2184,
+                    "Tag": 217,
+                    "ActionTag": 165176748,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 44.0
+                    },
+                    "Name": "checkbox_music0",
+                    "ctype": "CheckBoxObjectData"
+                  }
+                ],
+                "ActionTag": -1919821705,
+                "Size": {
+                  "X": 160.0,
+                  "Y": 60.0
+                },
+                "Name": "panel_music0",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -334063629,
+            "Size": {
+              "X": 768.0,
+              "Y": 80.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 80.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../GameHall/Resoures/secondaryMenu/img_gouxuan_01.png",
+        "../../../GameHall/Resoures/secondaryMenu/img_gouxuan_02.png",
+        "../../../GameHall/Resoures/secondaryMenu/img_xiazhufangshi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,1867 @@
+{
+  "ID": "589f0d9e-d6e2-43a9-a4d9-5db39f5cc4eb",
+  "Version": "2.3.3.0",
+  "Name": "BigZhuanPan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1168,
+        "Children": [
+          {
+            "BackColorAlpha": 101,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1169,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/img_dazhuanpanditu.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 628,
+                "Scale9Height": 638,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4906,
+                  "Y": 0.8861
+                },
+                "LeftMargin": 326.0,
+                "RightMargin": 326.0,
+                "TopMargin": 41.0,
+                "BottomMargin": 41.0,
+                "Tag": 1170,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 330.0,
+                    "RotationSkewY": 330.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 22,
+                    "ActionTag": -1725421246,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_11",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 300.0,
+                    "RotationSkewY": 300.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 21,
+                    "ActionTag": 473696159,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_10",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 270.0,
+                    "RotationSkewY": 270.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 20,
+                    "ActionTag": 987731714,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 240.0,
+                    "RotationSkewY": 240.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 19,
+                    "ActionTag": -1264145998,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 210.0,
+                    "RotationSkewY": 210.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 18,
+                    "ActionTag": 618512190,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 17,
+                    "ActionTag": -1602785113,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 150.0,
+                    "RotationSkewY": 150.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 16,
+                    "ActionTag": 617572896,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 120.0,
+                    "RotationSkewY": 120.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 15,
+                    "ActionTag": -97608635,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 90.0,
+                    "RotationSkewY": 90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 14,
+                    "ActionTag": 1570018792,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 60.0,
+                    "RotationSkewY": 60.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 13,
+                    "ActionTag": -718806613,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.37,
+                      "Y": 320.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 30.0,
+                    "RotationSkewY": 30.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.37,
+                    "RightMargin": 242.63,
+                    "TopMargin": 38.5,
+                    "BottomMargin": 320.5,
+                    "Tag": 12,
+                    "ActionTag": 1523562800,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "VisibleForFrame": false,
+                    "Alpha": 119,
+                    "Name": "bg_hight_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_hight.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 1
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 312.3699,
+                      "Y": 320.4999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 360.0,
+                    "RotationSkewY": 360.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.5024
+                    },
+                    "PreSize": {
+                      "X": 0.2325,
+                      "Y": 0.4373
+                    },
+                    "LeftMargin": 239.3699,
+                    "RightMargin": 242.6301,
+                    "TopMargin": 38.5001,
+                    "BottomMargin": 320.4999,
+                    "Tag": 11,
+                    "ActionTag": -1530624880,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 279.0
+                    },
+                    "Alpha": 119,
+                    "Name": "bg_hight_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/img_dazhuanpanditu3.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 543,
+                    "Scale9Height": 541,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 41.9576,
+                      "Y": 45.0848
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0668,
+                      "Y": 0.0707
+                    },
+                    "PreSize": {
+                      "X": 0.8646,
+                      "Y": 0.848
+                    },
+                    "LeftMargin": 41.9576,
+                    "RightMargin": 43.0424,
+                    "TopMargin": 51.9152,
+                    "BottomMargin": 45.0848,
+                    "Tag": 1537,
+                    "ActionTag": -27900329,
+                    "Size": {
+                      "X": 543.0,
+                      "Y": 541.0
+                    },
+                    "Name": "img_icon",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/img_dazhuanpanditu2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 328,
+                    "Scale9Height": 328,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 313.4576,
+                      "Y": 315.5848
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4991,
+                      "Y": 0.4946
+                    },
+                    "PreSize": {
+                      "X": 0.5223,
+                      "Y": 0.5141
+                    },
+                    "LeftMargin": 149.4576,
+                    "RightMargin": 150.5424,
+                    "TopMargin": 158.4152,
+                    "BottomMargin": 151.5848,
+                    "Tag": 1538,
+                    "ActionTag": 112927272,
+                    "Size": {
+                      "X": 328.0,
+                      "Y": 328.0
+                    },
+                    "Name": "img_tip_text",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/img_dajiangbiaozhi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 73,
+                    "Scale9Height": 64,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 312.4513,
+                      "Y": 612.3206
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4975,
+                      "Y": 0.9598
+                    },
+                    "PreSize": {
+                      "X": 0.1162,
+                      "Y": 0.1003
+                    },
+                    "LeftMargin": 275.9513,
+                    "RightMargin": 279.0487,
+                    "TopMargin": -6.3206,
+                    "BottomMargin": 580.3206,
+                    "Tag": 31,
+                    "ActionTag": 716999340,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 64.0
+                    },
+                    "Name": "img_tip_text_0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1326735660,
+                "Size": {
+                  "X": 628.0,
+                  "Y": 638.0
+                },
+                "Name": "img_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/ef_dengguang.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 626,
+                "Scale9Height": 638,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4891,
+                  "Y": 0.8861
+                },
+                "LeftMargin": 327.0,
+                "RightMargin": 327.0,
+                "TopMargin": 41.0,
+                "BottomMargin": 41.0,
+                "Tag": 257,
+                "ActionTag": 1779284491,
+                "Size": {
+                  "X": 626.0,
+                  "Y": 638.0
+                },
+                "Name": "img_bg_blink",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0781,
+                  "Y": 0.2778
+                },
+                "LeftMargin": 590.0,
+                "RightMargin": 590.0,
+                "TopMargin": 160.0,
+                "BottomMargin": 360.0,
+                "Tag": 1540,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/img_dazhuanpanditujiantou.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 47,
+                    "Scale9Height": 89,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 50.0,
+                      "Y": 64.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3225
+                    },
+                    "PreSize": {
+                      "X": 0.47,
+                      "Y": 0.445
+                    },
+                    "LeftMargin": 26.5,
+                    "RightMargin": 26.5,
+                    "TopMargin": 46.5,
+                    "BottomMargin": 64.5,
+                    "Tag": 1539,
+                    "ActionTag": 1677084082,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 89.0
+                    },
+                    "Name": "img_cur",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1019962677,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 200.0
+                },
+                "Name": "panel_cur",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0781,
+                  "Y": 0.2778
+                },
+                "LeftMargin": 590.0,
+                "RightMargin": 590.0,
+                "TopMargin": 160.0,
+                "BottomMargin": 360.0,
+                "Tag": 34,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/00.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 156,
+                    "Scale9Height": 288,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 50.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.56,
+                      "Y": 1.44
+                    },
+                    "LeftMargin": -28.0,
+                    "RightMargin": -28.0,
+                    "TopMargin": -88.0,
+                    "Tag": 37,
+                    "ActionTag": 1402190496,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 288.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "img_blink_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 156,
+                    "Scale9Height": 288,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 50.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.56,
+                      "Y": 1.44
+                    },
+                    "LeftMargin": -28.0,
+                    "RightMargin": -28.0,
+                    "TopMargin": -88.0,
+                    "Tag": 38,
+                    "ActionTag": 2061759127,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 288.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "img_blink_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/02.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 156,
+                    "Scale9Height": 288,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 50.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.56,
+                      "Y": 1.44
+                    },
+                    "LeftMargin": -28.0,
+                    "RightMargin": -28.0,
+                    "TopMargin": -88.0,
+                    "Tag": 39,
+                    "ActionTag": -1147205275,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 288.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "img_blink_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1099715941,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 200.0
+                },
+                "VisibleForFrame": false,
+                "Name": "panel_blink",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/img_dazhuanpanditugo.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/img_dazhuanpanditugo.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/img_dazhuanpanditugo.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 178,
+                "Scale9Height": 181,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9999,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1625,
+                  "Y": 0.2819
+                },
+                "LeftMargin": 535.9999,
+                "RightMargin": 536.0001,
+                "TopMargin": 258.5,
+                "BottomMargin": 258.5,
+                "Tag": 1171,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/bg_go.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 136,
+                    "Scale9Height": 41,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 104.0001,
+                      "Y": 54.9299
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2706
+                    },
+                    "PreSize": {
+                      "X": 0.6538,
+                      "Y": 0.202
+                    },
+                    "LeftMargin": 36.0001,
+                    "RightMargin": 35.9999,
+                    "TopMargin": 127.5701,
+                    "BottomMargin": 34.4299,
+                    "Tag": 256,
+                    "ActionTag": 1372423524,
+                    "Size": {
+                      "X": 136.0,
+                      "Y": 41.0
+                    },
+                    "Name": "bg_go",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "本次免费",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 0.0,
+                    "ShadowOffsetY": 0.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 106.22,
+                      "Y": 63.1556
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5107,
+                      "Y": 0.3111
+                    },
+                    "PreSize": {
+                      "X": 0.6058,
+                      "Y": 0.1084
+                    },
+                    "LeftMargin": 43.22,
+                    "RightMargin": 38.78,
+                    "TopMargin": 128.8444,
+                    "BottomMargin": 52.1556,
+                    "Tag": 254,
+                    "ActionTag": -371480913,
+                    "Size": {
+                      "X": 126.0,
+                      "Y": 22.0
+                    },
+                    "Name": "text_gold",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "20/20",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 106.2225,
+                      "Y": 45.4313
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 247,
+                      "G": 227,
+                      "B": 1
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5107,
+                      "Y": 0.2238
+                    },
+                    "PreSize": {
+                      "X": 0.2452,
+                      "Y": 0.1084
+                    },
+                    "LeftMargin": 80.7225,
+                    "RightMargin": 76.2775,
+                    "TopMargin": 146.5687,
+                    "BottomMargin": 34.4313,
+                    "Tag": 255,
+                    "ActionTag": 747679246,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 22.0
+                    },
+                    "Name": "text_num",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 942259480,
+                "Size": {
+                  "X": 208.0,
+                  "Y": 203.0
+                },
+                "Name": "btn_start",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 831.4344,
+                  "Y": 79.1457
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6496,
+                  "Y": 0.1099
+                },
+                "PreSize": {
+                  "X": 0.1055,
+                  "Y": 0.0528
+                },
+                "LeftMargin": 831.4344,
+                "RightMargin": 313.5656,
+                "TopMargin": 602.8543,
+                "BottomMargin": 79.1457,
+                "Tag": 36,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/btn_wenghaodikuang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 135,
+                    "Scale9Height": 38,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 37,
+                    "ActionTag": 1059254034,
+                    "Size": {
+                      "X": 135.0,
+                      "Y": 38.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/btn_wenghao02.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/btn_wenghao02.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/btn_wenghao01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 14,
+                    "Scale9Height": 18,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 7.5681,
+                      "Y": -2.2258
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0561,
+                      "Y": -0.0586
+                    },
+                    "PreSize": {
+                      "X": 0.2667,
+                      "Y": 1.0526
+                    },
+                    "LeftMargin": 7.5681,
+                    "RightMargin": 91.4319,
+                    "TopMargin": 0.2258,
+                    "BottomMargin": -2.2258,
+                    "Tag": 38,
+                    "ActionTag": 323906167,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 40.0
+                    },
+                    "Name": "btn_pro",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "转盘概率",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 86.2393,
+                      "Y": 16.9612
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 220,
+                      "G": 220,
+                      "B": 220
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6388,
+                      "Y": 0.4463
+                    },
+                    "PreSize": {
+                      "X": 0.6222,
+                      "Y": 0.6579
+                    },
+                    "LeftMargin": 44.2393,
+                    "RightMargin": 6.7607,
+                    "TopMargin": 8.5388,
+                    "BottomMargin": 4.4612,
+                    "Tag": 39,
+                    "ActionTag": 1900329500,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 25.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 845064635,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 38.0
+                },
+                "Name": "panel_pro",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 126,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 641.7017,
+                  "Y": 360.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5013,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 1.7017,
+                "RightMargin": -1.7017,
+                "TopMargin": -0.0002,
+                "BottomMargin": 0.0002,
+                "Tag": 27,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 640.0,
+                    "RightMargin": 640.0,
+                    "TopMargin": 360.0,
+                    "BottomMargin": 360.0,
+                    "Tag": 126,
+                    "ActionTag": 342031,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node_boom",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/turnTable/img_gongxihuode.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 1054,
+                    "Scale9Height": 325,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8234,
+                      "Y": 0.4514
+                    },
+                    "LeftMargin": 113.0,
+                    "RightMargin": 113.0,
+                    "TopMargin": 197.5,
+                    "BottomMargin": 197.5,
+                    "Tag": 28,
+                    "ActionTag": 1083199083,
+                    "Size": {
+                      "X": 1054.0,
+                      "Y": 325.0
+                    },
+                    "Name": "img_reward_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Default",
+                      "Path": "Default/ImageFile.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 46,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0875,
+                      "Y": 0.1528
+                    },
+                    "LeftMargin": 584.0,
+                    "RightMargin": 584.0,
+                    "TopMargin": 305.0,
+                    "BottomMargin": 305.0,
+                    "Tag": 32,
+                    "ActionTag": 1339389297,
+                    "Size": {
+                      "X": 112.0,
+                      "Y": 110.0
+                    },
+                    "Name": "img_reward",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "888钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 276.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 224,
+                      "B": 224
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3833
+                    },
+                    "PreSize": {
+                      "X": 0.3328,
+                      "Y": 0.0611
+                    },
+                    "LeftMargin": 427.0,
+                    "RightMargin": 427.0,
+                    "TopMargin": 422.0,
+                    "BottomMargin": 254.0,
+                    "CallBackType": "Click",
+                    "Tag": 33,
+                    "ActionTag": 368168327,
+                    "Size": {
+                      "X": 426.0,
+                      "Y": 44.0
+                    },
+                    "Name": "text_reward",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1137541889,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "VisibleForFrame": false,
+                "Name": "panel_reward",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1509767632,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/ImageFile.png",
+        "../font/jzy.TTF",
+        "Resoures/turnTable/00.png",
+        "Resoures/turnTable/01.png",
+        "Resoures/turnTable/02.png",
+        "Resoures/turnTable/bg_go.png",
+        "Resoures/turnTable/bg_hight.png",
+        "Resoures/turnTable/btn_wenghao01.png",
+        "Resoures/turnTable/btn_wenghao02.png",
+        "Resoures/turnTable/btn_wenghaodikuang.png",
+        "Resoures/turnTable/ef_dengguang.png",
+        "Resoures/turnTable/img_dajiangbiaozhi.png",
+        "Resoures/turnTable/img_dazhuanpanditu.png",
+        "Resoures/turnTable/img_dazhuanpanditu2.png",
+        "Resoures/turnTable/img_dazhuanpanditu3.png",
+        "Resoures/turnTable/img_dazhuanpanditugo.png",
+        "Resoures/turnTable/img_dazhuanpanditujiantou.png",
+        "Resoures/turnTable/img_gongxihuode.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,808 @@
+{
+  "ID": "bfe7223f-d1cd-46af-bfc3-4b9db700f2a0",
+  "Version": "2.3.3.0",
+  "Name": "DDZChat",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 16,
+        "Children": [
+          {
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 244,
+            "Children": [
+              {
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 1.0
+                },
+                "Position": {
+                  "X": 1305.6,
+                  "Y": 5.184
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 1.02,
+                  "Y": 0.0072
+                },
+                "PreSize": {
+                  "X": 0.6664,
+                  "Y": 0.7097
+                },
+                "LeftMargin": 452.6,
+                "RightMargin": -25.6,
+                "TopMargin": 203.816,
+                "BottomMargin": 5.184,
+                "Tag": 17,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/common/bg_3.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 375,
+                    "Scale9OriginY": 89,
+                    "Scale9Width": 179,
+                    "Scale9Height": 50,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 426.5,
+                      "Y": 255.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 232,
+                    "ActionTag": -2041854610,
+                    "Size": {
+                      "X": 853.0,
+                      "Y": 511.0
+                    },
+                    "Name": "Image_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/chat/bg_send.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 17,
+                    "Scale9OriginY": 23,
+                    "Scale9Width": 20,
+                    "Scale9Height": 36,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 274.527,
+                      "Y": 66.6508
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3218,
+                      "Y": 0.1304
+                    },
+                    "PreSize": {
+                      "X": 0.5393,
+                      "Y": 0.1605
+                    },
+                    "LeftMargin": 44.527,
+                    "RightMargin": 348.473,
+                    "TopMargin": 403.3492,
+                    "BottomMargin": 25.6508,
+                    "Tag": 233,
+                    "ActionTag": -494818918,
+                    "Size": {
+                      "X": 460.0,
+                      "Y": 82.0
+                    },
+                    "Name": "Image_inputbg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 40,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "最多输入20个文字",
+                    "MaxLengthEnable": true,
+                    "MaxLengthText": 20,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 275.5272,
+                      "Y": 66.6508
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.323,
+                      "Y": 0.1304
+                    },
+                    "PreSize": {
+                      "X": 0.4994,
+                      "Y": 0.0978
+                    },
+                    "LeftMargin": 62.5272,
+                    "RightMargin": 364.4728,
+                    "TopMargin": 419.3492,
+                    "BottomMargin": 41.6508,
+                    "Tag": 234,
+                    "ActionTag": 1172406288,
+                    "Size": {
+                      "X": 426.0,
+                      "Y": 50.0
+                    },
+                    "Name": "TextField_Input",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/chat/btnSendMsg_yes.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 100,
+                    "Scale9Height": 48,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 586.5293,
+                      "Y": 66.6586
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6876,
+                      "Y": 0.1304
+                    },
+                    "PreSize": {
+                      "X": 0.1524,
+                      "Y": 0.137
+                    },
+                    "LeftMargin": 521.5293,
+                    "RightMargin": 201.4707,
+                    "TopMargin": 409.3414,
+                    "BottomMargin": 31.6586,
+                    "Tag": 235,
+                    "ActionTag": -1197985458,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 70.0
+                    },
+                    "Name": "Button_Send",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Enable": true,
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 56.0815,
+                      "Y": 125.8508
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0657,
+                      "Y": 0.2463
+                    },
+                    "PreSize": {
+                      "X": 0.7503,
+                      "Y": 0.681
+                    },
+                    "LeftMargin": 56.0815,
+                    "RightMargin": 156.9185,
+                    "TopMargin": 37.1492,
+                    "BottomMargin": 125.8508,
+                    "Tag": 236,
+                    "Children": [
+                      {
+                        "DirectionType": "Vertical",
+                        "ScrollDirectionType": 0,
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "CallBackType": "Click",
+                        "Tag": 237,
+                        "ActionTag": 1333404416,
+                        "Size": {
+                          "X": 640.0,
+                          "Y": 348.0
+                        },
+                        "Name": "ListView_Usual",
+                        "ctype": "ListViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -201907954,
+                    "Size": {
+                      "X": 640.0,
+                      "Y": 348.0
+                    },
+                    "Name": "Panel_Usual",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 56.0,
+                      "Y": 125.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0657,
+                      "Y": 0.2446
+                    },
+                    "PreSize": {
+                      "X": 0.7503,
+                      "Y": 0.681
+                    },
+                    "LeftMargin": 56.0,
+                    "RightMargin": 157.0,
+                    "TopMargin": 38.0,
+                    "BottomMargin": 125.0,
+                    "Tag": 238,
+                    "Children": [
+                      {
+                        "DirectionType": "Vertical",
+                        "ScrollDirectionType": 0,
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PercentWidthEnable": true,
+                        "PercentHeightEnable": true,
+                        "PercentWidthEnabled": true,
+                        "PercentHeightEnabled": true,
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 1.0
+                        },
+                        "Tag": 239,
+                        "ActionTag": 407128271,
+                        "Size": {
+                          "X": 640.0,
+                          "Y": 348.0
+                        },
+                        "Name": "ListView_Expression",
+                        "ctype": "ListViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1302596520,
+                    "Size": {
+                      "X": 640.0,
+                      "Y": 348.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Panel_Expression",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 300.6825,
+                      "Y": 257.7995
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3525,
+                      "Y": 0.5045
+                    },
+                    "PreSize": {
+                      "X": 0.6272,
+                      "Y": 0.8806
+                    },
+                    "LeftMargin": 33.1825,
+                    "RightMargin": 284.8175,
+                    "TopMargin": 28.2005,
+                    "BottomMargin": 32.7995,
+                    "Tag": 240,
+                    "Children": [
+                      {
+                        "DirectionType": "Vertical",
+                        "ScrollDirectionType": 0,
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": -52.0,
+                          "Y": 74.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0972,
+                          "Y": 0.1644
+                        },
+                        "PreSize": {
+                          "X": 1.1925,
+                          "Y": 0.5333
+                        },
+                        "LeftMargin": -52.0,
+                        "RightMargin": -51.0,
+                        "TopMargin": 136.0,
+                        "BottomMargin": 74.0,
+                        "Tag": 241,
+                        "ActionTag": -1208629706,
+                        "Size": {
+                          "X": 638.0,
+                          "Y": 240.0
+                        },
+                        "Name": "ListView_Chat",
+                        "ctype": "ListViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 838661130,
+                    "Size": {
+                      "X": 535.0,
+                      "Y": 450.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Panel_Chat",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 35,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/chat/btnQuickChat_1.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/chat/btnQuickChat_1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/chat/btnQuickChat_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 52,
+                    "Scale9Height": 156,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 826.2158,
+                      "Y": 393.9492
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.9686,
+                      "Y": 0.7709
+                    },
+                    "PreSize": {
+                      "X": 0.0961,
+                      "Y": 0.3483
+                    },
+                    "LeftMargin": 744.2158,
+                    "RightMargin": 26.7842,
+                    "TopMargin": 28.0508,
+                    "BottomMargin": 304.9492,
+                    "Tag": 242,
+                    "ActionTag": -482935362,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 178.0
+                    },
+                    "Name": "Button_Usual",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 35,
+                    "ButtonText": "",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/chat/btnFriendChat_1.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/chat/btnFriendChat_1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/chat/btnFriendChat_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 52,
+                    "Scale9Height": 156,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 744.1572,
+                      "Y": 215.5442
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8724,
+                      "Y": 0.4218
+                    },
+                    "PreSize": {
+                      "X": 0.0961,
+                      "Y": 0.3483
+                    },
+                    "LeftMargin": 744.1572,
+                    "RightMargin": 26.8428,
+                    "TopMargin": 206.4558,
+                    "BottomMargin": 126.5442,
+                    "Tag": 243,
+                    "ActionTag": -1750177947,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 178.0
+                    },
+                    "Name": "Button_Expression",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1732128753,
+                "Size": {
+                  "X": 853.0,
+                  "Y": 511.0
+                },
+                "Name": "ui",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1878852074,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "Panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resoures/chat/bg_send.png",
+        "Resoures/chat/btnFriendChat_1.png",
+        "Resoures/chat/btnFriendChat_2.png",
+        "Resoures/chat/btnQuickChat_1.png",
+        "Resoures/chat/btnQuickChat_2.png",
+        "Resoures/chat/btnSendMsg_yes.png",
+        "Resoures/common/bg_3.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

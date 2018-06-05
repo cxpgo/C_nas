@@ -1,0 +1,253 @@
+{
+  "ID": "79d73320-367e-4f1f-853b-62dfc2ab4d38",
+  "Version": "2.3.3.0",
+  "Name": "TestServers",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 161,
+        "Children": [
+          {
+            "ItemMargin": 10,
+            "DirectionType": "Vertical",
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GameHall/Resoures/large/img_dikuangdonghua.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 30,
+            "Scale9OriginY": 32,
+            "Scale9Width": 33,
+            "Scale9Height": 33,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 12.1367,
+              "Y": -152.8802
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.2137,
+              "Y": -15.288
+            },
+            "PreSize": {
+              "X": 30.0,
+              "Y": 32.0
+            },
+            "LeftMargin": 12.1367,
+            "RightMargin": -302.1367,
+            "TopMargin": -157.1198,
+            "BottomMargin": -152.8802,
+            "Tag": 319,
+            "ActionTag": -1459752909,
+            "Size": {
+              "X": 300.0,
+              "Y": 320.0
+            },
+            "Name": "listview",
+            "ctype": "ListViewObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 9.7266,
+              "Y": 92.0645
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9727,
+              "Y": 9.2065
+            },
+            "PreSize": {
+              "X": 30.0,
+              "Y": 6.0
+            },
+            "LeftMargin": 9.7266,
+            "RightMargin": -299.7266,
+            "TopMargin": -142.0645,
+            "BottomMargin": 92.0645,
+            "Tag": 542,
+            "Children": [
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBox_Normal.png",
+                  "Plist": ""
+                },
+                "NodeNormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/CheckBoxNode_Normal.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.1177,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1004,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.6667
+                },
+                "LeftMargin": 10.1177,
+                "RightMargin": 249.8823,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "Tag": 540,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "晓蚁服",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {},
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 45.0,
+                      "Y": 19.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.125,
+                      "Y": 0.48
+                    },
+                    "PreSize": {
+                      "X": 4.5,
+                      "Y": 0.9
+                    },
+                    "LeftMargin": 45.0,
+                    "RightMargin": -185.0,
+                    "TopMargin": 2.8,
+                    "BottomMargin": 1.2,
+                    "Tag": 541,
+                    "ActionTag": 1687753024,
+                    "Size": {
+                      "X": 180.0,
+                      "Y": 36.0
+                    },
+                    "Name": "text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -538524479,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "checkbox",
+                "ctype": "CheckBoxObjectData"
+              }
+            ],
+            "ActionTag": 220266402,
+            "Size": {
+              "X": 300.0,
+              "Y": 60.0
+            },
+            "Name": "panel_server",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 10.0,
+          "Y": 10.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/CheckBox_Normal.png",
+        "../Default/CheckBoxNode_Normal.png",
+        "../font/jzy.TTF",
+        "Resoures/large/img_dikuangdonghua.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

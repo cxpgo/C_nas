@@ -1,0 +1,3361 @@
+{
+  "ID": "c89ec1bd-9549-41de-9fc0-67dab060f339",
+  "Version": "2.3.3.0",
+  "Name": "GameShop",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 466,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 467,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_shurukuang2.png",
+                  "Plist": "GameHall/Resoures/new_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 43,
+                "Scale9OriginY": 123,
+                "Scale9Width": 47,
+                "Scale9Height": 128,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 120.91,
+                  "Y": 9.29
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0945,
+                  "Y": 0.0129
+                },
+                "PreSize": {
+                  "X": 0.868,
+                  "Y": 0.8681
+                },
+                "LeftMargin": 120.91,
+                "RightMargin": 48.09,
+                "TopMargin": 85.71,
+                "BottomMargin": 9.29,
+                "Tag": 470,
+                "ActionTag": 88983254,
+                "Size": {
+                  "X": 1111.0,
+                  "Y": 625.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/shop/img_shop_title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 697.33,
+                  "Y": 652.77
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5448,
+                  "Y": 0.9066
+                },
+                "PreSize": {
+                  "X": 0.5266,
+                  "Y": 0.2361
+                },
+                "LeftMargin": 360.33,
+                "RightMargin": 245.6699,
+                "TopMargin": -17.77,
+                "BottomMargin": 567.77,
+                "Tag": 472,
+                "ActionTag": 303967847,
+                "Size": {
+                  "X": 674.0,
+                  "Y": 170.0
+                },
+                "Name": "img_shop_title_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Resoures/create_room/btn_shutiao.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 82,
+                "Scale9OriginY": 24,
+                "Scale9Width": 87,
+                "Scale9Height": 579,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 135.26,
+                  "Y": 31.19
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1057,
+                  "Y": 0.0433
+                },
+                "PreSize": {
+                  "X": 0.1961,
+                  "Y": 0.8181
+                },
+                "LeftMargin": 135.26,
+                "RightMargin": 893.74,
+                "TopMargin": 99.81,
+                "BottomMargin": 31.19,
+                "Tag": 474,
+                "ActionTag": 295024293,
+                "Size": {
+                  "X": 251.0,
+                  "Y": 589.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/shop/nine_02.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 27,
+                "Scale9OriginY": 27,
+                "Scale9Width": 29,
+                "Scale9Height": 29,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 387.2628,
+                  "Y": 21.313
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3025,
+                  "Y": 0.0296
+                },
+                "PreSize": {
+                  "X": 0.6438,
+                  "Y": 0.7778
+                },
+                "LeftMargin": 387.2628,
+                "RightMargin": 68.7372,
+                "TopMargin": 138.687,
+                "BottomMargin": 21.313,
+                "Tag": 668,
+                "ActionTag": -1937496685,
+                "Size": {
+                  "X": 824.0,
+                  "Y": 560.0
+                },
+                "Name": "Image_42",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/shop/img_renwu.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 285.5267,
+                  "Y": 213.5048
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2231,
+                  "Y": 0.2965
+                },
+                "PreSize": {
+                  "X": 0.2375,
+                  "Y": 0.4556
+                },
+                "LeftMargin": 133.5267,
+                "RightMargin": 842.4733,
+                "TopMargin": 342.4952,
+                "BottomMargin": 49.5048,
+                "Tag": 136,
+                "ActionTag": -1385255995,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 328.0
+                },
+                "Name": "img_renwu_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1002.8805,
+                  "Y": 586.7051
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7835,
+                  "Y": 0.8149
+                },
+                "PreSize": {
+                  "X": 0.1268,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 1002.8805,
+                "RightMargin": 114.8323,
+                "TopMargin": 99.3432,
+                "BottomMargin": 586.7051,
+                "Tag": 739,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/image/img_shuzikuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 167,
+                    "Scale9Height": 35,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.2687,
+                      "Y": 16.8585
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4823,
+                      "Y": 0.4965
+                    },
+                    "PreSize": {
+                      "X": 1.029,
+                      "Y": 1.0309
+                    },
+                    "LeftMargin": -5.2313,
+                    "RightMargin": 0.5186,
+                    "TopMargin": -0.4068,
+                    "BottomMargin": -0.6415,
+                    "Tag": 740,
+                    "ActionTag": 238252880,
+                    "Size": {
+                      "X": 167.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_6",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/img_qdzhuangshi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 51,
+                    "Scale9Height": 47,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 7.0,
+                      "Y": 17.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0431,
+                      "Y": 0.5007
+                    },
+                    "PreSize": {
+                      "X": 0.3143,
+                      "Y": 1.3843
+                    },
+                    "LeftMargin": -18.5,
+                    "RightMargin": 129.7873,
+                    "TopMargin": -6.5483,
+                    "BottomMargin": -6.5,
+                    "Tag": 741,
+                    "ActionTag": 218319307,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 47.0
+                    },
+                    "Name": "Image_11",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "121111",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -1.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 88.0,
+                      "Y": 17.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 219,
+                      "B": 96
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5422,
+                      "Y": 0.5066
+                    },
+                    "PreSize": {
+                      "X": 0.5272,
+                      "Y": 0.5891
+                    },
+                    "LeftMargin": 45.2251,
+                    "RightMargin": 31.5124,
+                    "TopMargin": 6.7517,
+                    "BottomMargin": 7.2,
+                    "CallBackType": "Click",
+                    "Tag": 743,
+                    "ActionTag": -1561143668,
+                    "Size": {
+                      "X": 85.5498,
+                      "Y": 20.0
+                    },
+                    "Name": "text_fangka",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -451928598,
+                "Size": {
+                  "X": 162.2873,
+                  "Y": 33.9517
+                },
+                "Name": "panel_fangka",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1002.88,
+                  "Y": 586.71
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7835,
+                  "Y": 0.8149
+                },
+                "PreSize": {
+                  "X": 0.1268,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 1002.88,
+                "RightMargin": 114.8328,
+                "TopMargin": 99.3383,
+                "BottomMargin": 586.71,
+                "Tag": 478,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/image/img_shuzikuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 167,
+                    "Scale9Height": 35,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.2687,
+                      "Y": 16.8585
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4823,
+                      "Y": 0.4965
+                    },
+                    "PreSize": {
+                      "X": 1.029,
+                      "Y": 1.0309
+                    },
+                    "LeftMargin": -5.2313,
+                    "RightMargin": 0.5186,
+                    "TopMargin": -0.4068,
+                    "BottomMargin": -0.6415,
+                    "Tag": 479,
+                    "ActionTag": 306581262,
+                    "Size": {
+                      "X": 167.0,
+                      "Y": 35.0
+                    },
+                    "Name": "Image_6",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/image/img_jifen.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 46,
+                    "Scale9Height": 49,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 7.0,
+                      "Y": 17.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0431,
+                      "Y": 0.5007
+                    },
+                    "PreSize": {
+                      "X": 0.2896,
+                      "Y": 1.4432
+                    },
+                    "LeftMargin": -16.5,
+                    "RightMargin": 131.7873,
+                    "TopMargin": -7.5483,
+                    "BottomMargin": -7.5,
+                    "Tag": 480,
+                    "ActionTag": 839309068,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 49.0
+                    },
+                    "Name": "Image_11",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "121111",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 1.0,
+                    "ShadowOffsetY": -1.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 88.0,
+                      "Y": 17.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 219,
+                      "B": 96
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5422,
+                      "Y": 0.5066
+                    },
+                    "PreSize": {
+                      "X": 0.5272,
+                      "Y": 0.5891
+                    },
+                    "LeftMargin": 45.2251,
+                    "RightMargin": 31.5124,
+                    "TopMargin": 6.7517,
+                    "BottomMargin": 7.2,
+                    "CallBackType": "Click",
+                    "Tag": 482,
+                    "ActionTag": -1255086229,
+                    "Size": {
+                      "X": 85.5498,
+                      "Y": 20.0
+                    },
+                    "Name": "text_fangka",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 709072664,
+                "Size": {
+                  "X": 162.2873,
+                  "Y": 33.9517
+                },
+                "Name": "panel_jifen",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 398.0,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3109,
+                  "Y": 0.0375
+                },
+                "PreSize": {
+                  "X": 0.6305,
+                  "Y": 0.7639
+                },
+                "LeftMargin": 398.0,
+                "RightMargin": 75.0,
+                "TopMargin": 143.0,
+                "BottomMargin": 27.0,
+                "Tag": 763,
+                "ActionTag": 1443649837,
+                "Size": {
+                  "X": 807.0,
+                  "Y": 550.0
+                },
+                "Name": "listview_item_0",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 398.0,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3109,
+                  "Y": 0.0375
+                },
+                "PreSize": {
+                  "X": 0.6305,
+                  "Y": 0.7639
+                },
+                "LeftMargin": 398.0,
+                "RightMargin": 75.0,
+                "TopMargin": 143.0,
+                "BottomMargin": 27.0,
+                "Tag": 777,
+                "ActionTag": 1324049072,
+                "Size": {
+                  "X": 807.0,
+                  "Y": 550.0
+                },
+                "Name": "listview_item_1",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1353.9119,
+                  "Y": 454.8357
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0577,
+                  "Y": 0.6317
+                },
+                "PreSize": {
+                  "X": 0.6086,
+                  "Y": 0.3819
+                },
+                "LeftMargin": 1353.9119,
+                "RightMargin": -852.9119,
+                "TopMargin": -9.8357,
+                "BottomMargin": 454.8357,
+                "Tag": 744,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/img_zuanshikuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 161,
+                    "Scale9Height": 254,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 137.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3119,
+                      "Y": 0.9236
+                    },
+                    "RightMargin": 536.0,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 745,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_zuanshi_00.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 151,
+                        "Scale9Height": 116,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 121.0,
+                          "Y": 185.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4979,
+                          "Y": 0.7283
+                        },
+                        "PreSize": {
+                          "X": 0.6214,
+                          "Y": 0.4567
+                        },
+                        "LeftMargin": 45.5,
+                        "RightMargin": 46.5,
+                        "TopMargin": 11.0,
+                        "BottomMargin": 127.0,
+                        "Tag": 748,
+                        "ActionTag": 1655959207,
+                        "Size": {
+                          "X": 151.0,
+                          "Y": 116.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "CharWidth": 27,
+                        "CharHeight": 41,
+                        "LabelText": "",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_shuzhi_02.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.7,
+                          "Y": 116.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5132,
+                          "Y": 0.4567
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 124.7,
+                        "RightMargin": 118.3,
+                        "TopMargin": 138.0,
+                        "BottomMargin": 116.0,
+                        "Tag": 746,
+                        "ActionTag": 203585156,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 150,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 125.0,
+                          "Y": 49.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5144,
+                          "Y": 0.1929
+                        },
+                        "PreSize": {
+                          "X": 0.7407,
+                          "Y": 0.2598
+                        },
+                        "LeftMargin": 35.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 172.0,
+                        "BottomMargin": 16.0,
+                        "Tag": 749,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jiage.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 36,
+                            "Scale9Height": 40,
+                            "AnchorPoint": {
+                              "ScaleX": 0.3597,
+                              "ScaleY": 0.6328
+                            },
+                            "Position": {
+                              "X": 58.67,
+                              "Y": 42.1961
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3259,
+                              "Y": 0.6393
+                            },
+                            "PreSize": {
+                              "X": 0.2,
+                              "Y": 0.6061
+                            },
+                            "LeftMargin": 45.7208,
+                            "RightMargin": 98.2792,
+                            "TopMargin": 9.1159,
+                            "BottomMargin": 16.8841,
+                            "Tag": 764,
+                            "ActionTag": -405477266,
+                            "Size": {
+                              "X": 36.0,
+                              "Y": 40.0
+                            },
+                            "Name": "Image_79",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "CharWidth": 25,
+                            "CharHeight": 41,
+                            "LabelText": "",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_shuzhi_01.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 119.71,
+                              "Y": 36.4627
+                            },
+                            "Scale": {
+                              "ScaleX": 0.9,
+                              "ScaleY": 0.9
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6651,
+                              "Y": 0.5525
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 119.71,
+                            "RightMargin": 60.29,
+                            "TopMargin": 29.5373,
+                            "BottomMargin": 36.4627,
+                            "Tag": 765,
+                            "ActionTag": -1979730573,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 2046216543,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 66.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1076143910,
+                    "Size": {
+                      "X": 243.0,
+                      "Y": 254.0
+                    },
+                    "Name": "Image_bg0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/img_zuanshikuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 161,
+                    "Scale9Height": 254,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 389.5,
+                      "Y": 137.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3119,
+                      "Y": 0.9236
+                    },
+                    "LeftMargin": 268.0,
+                    "RightMargin": 268.0,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 751,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_zuanshi_03.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 151,
+                        "Scale9Height": 116,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 121.0,
+                          "Y": 184.9998
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4979,
+                          "Y": 0.7283
+                        },
+                        "PreSize": {
+                          "X": 0.6214,
+                          "Y": 0.4567
+                        },
+                        "LeftMargin": 45.5,
+                        "RightMargin": 46.5,
+                        "TopMargin": 11.0002,
+                        "BottomMargin": 126.9998,
+                        "Tag": 766,
+                        "ActionTag": -959900979,
+                        "Size": {
+                          "X": 151.0,
+                          "Y": 116.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "CharWidth": 27,
+                        "CharHeight": 41,
+                        "LabelText": "",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_shuzhi_02.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.7,
+                          "Y": 116.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5132,
+                          "Y": 0.4567
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 124.7,
+                        "RightMargin": 118.3,
+                        "TopMargin": 138.0,
+                        "BottomMargin": 116.0,
+                        "Tag": 767,
+                        "ActionTag": 1868489666,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 150,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 125.0,
+                          "Y": 48.9996
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5144,
+                          "Y": 0.1929
+                        },
+                        "PreSize": {
+                          "X": 0.7407,
+                          "Y": 0.2598
+                        },
+                        "LeftMargin": 35.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 172.0004,
+                        "BottomMargin": 15.9996,
+                        "Tag": 768,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jiage.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 36,
+                            "Scale9Height": 40,
+                            "AnchorPoint": {
+                              "ScaleX": 0.3597,
+                              "ScaleY": 0.6328
+                            },
+                            "Position": {
+                              "X": 58.67,
+                              "Y": 42.1961
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3259,
+                              "Y": 0.6393
+                            },
+                            "PreSize": {
+                              "X": 0.2,
+                              "Y": 0.6061
+                            },
+                            "LeftMargin": 45.7208,
+                            "RightMargin": 98.2792,
+                            "TopMargin": 9.1159,
+                            "BottomMargin": 16.8841,
+                            "Tag": 769,
+                            "ActionTag": 1201500866,
+                            "Size": {
+                              "X": 36.0,
+                              "Y": 40.0
+                            },
+                            "Name": "Image_79",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "CharWidth": 25,
+                            "CharHeight": 41,
+                            "LabelText": "",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_shuzhi_01.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 119.71,
+                              "Y": 36.4627
+                            },
+                            "Scale": {
+                              "ScaleX": 0.9,
+                              "ScaleY": 0.9
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6651,
+                              "Y": 0.5525
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 119.71,
+                            "RightMargin": 60.29,
+                            "TopMargin": 29.5373,
+                            "BottomMargin": 36.4627,
+                            "Tag": 770,
+                            "ActionTag": 605283908,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": -24628721,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 66.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 1157237636,
+                    "Size": {
+                      "X": 243.0,
+                      "Y": 254.0
+                    },
+                    "Name": "Image_bg1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/img_zuanshikuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 161,
+                    "Scale9Height": 254,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 779.0,
+                      "Y": 137.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3119,
+                      "Y": 0.9236
+                    },
+                    "LeftMargin": 536.0,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 757,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_zuanshi_05.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 151,
+                        "Scale9Height": 116,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 121.0,
+                          "Y": 185.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4979,
+                          "Y": 0.7283
+                        },
+                        "PreSize": {
+                          "X": 0.6214,
+                          "Y": 0.4567
+                        },
+                        "LeftMargin": 45.5,
+                        "RightMargin": 46.5,
+                        "TopMargin": 11.0,
+                        "BottomMargin": 127.0,
+                        "Tag": 771,
+                        "ActionTag": 1218822827,
+                        "Size": {
+                          "X": 151.0,
+                          "Y": 116.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "CharWidth": 27,
+                        "CharHeight": 41,
+                        "LabelText": "",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_shuzhi_02.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.7,
+                          "Y": 116.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9676
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5132,
+                          "Y": 0.4567
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 124.7,
+                        "RightMargin": 118.3,
+                        "TopMargin": 138.0,
+                        "BottomMargin": 116.0,
+                        "Tag": 772,
+                        "ActionTag": 690232566,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 150,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 125.0,
+                          "Y": 49.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5144,
+                          "Y": 0.1929
+                        },
+                        "PreSize": {
+                          "X": 0.7407,
+                          "Y": 0.2598
+                        },
+                        "LeftMargin": 35.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 172.0,
+                        "BottomMargin": 16.0,
+                        "Tag": 773,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jiage.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 36,
+                            "Scale9Height": 40,
+                            "AnchorPoint": {
+                              "ScaleX": 0.3597,
+                              "ScaleY": 0.6328
+                            },
+                            "Position": {
+                              "X": 58.67,
+                              "Y": 42.1961
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3259,
+                              "Y": 0.6393
+                            },
+                            "PreSize": {
+                              "X": 0.2,
+                              "Y": 0.6061
+                            },
+                            "LeftMargin": 45.7208,
+                            "RightMargin": 98.2792,
+                            "TopMargin": 9.1159,
+                            "BottomMargin": 16.8841,
+                            "Tag": 774,
+                            "ActionTag": 1043804780,
+                            "Size": {
+                              "X": 36.0,
+                              "Y": 40.0
+                            },
+                            "Name": "Image_79",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "CharWidth": 25,
+                            "CharHeight": 41,
+                            "LabelText": "",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_shuzhi_01.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 119.71,
+                              "Y": 36.4627
+                            },
+                            "Scale": {
+                              "ScaleX": 0.9,
+                              "ScaleY": 0.9
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6651,
+                              "Y": 0.5525
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 119.71,
+                            "RightMargin": 60.29,
+                            "TopMargin": 29.5373,
+                            "BottomMargin": 36.4627,
+                            "Tag": 775,
+                            "ActionTag": -1828884953,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": -731493214,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 66.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1803452552,
+                    "Size": {
+                      "X": 243.0,
+                      "Y": 254.0
+                    },
+                    "Name": "Image_bg2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -544990075,
+                "Size": {
+                  "X": 779.0,
+                  "Y": 275.0
+                },
+                "Name": "panel_cell",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 150.0249,
+                  "Y": 375.835
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1172,
+                  "Y": 0.522
+                },
+                "PreSize": {
+                  "X": 0.1563,
+                  "Y": 0.2778
+                },
+                "LeftMargin": 150.0249,
+                "RightMargin": 929.9751,
+                "TopMargin": 144.165,
+                "BottomMargin": 375.835,
+                "Tag": 112,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/brn_zhuanshichongzhi_01.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/brn_zhuanshichongzhi_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/btn_zuanshichongzhi_02.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 194,
+                    "Scale9Height": 60,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 112.0,
+                      "Y": 159.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.56,
+                      "Y": 0.795
+                    },
+                    "PreSize": {
+                      "X": 1.12,
+                      "Y": 0.41
+                    },
+                    "RightMargin": -24.0,
+                    "BottomMargin": 118.0,
+                    "Tag": 606,
+                    "ActionTag": -1607989673,
+                    "Size": {
+                      "X": 224.0,
+                      "Y": 82.0
+                    },
+                    "Name": "btn_0",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/brn_jinbichongzhi_01.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/brn_jinbichongzhi_01.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/btn_jinbichongzhi_02.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 194,
+                    "Scale9Height": 60,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 112.0,
+                      "Y": 77.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.56,
+                      "Y": 0.385
+                    },
+                    "PreSize": {
+                      "X": 1.12,
+                      "Y": 0.41
+                    },
+                    "RightMargin": -24.0,
+                    "TopMargin": 82.0,
+                    "BottomMargin": 36.0,
+                    "Tag": 607,
+                    "ActionTag": -670555780,
+                    "ZOrder": 1,
+                    "Size": {
+                      "X": 224.0,
+                      "Y": 82.0
+                    },
+                    "Name": "btn_1",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1544168357,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "list_btns",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_guanbi.png",
+                  "Plist": "GameHall/Resoures/new_ui.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_guanbi.png",
+                  "Plist": "GameHall/Resoures/new_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1214.709,
+                  "Y": 624.1957
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.949,
+                  "Y": 0.8669
+                },
+                "PreSize": {
+                  "X": 0.0609,
+                  "Y": 0.1083
+                },
+                "LeftMargin": 1175.709,
+                "RightMargin": 26.291,
+                "TopMargin": 56.8043,
+                "BottomMargin": 585.1957,
+                "Tag": 776,
+                "ActionTag": -631991079,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1339.707,
+                  "Y": 186.6524
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0466,
+                  "Y": 0.2592
+                },
+                "PreSize": {
+                  "X": 0.6086,
+                  "Y": 0.3819
+                },
+                "LeftMargin": 1339.707,
+                "RightMargin": -838.707,
+                "TopMargin": 258.3476,
+                "BottomMargin": 186.6524,
+                "Tag": 872,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/img_zuanshikuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 161,
+                    "Scale9Height": 254,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 137.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3119,
+                      "Y": 0.9236
+                    },
+                    "RightMargin": 536.0,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 873,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_zuanshi_00.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 151,
+                        "Scale9Height": 116,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 121.0,
+                          "Y": 181.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4979,
+                          "Y": 0.7126
+                        },
+                        "PreSize": {
+                          "X": 0.6214,
+                          "Y": 0.4567
+                        },
+                        "LeftMargin": 45.5,
+                        "RightMargin": 46.5,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 123.0,
+                        "Tag": 874,
+                        "ActionTag": 1221189868,
+                        "Size": {
+                          "X": 151.0,
+                          "Y": 116.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "CharWidth": 27,
+                        "CharHeight": 41,
+                        "LabelText": "100",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_shuzhi_02.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 104.0,
+                          "Y": 116.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.428,
+                          "Y": 0.4567
+                        },
+                        "PreSize": {
+                          "X": 0.3333,
+                          "Y": 0.1614
+                        },
+                        "LeftMargin": 63.5,
+                        "RightMargin": 98.5,
+                        "TopMargin": 117.5,
+                        "BottomMargin": 95.5,
+                        "Tag": 875,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jinbi_wan.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 55,
+                            "Scale9Height": 55,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 81.0,
+                              "Y": 20.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 1.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.679,
+                              "Y": 1.3415
+                            },
+                            "LeftMargin": 81.0,
+                            "RightMargin": -55.0,
+                            "TopMargin": -7.0,
+                            "BottomMargin": -7.0,
+                            "Tag": 892,
+                            "ActionTag": -1103027525,
+                            "Size": {
+                              "X": 55.0,
+                              "Y": 55.0
+                            },
+                            "Name": "img_word",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -148562544,
+                        "Size": {
+                          "X": 81.0,
+                          "Y": 41.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 150,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 125.0,
+                          "Y": 49.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5144,
+                          "Y": 0.1929
+                        },
+                        "PreSize": {
+                          "X": 0.7407,
+                          "Y": 0.2598
+                        },
+                        "LeftMargin": 35.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 172.0,
+                        "BottomMargin": 16.0,
+                        "Tag": 876,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jiage.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 36,
+                            "Scale9Height": 40,
+                            "AnchorPoint": {
+                              "ScaleX": 0.3597,
+                              "ScaleY": 0.6328
+                            },
+                            "Position": {
+                              "X": 58.67,
+                              "Y": 42.1961
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3259,
+                              "Y": 0.6393
+                            },
+                            "PreSize": {
+                              "X": 0.2,
+                              "Y": 0.6061
+                            },
+                            "LeftMargin": 45.7208,
+                            "RightMargin": 98.2792,
+                            "TopMargin": 9.1159,
+                            "BottomMargin": 16.8841,
+                            "Tag": 877,
+                            "ActionTag": -1114509213,
+                            "Size": {
+                              "X": 36.0,
+                              "Y": 40.0
+                            },
+                            "Name": "Image_79",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "CharWidth": 25,
+                            "CharHeight": 41,
+                            "LabelText": "",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_shuzhi_01.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 119.71,
+                              "Y": 36.4627
+                            },
+                            "Scale": {
+                              "ScaleX": 0.9,
+                              "ScaleY": 0.9
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6651,
+                              "Y": 0.5525
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 119.71,
+                            "RightMargin": 60.29,
+                            "TopMargin": 29.5373,
+                            "BottomMargin": 36.4627,
+                            "Tag": 878,
+                            "ActionTag": -1773910165,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 772027192,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 66.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/song.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 227,
+                        "Scale9Height": 88,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 174.0,
+                          "Y": 236.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.716,
+                          "Y": 0.9291
+                        },
+                        "PreSize": {
+                          "X": 0.9342,
+                          "Y": 0.3465
+                        },
+                        "LeftMargin": 60.5,
+                        "RightMargin": -44.5,
+                        "TopMargin": -26.0,
+                        "BottomMargin": 192.0,
+                        "Tag": 894,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/song4.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 91,
+                            "Scale9Height": 35,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 132.0,
+                              "Y": 47.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5815,
+                              "Y": 0.5341
+                            },
+                            "PreSize": {
+                              "X": 0.4009,
+                              "Y": 0.3977
+                            },
+                            "LeftMargin": 86.5,
+                            "RightMargin": 49.5,
+                            "TopMargin": 23.5,
+                            "BottomMargin": 29.5,
+                            "Tag": 897,
+                            "ActionTag": -1742745330,
+                            "Size": {
+                              "X": 91.0,
+                              "Y": 35.0
+                            },
+                            "Name": "img_zs",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 1786362850,
+                        "Size": {
+                          "X": 227.0,
+                          "Y": 88.0
+                        },
+                        "Name": "img_zsbg",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -777250193,
+                    "Size": {
+                      "X": 243.0,
+                      "Y": 254.0
+                    },
+                    "Name": "Image_bg0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/img_zuanshikuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 161,
+                    "Scale9Height": 254,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 389.5,
+                      "Y": 137.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3119,
+                      "Y": 0.9236
+                    },
+                    "LeftMargin": 268.0,
+                    "RightMargin": 268.0,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 879,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_zuanshi_03.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 151,
+                        "Scale9Height": 116,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 121.0,
+                          "Y": 181.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4979,
+                          "Y": 0.7126
+                        },
+                        "PreSize": {
+                          "X": 0.6214,
+                          "Y": 0.4567
+                        },
+                        "LeftMargin": 45.5,
+                        "RightMargin": 46.5,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 123.0,
+                        "Tag": 880,
+                        "ActionTag": 12888480,
+                        "Size": {
+                          "X": 151.0,
+                          "Y": 116.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "CharWidth": 27,
+                        "CharHeight": 41,
+                        "LabelText": "100",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_shuzhi_02.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 104.0,
+                          "Y": 116.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.428,
+                          "Y": 0.4567
+                        },
+                        "PreSize": {
+                          "X": 0.3333,
+                          "Y": 0.1614
+                        },
+                        "LeftMargin": 63.5,
+                        "RightMargin": 98.5,
+                        "TopMargin": 117.5,
+                        "BottomMargin": 95.5,
+                        "Tag": 881,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jinbi_wan.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 55,
+                            "Scale9Height": 55,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 81.0,
+                              "Y": 20.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 1.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.679,
+                              "Y": 1.3415
+                            },
+                            "LeftMargin": 81.0,
+                            "RightMargin": -55.0,
+                            "TopMargin": -7.0,
+                            "BottomMargin": -7.0,
+                            "Tag": 891,
+                            "ActionTag": -1578290320,
+                            "Size": {
+                              "X": 55.0,
+                              "Y": 55.0
+                            },
+                            "Name": "img_word",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 1039686069,
+                        "Size": {
+                          "X": 81.0,
+                          "Y": 41.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 150,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 125.0,
+                          "Y": 48.9996
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5144,
+                          "Y": 0.1929
+                        },
+                        "PreSize": {
+                          "X": 0.7407,
+                          "Y": 0.2598
+                        },
+                        "LeftMargin": 35.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 172.0004,
+                        "BottomMargin": 15.9996,
+                        "Tag": 882,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jiage.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 36,
+                            "Scale9Height": 40,
+                            "AnchorPoint": {
+                              "ScaleX": 0.3597,
+                              "ScaleY": 0.6328
+                            },
+                            "Position": {
+                              "X": 58.67,
+                              "Y": 42.1961
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3259,
+                              "Y": 0.6393
+                            },
+                            "PreSize": {
+                              "X": 0.2,
+                              "Y": 0.6061
+                            },
+                            "LeftMargin": 45.7208,
+                            "RightMargin": 98.2792,
+                            "TopMargin": 9.1159,
+                            "BottomMargin": 16.8841,
+                            "Tag": 883,
+                            "ActionTag": 1514485838,
+                            "Size": {
+                              "X": 36.0,
+                              "Y": 40.0
+                            },
+                            "Name": "Image_79",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "CharWidth": 25,
+                            "CharHeight": 41,
+                            "LabelText": "",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_shuzhi_01.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 119.71,
+                              "Y": 36.4627
+                            },
+                            "Scale": {
+                              "ScaleX": 0.9,
+                              "ScaleY": 0.9
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6651,
+                              "Y": 0.5525
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 119.71,
+                            "RightMargin": 60.29,
+                            "TopMargin": 29.5373,
+                            "BottomMargin": 36.4627,
+                            "Tag": 884,
+                            "ActionTag": -675032403,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 1297047294,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 66.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/song.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 227,
+                        "Scale9Height": 88,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 174.0,
+                          "Y": 236.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.716,
+                          "Y": 0.9291
+                        },
+                        "PreSize": {
+                          "X": 0.9342,
+                          "Y": 0.3465
+                        },
+                        "LeftMargin": 60.5,
+                        "RightMargin": -44.5,
+                        "TopMargin": -26.0,
+                        "BottomMargin": 192.0,
+                        "Tag": 896,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/song4.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 91,
+                            "Scale9Height": 35,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 132.0,
+                              "Y": 47.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5815,
+                              "Y": 0.5341
+                            },
+                            "PreSize": {
+                              "X": 0.4009,
+                              "Y": 0.3977
+                            },
+                            "LeftMargin": 86.5,
+                            "RightMargin": 49.5,
+                            "TopMargin": 23.5,
+                            "BottomMargin": 29.5,
+                            "Tag": 899,
+                            "ActionTag": 108882413,
+                            "Size": {
+                              "X": 91.0,
+                              "Y": 35.0
+                            },
+                            "Name": "img_zs",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 1035532096,
+                        "Size": {
+                          "X": 227.0,
+                          "Y": 88.0
+                        },
+                        "Name": "img_zsbg",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -171567142,
+                    "Size": {
+                      "X": 243.0,
+                      "Y": 254.0
+                    },
+                    "Name": "Image_bg1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/shop/img_zuanshikuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 161,
+                    "Scale9Height": 254,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 779.0,
+                      "Y": 137.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3119,
+                      "Y": 0.9236
+                    },
+                    "LeftMargin": 536.0,
+                    "TopMargin": 10.5,
+                    "BottomMargin": 10.5,
+                    "Tag": 885,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_zuanshi_05.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 151,
+                        "Scale9Height": 116,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 121.0,
+                          "Y": 181.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4979,
+                          "Y": 0.7126
+                        },
+                        "PreSize": {
+                          "X": 0.6214,
+                          "Y": 0.4567
+                        },
+                        "LeftMargin": 45.5,
+                        "RightMargin": 46.5,
+                        "TopMargin": 15.0,
+                        "BottomMargin": 123.0,
+                        "Tag": 886,
+                        "ActionTag": -1631640758,
+                        "Size": {
+                          "X": 151.0,
+                          "Y": 116.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "CharWidth": 27,
+                        "CharHeight": 41,
+                        "LabelText": "100",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/img_shuzhi_02.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 104.0,
+                          "Y": 116.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9676
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.428,
+                          "Y": 0.4567
+                        },
+                        "PreSize": {
+                          "X": 0.3333,
+                          "Y": 0.1614
+                        },
+                        "LeftMargin": 63.5,
+                        "RightMargin": 98.5,
+                        "TopMargin": 117.5,
+                        "BottomMargin": 95.5,
+                        "Tag": 887,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jinbi_wan.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 55,
+                            "Scale9Height": 55,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 81.0,
+                              "Y": 20.5
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 1.0,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.679,
+                              "Y": 1.3415
+                            },
+                            "LeftMargin": 81.0,
+                            "RightMargin": -55.0,
+                            "TopMargin": -7.0,
+                            "BottomMargin": -7.0,
+                            "Tag": 893,
+                            "ActionTag": 199364261,
+                            "Size": {
+                              "X": 55.0,
+                              "Y": 55.0
+                            },
+                            "Name": "img_word",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": 1739250999,
+                        "Size": {
+                          "X": 81.0,
+                          "Y": 41.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/btn_goumai.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 150,
+                        "Scale9Height": 44,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 125.0,
+                          "Y": 49.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5144,
+                          "Y": 0.1929
+                        },
+                        "PreSize": {
+                          "X": 0.7407,
+                          "Y": 0.2598
+                        },
+                        "LeftMargin": 35.0,
+                        "RightMargin": 28.0,
+                        "TopMargin": 172.0,
+                        "BottomMargin": 16.0,
+                        "Tag": 888,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_jiage.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 36,
+                            "Scale9Height": 40,
+                            "AnchorPoint": {
+                              "ScaleX": 0.3597,
+                              "ScaleY": 0.6328
+                            },
+                            "Position": {
+                              "X": 58.67,
+                              "Y": 42.1961
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.3259,
+                              "Y": 0.6393
+                            },
+                            "PreSize": {
+                              "X": 0.2,
+                              "Y": 0.6061
+                            },
+                            "LeftMargin": 45.7208,
+                            "RightMargin": 98.2792,
+                            "TopMargin": 9.1159,
+                            "BottomMargin": 16.8841,
+                            "Tag": 889,
+                            "ActionTag": -1045369728,
+                            "Size": {
+                              "X": 36.0,
+                              "Y": 40.0
+                            },
+                            "Name": "Image_79",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "CharWidth": 25,
+                            "CharHeight": 41,
+                            "LabelText": "",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/img_shuzhi_01.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 119.71,
+                              "Y": 36.4627
+                            },
+                            "Scale": {
+                              "ScaleX": 0.9,
+                              "ScaleY": 0.9
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.6651,
+                              "Y": 0.5525
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 119.71,
+                            "RightMargin": 60.29,
+                            "TopMargin": 29.5373,
+                            "BottomMargin": 36.4627,
+                            "Tag": 890,
+                            "ActionTag": 383059399,
+                            "Size": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 429024324,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 66.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/shop/song.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 227,
+                        "Scale9Height": 88,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 174.0,
+                          "Y": 236.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.716,
+                          "Y": 0.9291
+                        },
+                        "PreSize": {
+                          "X": 0.9342,
+                          "Y": 0.3465
+                        },
+                        "LeftMargin": 60.5,
+                        "RightMargin": -44.5,
+                        "TopMargin": -26.0,
+                        "BottomMargin": 192.0,
+                        "Tag": 895,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "GameHall/Resoures/shop/song4.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 91,
+                            "Scale9Height": 35,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 132.0,
+                              "Y": 47.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5815,
+                              "Y": 0.5341
+                            },
+                            "PreSize": {
+                              "X": 0.4009,
+                              "Y": 0.3977
+                            },
+                            "LeftMargin": 86.5,
+                            "RightMargin": 49.5,
+                            "TopMargin": 23.5,
+                            "BottomMargin": 29.5,
+                            "Tag": 898,
+                            "ActionTag": 908495113,
+                            "Size": {
+                              "X": 91.0,
+                              "Y": 35.0
+                            },
+                            "Name": "img_zs",
+                            "ctype": "ImageViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -1693780711,
+                        "Size": {
+                          "X": 227.0,
+                          "Y": 88.0
+                        },
+                        "Name": "img_zsbg",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -756617056,
+                    "Size": {
+                      "X": 243.0,
+                      "Y": 254.0
+                    },
+                    "Name": "Image_bg2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1210356709,
+                "Size": {
+                  "X": 779.0,
+                  "Y": 275.0
+                },
+                "Name": "panel_goldcell",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -2145448735,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Game/Resoures/create_room/btn_shutiao.png",
+        "Resoures/image/img_jifen.png",
+        "Resoures/image/img_shuzikuan.png",
+        "Resoures/large/img_qdzhuangshi.png",
+        "Resoures/new_ui.plist",
+        "Resoures/new_ui.png",
+        "Resoures/shop/brn_jinbichongzhi_01.png",
+        "Resoures/shop/brn_zhuanshichongzhi_01.png",
+        "Resoures/shop/btn_goumai.png",
+        "Resoures/shop/btn_jinbichongzhi_02.png",
+        "Resoures/shop/btn_zuanshichongzhi_02.png",
+        "Resoures/shop/img_jiage.png",
+        "Resoures/shop/img_jinbi_wan.png",
+        "Resoures/shop/img_renwu.png",
+        "Resoures/shop/img_shop_title.png",
+        "Resoures/shop/img_shuzhi_01.png",
+        "Resoures/shop/img_shuzhi_02.png",
+        "Resoures/shop/img_zuanshi_00.png",
+        "Resoures/shop/img_zuanshi_03.png",
+        "Resoures/shop/img_zuanshi_05.png",
+        "Resoures/shop/img_zuanshikuan.png",
+        "Resoures/shop/nine_02.png",
+        "Resoures/shop/song.png",
+        "Resoures/shop/song4.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

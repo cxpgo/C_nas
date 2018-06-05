@@ -1,0 +1,179 @@
+{
+  "ID": "459a86d7-bb4c-447a-8be2-2f4721a1729b",
+  "Version": "2.3.3.0",
+  "Name": "GameChatUsualItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 109,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 110,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/chat/img_xiaoguo_.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 360,
+                "Scale9Height": 4,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 255.2,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.4,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.7868,
+                  "Y": 0.0667
+                },
+                "LeftMargin": 4.2,
+                "RightMargin": 131.8,
+                "TopMargin": 56.0,
+                "Tag": 362,
+                "ActionTag": -1306040414,
+                "Size": {
+                  "X": 502.0,
+                  "Y": 4.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "发财了",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 30,
+                  "G": 144
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 15.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 234,
+                  "G": 231,
+                  "B": 231
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0235,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9404,
+                  "Y": 0.4333
+                },
+                "LeftMargin": 15.0,
+                "RightMargin": 23.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 17.0,
+                "Tag": 111,
+                "ActionTag": 1168045499,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 26.0
+                },
+                "Name": "Text_Content",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1218524902,
+            "Size": {
+              "X": 638.0,
+              "Y": 60.0
+            },
+            "Name": "Panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 638.0,
+          "Y": 60.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resoures/chat/img_xiaoguo_.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

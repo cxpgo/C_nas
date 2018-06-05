@@ -1,0 +1,268 @@
+{
+  "ID": "bebba029-1a7e-4a2e-8572-5f3df07d887b",
+  "Version": "2.3.3.0",
+  "Name": "Card",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 77.5,
+              "Y": 108.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DDZ0x01.png",
+                  "Plist": "Game/Poker/Base/Resoures/cards.plist"
+                },
+                "Scale9Width": 155,
+                "Scale9Height": 216,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 77.5,
+                  "Y": 108.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 73,
+                "ActionTag": -1258629978,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 216.0
+                },
+                "Name": "image_cardBG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DDZ1x00.png",
+                  "Plist": "Game/Poker/Base/Resoures/cards.plist"
+                },
+                "Scale9Width": 155,
+                "Scale9Height": 216,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 77.5,
+                  "Y": 108.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 244,
+                "ActionTag": -805833569,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 216.0
+                },
+                "VisibleForFrame": false,
+                "Name": "image_cardBG_back",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 25,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 167,
+                  "G": 36,
+                  "B": 39
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 841,
+                "ActionTag": 367795598,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 216.0
+                },
+                "Name": "img_card_tag",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_gongzhang.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 47,
+                "Scale9Height": 91,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 145.8662,
+                  "Y": 209.7812
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9411,
+                  "Y": 0.9712
+                },
+                "PreSize": {
+                  "X": 0.3032,
+                  "Y": 0.4213
+                },
+                "LeftMargin": 98.8662,
+                "RightMargin": 9.1338,
+                "TopMargin": 6.2188,
+                "BottomMargin": 118.7812,
+                "Tag": 33,
+                "ActionTag": 1861152285,
+                "Size": {
+                  "X": 47.0,
+                  "Y": 91.0
+                },
+                "Name": "img_r_t_tag",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 566513273,
+            "Size": {
+              "X": 155.0,
+              "Y": 216.0
+            },
+            "Name": "panel_card",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 155.0,
+          "Y": 216.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../TDK/Resoures/large/img_gongzhang.png",
+        "Resoures/cards.plist",
+        "Resoures/cards.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

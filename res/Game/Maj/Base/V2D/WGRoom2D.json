@@ -1,0 +1,1535 @@
+{
+  "ID": "35b14cc6-ddd1-40be-a5c6-4d38e99392ab",
+  "Version": "2.3.3.0",
+  "Name": "WGRoom2D",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 274,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 461,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 473,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/Base/Resoures/V2D/table/majhong_table2d.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 1280,
+                    "Scale9Height": 720,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 562,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/XueZhan/Resoures/room/img_xuezhan_logo.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 239,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 640.0,
+                          "Y": 509.0137
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.707
+                        },
+                        "PreSize": {
+                          "X": 0.1867,
+                          "Y": 0.0889
+                        },
+                        "LeftMargin": 520.5,
+                        "RightMargin": 520.5,
+                        "TopMargin": 178.9863,
+                        "BottomMargin": 477.0137,
+                        "Tag": 584,
+                        "ActionTag": 662832527,
+                        "Size": {
+                          "X": 239.0,
+                          "Y": 64.0
+                        },
+                        "Name": "img_logo",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1481122774,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 720.0
+                    },
+                    "Name": "image_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 563,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/Base/Resoures/V2D/table/Timer_blackBack.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 158,
+                        "Scale9Height": 158,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 640.0,
+                          "Y": 400.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5556
+                        },
+                        "PreSize": {
+                          "X": 0.1234,
+                          "Y": 0.2194
+                        },
+                        "LeftMargin": 561.0,
+                        "RightMargin": 561.0,
+                        "TopMargin": 241.0,
+                        "BottomMargin": 321.0,
+                        "Tag": 656,
+                        "Children": [
+                          {
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "Game/Maj/Base/Resoures/V2D/table/newTimer_windBack.png",
+                              "Plist": ""
+                            },
+                            "Scale9Width": 140,
+                            "Scale9Height": 140,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 79.0,
+                              "Y": 79.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.8861,
+                              "Y": 0.8861
+                            },
+                            "LeftMargin": 9.0,
+                            "RightMargin": 9.0,
+                            "TopMargin": 9.0,
+                            "BottomMargin": 9.0,
+                            "Tag": 564,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "Game/Maj/Base/Resoures/V2D/table/Timer_wind1.png",
+                                  "Plist": ""
+                                },
+                                "Scale9Width": 140,
+                                "Scale9Height": 56,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5
+                                },
+                                "Position": {
+                                  "X": 70.0,
+                                  "Y": -7.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": -0.05
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 0.4
+                                },
+                                "TopMargin": 91.0,
+                                "BottomMargin": -7.0,
+                                "Tag": 566,
+                                "ActionTag": -557055508,
+                                "Size": {
+                                  "X": 140.0,
+                                  "Y": 56.0
+                                },
+                                "Name": "image_dir0",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "FlipX": true,
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "Game/Maj/Base/Resoures/V2D/table/Timer_wind2.png",
+                                  "Plist": ""
+                                },
+                                "Scale9Width": 56,
+                                "Scale9Height": 140,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 118.8537,
+                                  "Y": 71.428
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "RotationSkewY": -180.0,
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.849,
+                                  "Y": 0.5102
+                                },
+                                "PreSize": {
+                                  "X": 0.4,
+                                  "Y": 1.0
+                                },
+                                "LeftMargin": 90.8537,
+                                "RightMargin": -6.8537,
+                                "TopMargin": -1.428,
+                                "BottomMargin": 1.428,
+                                "Tag": 567,
+                                "ActionTag": -1391696472,
+                                "Size": {
+                                  "X": 56.0,
+                                  "Y": 140.0
+                                },
+                                "Name": "image_dir1",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "Game/Maj/Base/Resoures/V2D/table/Timer_wind3.png",
+                                  "Plist": ""
+                                },
+                                "Scale9Width": 138,
+                                "Scale9Height": 56,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 1.0
+                                },
+                                "Position": {
+                                  "X": 70.0,
+                                  "Y": 147.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 1.05
+                                },
+                                "PreSize": {
+                                  "X": 0.9857,
+                                  "Y": 0.4
+                                },
+                                "LeftMargin": 1.0,
+                                "RightMargin": 1.0,
+                                "TopMargin": -7.0,
+                                "BottomMargin": 91.0,
+                                "CallBackType": "Touch",
+                                "Tag": 568,
+                                "ActionTag": 1650367558,
+                                "Size": {
+                                  "X": 138.0,
+                                  "Y": 56.0
+                                },
+                                "Name": "image_dir2",
+                                "ctype": "ImageViewObjectData"
+                              },
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "Game/Maj/Base/Resoures/V2D/table/Timer_wind4.png",
+                                  "Plist": ""
+                                },
+                                "Scale9Width": 56,
+                                "Scale9Height": 140,
+                                "AnchorPoint": {
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": -7.0,
+                                  "Y": 70.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": -0.05,
+                                  "Y": 0.5
+                                },
+                                "PreSize": {
+                                  "X": 0.4,
+                                  "Y": 1.0
+                                },
+                                "LeftMargin": -7.0,
+                                "RightMargin": 91.0,
+                                "Tag": 569,
+                                "ActionTag": 1861545166,
+                                "Size": {
+                                  "X": 56.0,
+                                  "Y": 140.0
+                                },
+                                "Name": "image_dir3",
+                                "ctype": "ImageViewObjectData"
+                              }
+                            ],
+                            "ActionTag": -28588987,
+                            "Size": {
+                              "X": 140.0,
+                              "Y": 140.0
+                            },
+                            "Name": "image_dirc",
+                            "ctype": "ImageViewObjectData"
+                          },
+                          {
+                            "CharWidth": 23,
+                            "CharHeight": 38,
+                            "LabelText": "88",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "font/Timer_num.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 82.0968,
+                              "Y": 80.8328
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "RotationSkewX": 2.0007,
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5196,
+                              "Y": 0.5116
+                            },
+                            "PreSize": {
+                              "X": 0.2911,
+                              "Y": 0.2405
+                            },
+                            "LeftMargin": 59.0968,
+                            "RightMargin": 52.9032,
+                            "TopMargin": 58.1672,
+                            "BottomMargin": 61.8328,
+                            "Tag": 570,
+                            "ActionTag": -1122038168,
+                            "Size": {
+                              "X": 46.0,
+                              "Y": 38.0
+                            },
+                            "Name": "text_clock",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 203998479,
+                        "Size": {
+                          "X": 158.0,
+                          "Y": 158.0
+                        },
+                        "Name": "img_dirc",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "剩余",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 80,
+                          "G": 192,
+                          "B": 80
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 1.0,
+                        "ShadowOffsetY": -1.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 683.0917,
+                          "Y": 703.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5337,
+                          "Y": 0.9764
+                        },
+                        "PreSize": {
+                          "X": 0.0367,
+                          "Y": 0.0347
+                        },
+                        "LeftMargin": 659.5917,
+                        "RightMargin": 573.4083,
+                        "TopMargin": 4.5,
+                        "BottomMargin": 690.5,
+                        "CallBackType": "Click",
+                        "Tag": 575,
+                        "ActionTag": -1985265710,
+                        "Size": {
+                          "X": 47.0,
+                          "Y": 25.0
+                        },
+                        "Name": "text_remain",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "999",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {},
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 1.0,
+                        "ShadowOffsetY": -1.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 709.94,
+                          "Y": 703.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 203,
+                          "B": 113
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5546,
+                          "Y": 0.9764
+                        },
+                        "PreSize": {
+                          "X": 0.0297,
+                          "Y": 0.0347
+                        },
+                        "LeftMargin": 709.94,
+                        "RightMargin": 532.06,
+                        "TopMargin": 4.5,
+                        "BottomMargin": 690.5,
+                        "Tag": 576,
+                        "ActionTag": -1228355366,
+                        "Size": {
+                          "X": 38.0,
+                          "Y": 25.0
+                        },
+                        "Name": "text_count",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 22,
+                        "LabelText": "第         局",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 80,
+                          "G": 192,
+                          "B": 80
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 1.0,
+                        "ShadowOffsetY": -1.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 554.9464,
+                          "Y": 703.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4336,
+                          "Y": 0.9764
+                        },
+                        "PreSize": {
+                          "X": 0.0781,
+                          "Y": 0.0347
+                        },
+                        "LeftMargin": 504.9464,
+                        "RightMargin": 675.0536,
+                        "TopMargin": 4.5,
+                        "BottomMargin": 690.5,
+                        "CallBackType": "Click",
+                        "Tag": 577,
+                        "ActionTag": -1403171889,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 25.0
+                        },
+                        "Name": "text_round_tit",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 22,
+                        "LabelText": "16/16",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "R": 80,
+                          "G": 192,
+                          "B": 80
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 1.0,
+                        "ShadowOffsetY": -1.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 553.5894,
+                          "Y": 703.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "G": 203,
+                          "B": 113
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4325,
+                          "Y": 0.9764
+                        },
+                        "PreSize": {
+                          "X": 0.0625,
+                          "Y": 0.0389
+                        },
+                        "LeftMargin": 513.5894,
+                        "RightMargin": 686.4106,
+                        "TopMargin": 3.0,
+                        "BottomMargin": 689.0,
+                        "Tag": 578,
+                        "ActionTag": 1610384819,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 28.0
+                        },
+                        "Name": "text_round",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1346917626,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 720.0
+                    },
+                    "Name": "panel_status",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 580,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": -41.5564,
+                          "Y": 73.8935
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0325,
+                          "Y": 0.1026
+                        },
+                        "PreSize": {
+                          "X": 0.0211,
+                          "Y": 0.0375
+                        },
+                        "LeftMargin": -41.5564,
+                        "RightMargin": 1294.5564,
+                        "TopMargin": 619.1065,
+                        "BottomMargin": 73.8935,
+                        "Tag": 601,
+                        "ActionTag": 1044182975,
+                        "Size": {
+                          "X": 27.0,
+                          "Y": 27.0
+                        },
+                        "Name": "image_huapaiclone",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 287.847,
+                          "Y": 496.4722
+                        },
+                        "Scale": {
+                          "ScaleX": 1.1,
+                          "ScaleY": 1.1
+                        },
+                        "RotationSkewX": 24.0,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2249,
+                          "Y": 0.6895
+                        },
+                        "PreSize": {
+                          "X": 0.025,
+                          "Y": 0.0292
+                        },
+                        "LeftMargin": 271.847,
+                        "RightMargin": 976.153,
+                        "TopMargin": 213.0278,
+                        "BottomMargin": 485.9722,
+                        "Tag": 602,
+                        "Children": [
+                          {
+                            "FontSize": 36,
+                            "LabelText": "4",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "font/jzy.TTF",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 23.04,
+                              "Y": 10.5
+                            },
+                            "Scale": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.72,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.6875,
+                              "Y": 1.9524
+                            },
+                            "LeftMargin": 12.04,
+                            "RightMargin": -2.04,
+                            "TopMargin": -10.0,
+                            "BottomMargin": -10.0,
+                            "Tag": 603,
+                            "ActionTag": 1835982296,
+                            "Size": {
+                              "X": 22.0,
+                              "Y": 41.0
+                            },
+                            "Name": "text_huapai_left",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -34535897,
+                        "Size": {
+                          "X": 32.0,
+                          "Y": 21.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "img_huapai_left",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 500.4531,
+                          "Y": 580.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.1,
+                          "ScaleY": 1.1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.391,
+                          "Y": 0.8056
+                        },
+                        "PreSize": {
+                          "X": 0.025,
+                          "Y": 0.0292
+                        },
+                        "LeftMargin": 484.4531,
+                        "RightMargin": 763.5469,
+                        "TopMargin": 129.5,
+                        "BottomMargin": 569.5,
+                        "Tag": 604,
+                        "Children": [
+                          {
+                            "FontSize": 36,
+                            "LabelText": "4",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "font/jzy.TTF",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 23.04,
+                              "Y": 10.5
+                            },
+                            "Scale": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.72,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.6875,
+                              "Y": 1.9524
+                            },
+                            "LeftMargin": 12.04,
+                            "RightMargin": -2.04,
+                            "TopMargin": -10.0,
+                            "BottomMargin": -10.0,
+                            "Tag": 605,
+                            "ActionTag": -155639033,
+                            "Size": {
+                              "X": 22.0,
+                              "Y": 41.0
+                            },
+                            "Name": "text_huapai_up",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1708335756,
+                        "Size": {
+                          "X": 32.0,
+                          "Y": 21.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "img_huapai_up",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1008.9434,
+                          "Y": 496.472
+                        },
+                        "Scale": {
+                          "ScaleX": 1.1,
+                          "ScaleY": 1.1
+                        },
+                        "RotationSkewX": -23.9986,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7882,
+                          "Y": 0.6895
+                        },
+                        "PreSize": {
+                          "X": 0.025,
+                          "Y": 0.0292
+                        },
+                        "LeftMargin": 992.9434,
+                        "RightMargin": 255.0566,
+                        "TopMargin": 213.028,
+                        "BottomMargin": 485.972,
+                        "Tag": 606,
+                        "Children": [
+                          {
+                            "FontSize": 36,
+                            "LabelText": "4",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "font/jzy.TTF",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 23.04,
+                              "Y": 10.5
+                            },
+                            "Scale": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.72,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.6875,
+                              "Y": 1.9524
+                            },
+                            "LeftMargin": 12.04,
+                            "RightMargin": -2.04,
+                            "TopMargin": -10.0,
+                            "BottomMargin": -10.0,
+                            "Tag": 607,
+                            "ActionTag": 1487061577,
+                            "Size": {
+                              "X": 22.0,
+                              "Y": 41.0
+                            },
+                            "Name": "text_huapai_right",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -865477509,
+                        "Size": {
+                          "X": 32.0,
+                          "Y": 21.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "img_huapai_right",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 46,
+                        "Scale9Height": 46,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 126.6075,
+                          "Y": 165.6233
+                        },
+                        "Scale": {
+                          "ScaleX": 1.1,
+                          "ScaleY": 1.1
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0989,
+                          "Y": 0.23
+                        },
+                        "PreSize": {
+                          "X": 0.025,
+                          "Y": 0.0292
+                        },
+                        "LeftMargin": 110.6075,
+                        "RightMargin": 1137.3925,
+                        "TopMargin": 543.8767,
+                        "BottomMargin": 155.1233,
+                        "Tag": 608,
+                        "Children": [
+                          {
+                            "FontSize": 36,
+                            "LabelText": "4",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "font/jzy.TTF",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 23.04,
+                              "Y": 10.5
+                            },
+                            "Scale": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.72,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.6875,
+                              "Y": 1.9524
+                            },
+                            "LeftMargin": 12.04,
+                            "RightMargin": -2.04,
+                            "TopMargin": -10.0,
+                            "BottomMargin": -10.0,
+                            "Tag": 609,
+                            "ActionTag": 1125726719,
+                            "Size": {
+                              "X": 22.0,
+                              "Y": 41.0
+                            },
+                            "Name": "text_huapai_self",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1367029360,
+                        "Size": {
+                          "X": 32.0,
+                          "Y": 21.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "img_huapai_self",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "DirectionType": "Vertical",
+                        "ScrollDirectionType": 0,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 189.69,
+                          "Y": 303.2115
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": 24.0001,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1482,
+                          "Y": 0.4211
+                        },
+                        "PreSize": {
+                          "X": 0.0195,
+                          "Y": 0.2778
+                        },
+                        "LeftMargin": 189.69,
+                        "RightMargin": 1065.3101,
+                        "TopMargin": 216.7885,
+                        "BottomMargin": 303.2115,
+                        "Tag": 610,
+                        "ActionTag": -1070380531,
+                        "Size": {
+                          "X": 25.0,
+                          "Y": 200.0
+                        },
+                        "Alpha": 0,
+                        "Name": "listview_huapai_left",
+                        "ctype": "ListViewObjectData"
+                      },
+                      {
+                        "ScrollDirectionType": 0,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 519.4181,
+                          "Y": 568.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4058,
+                          "Y": 0.7889
+                        },
+                        "PreSize": {
+                          "X": 0.1563,
+                          "Y": 0.0347
+                        },
+                        "LeftMargin": 519.4181,
+                        "RightMargin": 560.5819,
+                        "TopMargin": 127.0,
+                        "BottomMargin": 568.0,
+                        "Tag": 611,
+                        "ActionTag": 1765746625,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 25.0
+                        },
+                        "Alpha": 0,
+                        "Name": "listview_huapai_up",
+                        "ctype": "ListViewObjectData"
+                      },
+                      {
+                        "DirectionType": "Vertical",
+                        "ScrollDirectionType": 0,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 1085.0,
+                          "Y": 302.2414
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "RotationSkewX": -24.0001,
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8477,
+                          "Y": 0.4198
+                        },
+                        "PreSize": {
+                          "X": 0.0195,
+                          "Y": 0.2778
+                        },
+                        "LeftMargin": 1085.0,
+                        "RightMargin": 170.0,
+                        "TopMargin": 217.7586,
+                        "BottomMargin": 302.2414,
+                        "Tag": 612,
+                        "ActionTag": -1076193692,
+                        "Size": {
+                          "X": 25.0,
+                          "Y": 200.0
+                        },
+                        "Alpha": 0,
+                        "Name": "listview_huapai_right",
+                        "ctype": "ListViewObjectData"
+                      },
+                      {
+                        "ScrollDirectionType": 0,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 144.5521,
+                          "Y": 152.9927
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1129,
+                          "Y": 0.2125
+                        },
+                        "PreSize": {
+                          "X": 0.1563,
+                          "Y": 0.0347
+                        },
+                        "LeftMargin": 144.5521,
+                        "RightMargin": 935.4479,
+                        "TopMargin": 542.0073,
+                        "BottomMargin": 152.9927,
+                        "Tag": 613,
+                        "ActionTag": -2146859518,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 25.0
+                        },
+                        "Alpha": 0,
+                        "Name": "listview_huapai_self",
+                        "ctype": "ListViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 670846410,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 720.0
+                    },
+                    "Name": "panel_huapai_seat",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1748379756,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "panel_pub",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1312926936,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "@plugin@",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../../Default/ImageFile.png",
+        "../../../../font/jzy.TTF",
+        "../../../../font/Timer_num.png",
+        "../../XueZhan/Resoures/room/img_xuezhan_logo.png",
+        "../Resoures/V2D/table/majhong_table2d.png",
+        "../Resoures/V2D/table/newTimer_windBack.png",
+        "../Resoures/V2D/table/Timer_blackBack.png",
+        "../Resoures/V2D/table/Timer_wind1.png",
+        "../Resoures/V2D/table/Timer_wind2.png",
+        "../Resoures/V2D/table/Timer_wind3.png",
+        "../Resoures/V2D/table/Timer_wind4.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

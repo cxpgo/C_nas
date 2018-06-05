@@ -1,0 +1,947 @@
+{
+  "ID": "1926fe57-c00e-4433-8de9-4d7f2f5b82cc",
+  "Version": "2.3.3.0",
+  "Name": "SetupPlugInPokerScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "CallBackType": "Click",
+            "Tag": 239,
+            "Children": [
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 448.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.9956
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.6311
+                },
+                "TopMargin": 2.0,
+                "BottomMargin": 164.0,
+                "Tag": 165,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/zhuomian.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.67,
+                      "Y": 238.1084
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1259,
+                      "Y": 0.8384
+                    },
+                    "PreSize": {
+                      "X": 0.0898,
+                      "Y": 0.1021
+                    },
+                    "LeftMargin": 62.17,
+                    "RightMargin": 636.83,
+                    "TopMargin": 31.3916,
+                    "BottomMargin": 223.6084,
+                    "Tag": 731,
+                    "ActionTag": 162298056,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "image_game",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150,
+                      "B": 100
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 165.5,
+                      "Y": 20.37
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2155,
+                      "Y": 0.0717
+                    },
+                    "PreSize": {
+                      "X": 0.5667,
+                      "Y": 0.862
+                    },
+                    "LeftMargin": 165.5,
+                    "RightMargin": 167.3,
+                    "TopMargin": 18.83,
+                    "BottomMargin": 20.37,
+                    "Tag": 173,
+                    "ActionTag": 573914859,
+                    "Size": {
+                      "X": 435.2,
+                      "Y": 244.8
+                    },
+                    "Name": "PageView_1",
+                    "ctype": "PageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/img_bg_ditiao.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 436,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 382.0,
+                      "Y": 35.89
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4974,
+                      "Y": 0.1264
+                    },
+                    "PreSize": {
+                      "X": 0.5677,
+                      "Y": 0.1021
+                    },
+                    "LeftMargin": 164.0,
+                    "RightMargin": 168.0,
+                    "TopMargin": 233.61,
+                    "BottomMargin": 21.39,
+                    "Tag": 175,
+                    "ActionTag": -222083528,
+                    "Size": {
+                      "X": 436.0,
+                      "Y": 29.0
+                    },
+                    "Name": "img_down",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 3,
+                      "G": 177,
+                      "B": 92
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/btn_xuanze.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 31,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 124.6586,
+                      "Y": 146.9197
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1623,
+                      "Y": 0.5173
+                    },
+                    "PreSize": {
+                      "X": 0.0365,
+                      "Y": 0.1866
+                    },
+                    "LeftMargin": 110.6586,
+                    "RightMargin": 629.3414,
+                    "TopMargin": 110.5803,
+                    "BottomMargin": 120.4197,
+                    "CallBackType": "Touch",
+                    "Tag": 177,
+                    "ActionTag": -1112433390,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 53.0
+                    },
+                    "Name": "btn_up",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/img_xuanzhong2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 13,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 340.3605,
+                      "Y": 35.7132
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4432,
+                      "Y": 0.1258
+                    },
+                    "PreSize": {
+                      "X": 0.0169,
+                      "Y": 0.0458
+                    },
+                    "LeftMargin": 333.8605,
+                    "RightMargin": 421.1395,
+                    "TopMargin": 241.7868,
+                    "BottomMargin": 29.2132,
+                    "Tag": 176,
+                    "ActionTag": 778348819,
+                    "Size": {
+                      "X": 13.0,
+                      "Y": 13.0
+                    },
+                    "Name": "img_dian0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/img_xuanzhong2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 13,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 366.3606,
+                      "Y": 35.7132
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.477,
+                      "Y": 0.1258
+                    },
+                    "PreSize": {
+                      "X": 0.0169,
+                      "Y": 0.0458
+                    },
+                    "LeftMargin": 359.8606,
+                    "RightMargin": 395.1394,
+                    "TopMargin": 241.7868,
+                    "BottomMargin": 29.2132,
+                    "Tag": 184,
+                    "ActionTag": -839553408,
+                    "Size": {
+                      "X": 13.0,
+                      "Y": 13.0
+                    },
+                    "Name": "img_dian1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/img_xuanzhong2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 13,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 392.3605,
+                      "Y": 35.7132
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5109,
+                      "Y": 0.1258
+                    },
+                    "PreSize": {
+                      "X": 0.0169,
+                      "Y": 0.0458
+                    },
+                    "LeftMargin": 385.8605,
+                    "RightMargin": 369.1395,
+                    "TopMargin": 241.7868,
+                    "BottomMargin": 29.2132,
+                    "Tag": 185,
+                    "ActionTag": -1326779807,
+                    "Size": {
+                      "X": 13.0,
+                      "Y": 13.0
+                    },
+                    "Name": "img_dian2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/img_xuanzhong2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 13,
+                    "Scale9Height": 13,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 418.3609,
+                      "Y": 35.7132
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5447,
+                      "Y": 0.1258
+                    },
+                    "PreSize": {
+                      "X": 0.0169,
+                      "Y": 0.0458
+                    },
+                    "LeftMargin": 411.8609,
+                    "RightMargin": 343.1391,
+                    "TopMargin": 241.7868,
+                    "BottomMargin": 29.2132,
+                    "Tag": 186,
+                    "ActionTag": -1440864620,
+                    "Size": {
+                      "X": 13.0,
+                      "Y": 13.0
+                    },
+                    "Name": "img_dian3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 153,
+                      "G": 153,
+                      "B": 153
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/btn_xuanze.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 31,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 648.4711,
+                      "Y": 147.5266
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8444,
+                      "Y": 0.5195
+                    },
+                    "PreSize": {
+                      "X": 0.0365,
+                      "Y": 0.1866
+                    },
+                    "LeftMargin": 634.4711,
+                    "RightMargin": 105.5289,
+                    "TopMargin": 109.9734,
+                    "BottomMargin": 121.0266,
+                    "Tag": 178,
+                    "ActionTag": -1445421412,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 53.0
+                    },
+                    "Name": "btn_down",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -580062336,
+                "Size": {
+                  "X": 768.0,
+                  "Y": 284.0
+                },
+                "Name": "panel_bg",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 163.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.3622
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.3644
+                },
+                "TopMargin": 287.0,
+                "BottomMargin": -1.0,
+                "Tag": 166,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/img_paibei.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 29,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 99.65,
+                      "Y": 96.48
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1298,
+                      "Y": 0.5883
+                    },
+                    "PreSize": {
+                      "X": 0.0898,
+                      "Y": 0.1768
+                    },
+                    "LeftMargin": 65.15,
+                    "RightMargin": 633.85,
+                    "TopMargin": 53.02,
+                    "BottomMargin": 81.98,
+                    "Tag": 167,
+                    "ActionTag": 628638872,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 29.0
+                    },
+                    "Name": "image_game",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "ItemMargin": 10,
+                    "VerticalType": "Align_VerticalCenter",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 162.6495,
+                      "Y": 18.14
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2118,
+                      "Y": 0.1106
+                    },
+                    "PreSize": {
+                      "X": 0.5742,
+                      "Y": 0.7683
+                    },
+                    "LeftMargin": 162.6495,
+                    "RightMargin": 164.3505,
+                    "TopMargin": 19.86,
+                    "BottomMargin": 18.14,
+                    "Tag": 168,
+                    "ActionTag": -1201197661,
+                    "Size": {
+                      "X": 441.0,
+                      "Y": 126.0
+                    },
+                    "Name": "ListView_1",
+                    "ctype": "ListViewObjectData"
+                  }
+                ],
+                "ActionTag": -2103657210,
+                "Size": {
+                  "X": 768.0,
+                  "Y": 164.0
+                },
+                "VisibleForFrame": false,
+                "Name": "panel_pakerback",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -529.5471,
+                  "Y": 188.6852
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.6895,
+                  "Y": 0.4193
+                },
+                "PreSize": {
+                  "X": 0.5667,
+                  "Y": 0.544
+                },
+                "LeftMargin": -529.5471,
+                "RightMargin": 862.3471,
+                "TopMargin": 16.5148,
+                "BottomMargin": 188.6852,
+                "Tag": 174,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/bg_doudizhu_01.jpg",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 1280,
+                    "Scale9Height": 720,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -1.769,
+                      "Y": 1.7689
+                    },
+                    "Scale": {
+                      "ScaleX": 0.34,
+                      "ScaleY": 0.34
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0041,
+                      "Y": 0.0072
+                    },
+                    "PreSize": {
+                      "X": 2.9412,
+                      "Y": 2.9412
+                    },
+                    "LeftMargin": -1.769,
+                    "RightMargin": -843.0309,
+                    "TopMargin": -476.9689,
+                    "BottomMargin": 1.7689,
+                    "Tag": 172,
+                    "ActionTag": -872305547,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 720.0
+                    },
+                    "Name": "img_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/nine_bg_waikuang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 15,
+                    "Scale9Width": 17,
+                    "Scale9Height": 17,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 183,
+                    "ActionTag": -1062121195,
+                    "Size": {
+                      "X": 435.2,
+                      "Y": 244.8
+                    },
+                    "Name": "img_light",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1891197566,
+                "Size": {
+                  "X": 435.2,
+                  "Y": 244.8
+                },
+                "Name": "panel_bg_cell",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -315.3789,
+                  "Y": 29.9869
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.4106,
+                  "Y": 0.0666
+                },
+                "PreSize": {
+                  "X": 0.1172,
+                  "Y": 0.28
+                },
+                "LeftMargin": -315.3789,
+                "RightMargin": 993.3789,
+                "TopMargin": 294.0131,
+                "BottomMargin": 29.9869,
+                "Tag": 169,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/setting/img_poker_01.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 155,
+                    "Scale9Height": 216,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.58,
+                      "ScaleY": 0.58
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.7222,
+                      "Y": 1.7143
+                    },
+                    "RightMargin": -65.0,
+                    "TopMargin": -90.0,
+                    "Tag": 170,
+                    "ActionTag": 512698707,
+                    "Size": {
+                      "X": 155.0,
+                      "Y": 216.0
+                    },
+                    "Name": "img_poker",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1759530783,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 126.0
+                },
+                "Name": "panel_back_cell",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -334063629,
+            "Size": {
+              "X": 768.0,
+              "Y": 450.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 768.0,
+          "Y": 450.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../GameHall/Resoures/setting/bg_doudizhu_01.jpg",
+        "../../GameHall/Resoures/setting/btn_xuanze.png",
+        "../../GameHall/Resoures/setting/img_bg_ditiao.png",
+        "../../GameHall/Resoures/setting/img_paibei.png",
+        "../../GameHall/Resoures/setting/img_poker_01.png",
+        "../../GameHall/Resoures/setting/img_xuanzhong2.png",
+        "../../GameHall/Resoures/setting/nine_bg_waikuang.png",
+        "../../GameHall/Resoures/setting/zhuomian.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

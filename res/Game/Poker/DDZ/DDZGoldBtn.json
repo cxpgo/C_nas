@@ -1,0 +1,564 @@
+{
+  "ID": "5a0282b1-fe22-47e5-8a58-32779f717ade",
+  "Version": "2.3.3.0",
+  "Name": "DDZGoldBtn",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 68,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 69,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/gold/btn_genduo_01.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 42,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1220.0,
+                  "Y": 660.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9531,
+                  "Y": 0.9167
+                },
+                "PreSize": {
+                  "X": 0.0562,
+                  "Y": 0.1042
+                },
+                "LeftMargin": 1184.0,
+                "RightMargin": 24.0,
+                "TopMargin": 22.5,
+                "BottomMargin": 622.5,
+                "Tag": 71,
+                "ActionTag": -1162097397,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 75.0
+                },
+                "Name": "btn_open",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/gold/btn_genduo_02.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 42,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1220.0,
+                  "Y": 660.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9531,
+                  "Y": 0.9167
+                },
+                "PreSize": {
+                  "X": 0.0562,
+                  "Y": 0.1042
+                },
+                "LeftMargin": 1184.0,
+                "RightMargin": 24.0,
+                "TopMargin": 22.5,
+                "BottomMargin": 622.5,
+                "Tag": 72,
+                "ActionTag": -1856849368,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 75.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1300.0,
+                  "Y": 390.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.0156,
+                  "Y": 0.5417
+                },
+                "PreSize": {
+                  "X": 0.1125,
+                  "Y": 0.325
+                },
+                "LeftMargin": 1300.0,
+                "RightMargin": -164.0,
+                "TopMargin": 96.0,
+                "BottomMargin": 390.0,
+                "Tag": 70,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/gold/img_anniudi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 144,
+                    "Scale9Height": 234,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 73,
+                    "ActionTag": 809374877,
+                    "Size": {
+                      "X": 144.0,
+                      "Y": 234.0
+                    },
+                    "Name": "bg_btns",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/gold/btn_tuichu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 74,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.0001,
+                      "Y": 202.4889
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8653
+                    },
+                    "PreSize": {
+                      "X": 0.7222,
+                      "Y": 0.188
+                    },
+                    "LeftMargin": 20.0001,
+                    "RightMargin": 19.9999,
+                    "TopMargin": 9.5111,
+                    "BottomMargin": 180.4889,
+                    "Tag": 74,
+                    "ActionTag": 198803044,
+                    "Size": {
+                      "X": 104.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_exit",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/gold/btn_huanzhuo.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 74,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.0001,
+                      "Y": 146.0344
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.6241
+                    },
+                    "PreSize": {
+                      "X": 0.7222,
+                      "Y": 0.188
+                    },
+                    "LeftMargin": 20.0001,
+                    "RightMargin": 19.9999,
+                    "TopMargin": 65.9656,
+                    "BottomMargin": 124.0344,
+                    "Tag": 75,
+                    "ActionTag": 589520541,
+                    "Size": {
+                      "X": 104.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_change",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/gold/btn_wanfa.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 74,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.0001,
+                      "Y": 89.58
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3828
+                    },
+                    "PreSize": {
+                      "X": 0.7222,
+                      "Y": 0.188
+                    },
+                    "LeftMargin": 20.0001,
+                    "RightMargin": 19.9999,
+                    "TopMargin": 122.42,
+                    "BottomMargin": 67.58,
+                    "Tag": 76,
+                    "ActionTag": -1653619909,
+                    "Size": {
+                      "X": 104.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_wanfa",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/DDZ/Resoures/gold/btn_shezhi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 74,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.0001,
+                      "Y": 33.1256
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1416
+                    },
+                    "PreSize": {
+                      "X": 0.7222,
+                      "Y": 0.188
+                    },
+                    "LeftMargin": 20.0001,
+                    "RightMargin": 19.9999,
+                    "TopMargin": 178.8744,
+                    "BottomMargin": 11.1256,
+                    "Tag": 77,
+                    "ActionTag": 1655966510,
+                    "Size": {
+                      "X": 104.0,
+                      "Y": 44.0
+                    },
+                    "Name": "btn_setting",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1003856197,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 234.0
+                },
+                "Name": "panel_btns",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1557952891,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resoures/gold/btn_genduo_01.png",
+        "Resoures/gold/btn_genduo_02.png",
+        "Resoures/gold/btn_huanzhuo.png",
+        "Resoures/gold/btn_shezhi.png",
+        "Resoures/gold/btn_tuichu.png",
+        "Resoures/gold/btn_wanfa.png",
+        "Resoures/gold/img_anniudi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

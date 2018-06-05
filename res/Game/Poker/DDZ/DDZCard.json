@@ -1,0 +1,362 @@
+{
+  "ID": "32c40876-382f-43d6-a026-10d9eb373765",
+  "Version": "2.3.3.0",
+  "Name": "DDZCard",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 77.5,
+              "Y": 108.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 9,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/large/card_insert.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 103,
+                "Scale9Height": 135,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 10.0,
+                  "Y": 108.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0645,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": -67.5,
+                "RightMargin": 67.5,
+                "Tag": 10,
+                "ActionTag": 1333953709,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 216.0
+                },
+                "VisibleForFrame": false,
+                "Name": "image_insert",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DDZ0x02.png",
+                  "Plist": "Game/Poker/DDZ/Resoures/cards.plist"
+                },
+                "Scale9Width": 155,
+                "Scale9Height": 216,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 77.5,
+                  "Y": 108.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "CallBackType": "Click",
+                "Tag": 11,
+                "ActionTag": -32463184,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 216.0
+                },
+                "Name": "image_cardBG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DDZ1x00.png",
+                  "Plist": "Game/Poker/DDZ/Resoures/cards.plist"
+                },
+                "Scale9Width": 155,
+                "Scale9Height": 216,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 77.5,
+                  "Y": 108.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "CallBackType": "Click",
+                "Tag": 200,
+                "ActionTag": -507954324,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 216.0
+                },
+                "Name": "image_cardBG_back",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/room/img_Card_dizhu.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 52,
+                "Scale9Height": 52,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 112.0,
+                  "Y": 44.0
+                },
+                "Scale": {
+                  "ScaleX": 1.5,
+                  "ScaleY": 1.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7226,
+                  "Y": 0.2037
+                },
+                "PreSize": {
+                  "X": 0.3355,
+                  "Y": 0.2407
+                },
+                "LeftMargin": 86.0,
+                "RightMargin": 17.0,
+                "TopMargin": 146.0,
+                "BottomMargin": 18.0,
+                "Tag": 81,
+                "ActionTag": -146350983,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 52.0
+                },
+                "Name": "img_lord_show",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/image/img_feipai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 39,
+                "Scale9Height": 74,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.1919,
+                  "Y": 175.1471
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8399,
+                  "Y": 0.8109
+                },
+                "PreSize": {
+                  "X": 0.2516,
+                  "Y": 0.3426
+                },
+                "LeftMargin": 110.6919,
+                "RightMargin": 5.3081,
+                "TopMargin": 3.8529,
+                "BottomMargin": 138.1471,
+                "Tag": 1134,
+                "ActionTag": 885577408,
+                "Size": {
+                  "X": 39.0,
+                  "Y": 74.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_feipai",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/DDZ/Resoures/image/img_xianshou.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 27,
+                "Scale9Height": 27,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 18.5509,
+                  "Y": 20.6709
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1197,
+                  "Y": 0.0957
+                },
+                "PreSize": {
+                  "X": 0.1742,
+                  "Y": 0.125
+                },
+                "LeftMargin": 5.0509,
+                "RightMargin": 122.9491,
+                "TopMargin": 181.8291,
+                "BottomMargin": 7.1709,
+                "Tag": 1135,
+                "ActionTag": 938868769,
+                "Size": {
+                  "X": 27.0,
+                  "Y": 27.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_xianshou",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -265232464,
+            "Size": {
+              "X": 155.0,
+              "Y": 216.0
+            },
+            "Name": "panel_card",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 155.0,
+          "Y": 216.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resoures/cards.plist",
+        "Resoures/cards.png",
+        "Resoures/image/img_feipai.png",
+        "Resoures/image/img_xianshou.png",
+        "Resoures/large/card_insert.png",
+        "Resoures/room/img_Card_dizhu.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

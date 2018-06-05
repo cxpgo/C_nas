@@ -1,0 +1,191 @@
+{
+  "ID": "725913d5-889a-48e4-a022-2273e1699fe5",
+  "Version": "2.3.3.0",
+  "Name": "PDKHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 161,
+        "Children": [
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 316,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "[基础规则]-------------",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.5,
+                  "Y": 560.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 183,
+                  "G": 36,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2029,
+                  "Y": 0.9739
+                },
+                "PreSize": {
+                  "X": 0.4059,
+                  "Y": 0.0522
+                },
+                "RightMargin": 505.0,
+                "BottomMargin": 545.0,
+                "Tag": 317,
+                "ActionTag": 1340167937,
+                "Size": {
+                  "X": 345.0,
+                  "Y": 30.0
+                },
+                "Name": "content0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "游戏规则\n起牌\n洗好的牌各玩家轮流拿一张牌直到全部拿完。第一局由任一玩家抽一张牌按牌点逆时针数到谁，谁先起牌，以后是上局赢家先起牌。\n术语\n每次都是红桃3先出牌。\n单牌：一张一张的出牌，大小顺序是2>A>K>Q>J>10>9>8>7>6>5>4>3。\n对子：成双出牌，大小顺序：A对>K对>Q对>J对>10对>9对>8对>7对>6对>5对>4对>3对。\n连对：两个相连的对子比如：2233 7788 KKAA••••\n三带一：三张相同的牌可带一张单牌（有些地方也可以带两张单牌），最大三个A。\n四带二：四张相同的牌可带两张单牌，最大四个K。\n头家：最先出完牌的玩家叫“头家”。\n保本：只剩下1张牌但也没赢。此时不算输称“保本”。\n飞机带翅膀：三顺+数量相同的对牌，如555666777+99JJKK\n炸弹：四张或四张以上点数相同的牌或者AAA。如6666，AAA（最大）。\n顺子：5张牌以上。如34567……\n胜负：每次“头家”胜，其他玩家除“保本”外全负。负的玩家剩几张要输掉对应。",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.0,
+                  "Y": 272.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 90,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4739
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.9478
+                },
+                "TopMargin": 30.0,
+                "Tag": 318,
+                "ActionTag": -1446278248,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 545.0
+                },
+                "Name": "content1",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1609815020,
+            "Size": {
+              "X": 850.0,
+              "Y": 520.0
+            },
+            "Name": "panel_root",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 850.0,
+          "Y": 520.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/jzy.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

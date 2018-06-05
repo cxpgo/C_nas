@@ -1,0 +1,387 @@
+{
+  "ID": "d3a4ca9a-ca86-4729-a4f4-532c4eb7cfff",
+  "Version": "2.3.3.0",
+  "Name": "MajhongCardDownStand",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 44.5,
+              "Y": 65.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "player.png",
+                  "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                },
+                "Scale9Width": 89,
+                "Scale9Height": 130,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.5,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 73,
+                "ActionTag": -1258629978,
+                "Size": {
+                  "X": 89.0,
+                  "Y": 130.0
+                },
+                "Name": "image_cardBG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mahjong_tile_big_tiao_6.png",
+                  "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                },
+                "Scale9Width": 88,
+                "Scale9Height": 106,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.5,
+                  "Y": 58.0
+                },
+                "Scale": {
+                  "ScaleX": 0.95,
+                  "ScaleY": 0.91
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4462
+                },
+                "PreSize": {
+                  "X": 0.9888,
+                  "Y": 0.8154
+                },
+                "LeftMargin": 0.5,
+                "RightMargin": 0.5,
+                "TopMargin": 19.0,
+                "BottomMargin": 5.0,
+                "Tag": 359,
+                "ActionTag": 748290299,
+                "Size": {
+                  "X": 88.0,
+                  "Y": 106.0
+                },
+                "Name": "image_card",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gold_Icon1.png",
+                  "Plist": "Game/Maj/Base/Resoures/table_other.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 6,
+                "Scale9Width": 8,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 78.498,
+                  "Y": 18.876
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.882,
+                  "Y": 0.1452
+                },
+                "PreSize": {
+                  "X": 0.2247,
+                  "Y": 0.1615
+                },
+                "LeftMargin": 68.498,
+                "RightMargin": 0.502,
+                "TopMargin": 100.624,
+                "BottomMargin": 8.376,
+                "Tag": 599,
+                "ActionTag": -308189165,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 21.0
+                },
+                "VisibleForFrame": false,
+                "Name": "image_jin",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Maj/Base/Resoures/large/btn_jingdian3d2.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 42,
+                "Scale9Height": 60,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.4999,
+                  "Y": 161.5008
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.2423
+                },
+                "PreSize": {
+                  "X": 0.4719,
+                  "Y": 0.4615
+                },
+                "LeftMargin": 23.4999,
+                "RightMargin": 23.5001,
+                "TopMargin": -61.5008,
+                "BottomMargin": 131.5008,
+                "Tag": 600,
+                "ActionTag": 1511635237,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 60.0
+                },
+                "VisibleForFrame": false,
+                "Name": "image_tip",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 40,
+                "LabelText": "4张",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.5,
+                  "Y": 142.7357
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 1.098
+                },
+                "PreSize": {
+                  "X": 0.6966,
+                  "Y": 0.3077
+                },
+                "LeftMargin": 13.5,
+                "RightMargin": 13.5,
+                "TopMargin": -32.7357,
+                "BottomMargin": 122.7357,
+                "Tag": 969,
+                "ActionTag": 1515426555,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 40.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_count",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "任\n意\n牌",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 165,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.5,
+                  "Y": 58.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 156,
+                  "G": 7,
+                  "B": 7
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4538
+                },
+                "PreSize": {
+                  "X": 0.382,
+                  "Y": 0.7385
+                },
+                "LeftMargin": 27.5,
+                "RightMargin": 27.5,
+                "TopMargin": 23.0001,
+                "BottomMargin": 10.9999,
+                "Tag": 14,
+                "ActionTag": 558334148,
+                "Size": {
+                  "X": 34.0,
+                  "Y": 96.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_all",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 566513273,
+            "Size": {
+              "X": 89.0,
+              "Y": 130.0
+            },
+            "Name": "panel_card",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 89.0,
+          "Y": 130.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../../font/jzy.TTF",
+        "../Resoures/large/btn_jingdian3d2.png",
+        "../Resoures/table_other.plist",
+        "../Resoures/table_other.png",
+        "../Resoures/V3D/tileImage.plist",
+        "../Resoures/V3D/tileImage.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

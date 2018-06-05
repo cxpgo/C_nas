@@ -1,0 +1,309 @@
+{
+  "ID": "38822984-15c8-4f33-87fd-0f93ccda7ead",
+  "Version": "2.3.3.0",
+  "Name": "MajhongCardUpShow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "up6.png",
+                  "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                },
+                "Scale9Width": 62,
+                "Scale9Height": 44,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 19.044,
+                  "Y": 21.3224
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4761,
+                  "Y": 0.4846
+                },
+                "PreSize": {
+                  "X": 1.55,
+                  "Y": 1.0
+                },
+                "LeftMargin": -11.956,
+                "RightMargin": -10.044,
+                "TopMargin": 0.6776,
+                "BottomMargin": -0.6776,
+                "Tag": 346,
+                "ActionTag": 1405211778,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 44.0
+                },
+                "Name": "image_cardBG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mahjong_tile_up_tiao_9.png",
+                  "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                },
+                "Scale9Width": 29,
+                "Scale9Height": 36,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 20.0662,
+                  "Y": 27.8017
+                },
+                "Scale": {
+                  "ScaleX": 1.05,
+                  "ScaleY": 0.75
+                },
+                "RotationSkewX": -5.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5017,
+                  "Y": 0.6319
+                },
+                "PreSize": {
+                  "X": 0.725,
+                  "Y": 0.8182
+                },
+                "LeftMargin": 5.5662,
+                "RightMargin": 5.4338,
+                "TopMargin": -1.8017,
+                "BottomMargin": 9.8017,
+                "Tag": 345,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "tileArrow_03.png",
+                      "Plist": "Game/Maj/Base/Resoures/V3D/tileImage.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 16.0469,
+                      "Y": 31.8058
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5533,
+                      "Y": 0.8835
+                    },
+                    "PreSize": {
+                      "X": 0.6897,
+                      "Y": 0.5556
+                    },
+                    "LeftMargin": 6.0469,
+                    "RightMargin": 2.9531,
+                    "TopMargin": -5.8058,
+                    "BottomMargin": 21.8058,
+                    "Tag": 91,
+                    "ActionTag": 1456225103,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_arrow",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "gold_Icon.png",
+                      "Plist": "Game/Maj/Base/Resoures/table_other.plist"
+                    },
+                    "Scale9Width": 20,
+                    "Scale9Height": 21,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.5317,
+                      "Y": 29.1752
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8459,
+                      "Y": 0.8104
+                    },
+                    "PreSize": {
+                      "X": 0.6897,
+                      "Y": 0.5833
+                    },
+                    "LeftMargin": 14.5317,
+                    "RightMargin": -5.5317,
+                    "TopMargin": -3.6752,
+                    "BottomMargin": 18.6752,
+                    "Tag": 179,
+                    "ActionTag": 644532716,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 21.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_jin",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1005666229,
+                "Size": {
+                  "X": 29.0,
+                  "Y": 36.0
+                },
+                "Name": "image_card",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "CharWidth": 39,
+                "CharHeight": 56,
+                "LabelText": "04",
+                "StartChar": "0",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "Game/Maj/Base/Resoures/table/dan_num.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 19.4161,
+                  "Y": -11.6295
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.4854,
+                  "Y": -0.2643
+                },
+                "PreSize": {
+                  "X": 1.95,
+                  "Y": 1.2727
+                },
+                "LeftMargin": -19.5839,
+                "RightMargin": -18.4161,
+                "TopMargin": 27.6295,
+                "BottomMargin": -39.6295,
+                "Tag": 84,
+                "ActionTag": -356610375,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 56.0
+                },
+                "Name": "text_count",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": 566513273,
+            "Size": {
+              "X": 40.0,
+              "Y": 44.0
+            },
+            "Name": "panel_card",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 40.0,
+          "Y": 44.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Resoures/table/dan_num.png",
+        "../Resoures/table_other.plist",
+        "../Resoures/table_other.png",
+        "../Resoures/V3D/tileImage.plist",
+        "../Resoures/V3D/tileImage.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

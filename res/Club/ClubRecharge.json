@@ -1,0 +1,429 @@
+{
+  "ID": "c9e9b4c6-6c31-435b-8042-28b0756135cc",
+  "Version": "2.3.3.0",
+  "Name": "ClubRecharge",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 507,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -1.4862,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0012,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.4862,
+            "RightMargin": 1.4862,
+            "Tag": 508,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5875,
+                  "Y": 0.7097
+                },
+                "LeftMargin": 264.0,
+                "RightMargin": 264.0,
+                "TopMargin": 104.5,
+                "BottomMargin": 104.5,
+                "Tag": 509,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Default",
+                      "Path": "Default/ImageFile.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 34,
+                    "Scale9OriginY": 120,
+                    "Scale9Width": 553,
+                    "Scale9Height": 231,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 376.0,
+                      "Y": 255.5
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8258,
+                      "Y": 0.9217
+                    },
+                    "LeftMargin": 65.5,
+                    "RightMargin": 65.5,
+                    "TopMargin": 20.0,
+                    "BottomMargin": 20.0,
+                    "Tag": 510,
+                    "ActionTag": 941788881,
+                    "Size": {
+                      "X": 621.0,
+                      "Y": 471.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/img_jiaru.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 368,
+                    "Scale9Height": 79,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 380.0241,
+                      "Y": 273.2068
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5054,
+                      "Y": 0.5347
+                    },
+                    "PreSize": {
+                      "X": 0.4894,
+                      "Y": 0.1546
+                    },
+                    "LeftMargin": 196.0241,
+                    "RightMargin": 187.9759,
+                    "TopMargin": 198.2932,
+                    "BottomMargin": 233.7068,
+                    "Tag": 511,
+                    "Children": [
+                      {
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "",
+                          "Plist": ""
+                        },
+                        "FontSize": 30,
+                        "IsCustomSize": true,
+                        "LabelText": "",
+                        "PlaceHolderText": "请输入充值的钻石数量",
+                        "MaxLengthEnable": true,
+                        "MaxLengthText": 10,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 14.4,
+                          "Y": 40.33
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 72,
+                          "G": 93,
+                          "B": 101
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0391,
+                          "Y": 0.5105
+                        },
+                        "PreSize": {
+                          "X": 0.8859,
+                          "Y": 0.4051
+                        },
+                        "LeftMargin": 14.4,
+                        "RightMargin": 27.6,
+                        "TopMargin": 22.67,
+                        "BottomMargin": 24.33,
+                        "Tag": 512,
+                        "ActionTag": 1633915203,
+                        "Size": {
+                          "X": 326.0,
+                          "Y": 32.0
+                        },
+                        "Name": "input_recharge",
+                        "ctype": "TextFieldObjectData"
+                      }
+                    ],
+                    "ActionTag": 1477541393,
+                    "Size": {
+                      "X": 368.0,
+                      "Y": 79.0
+                    },
+                    "Name": "input_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/btns/qd_queding.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/btns/qd_queding.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 197,
+                    "Scale9Height": 80,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 263.5008,
+                      "Y": 141.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.89
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3504,
+                      "Y": 0.2759
+                    },
+                    "PreSize": {
+                      "X": 0.3019,
+                      "Y": 0.1957
+                    },
+                    "LeftMargin": 150.0008,
+                    "RightMargin": 374.9992,
+                    "TopMargin": 320.0,
+                    "BottomMargin": 91.0,
+                    "Tag": 513,
+                    "ActionTag": -281682636,
+                    "Size": {
+                      "X": 227.0,
+                      "Y": 100.0
+                    },
+                    "Name": "btn_ok",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/btns/qd_quxiao.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/btns/qd_quxiao.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 197,
+                    "Scale9Height": 78,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 494.8912,
+                      "Y": 141.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6581,
+                      "Y": 0.2759
+                    },
+                    "PreSize": {
+                      "X": 0.3019,
+                      "Y": 0.1957
+                    },
+                    "LeftMargin": 381.3912,
+                    "RightMargin": 143.6088,
+                    "TopMargin": 320.0,
+                    "BottomMargin": 91.0,
+                    "Tag": 514,
+                    "ActionTag": 1472358678,
+                    "Size": {
+                      "X": 227.0,
+                      "Y": 100.0
+                    },
+                    "Name": "btn_cancel",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 269801898,
+                "Size": {
+                  "X": 752.0,
+                  "Y": 511.0
+                },
+                "Name": "panel_root",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1078367697,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/ImageFile.png",
+        "Resoures/btns/qd_queding.png",
+        "Resoures/btns/qd_quxiao.png",
+        "Resoures/large/img_jiaru.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

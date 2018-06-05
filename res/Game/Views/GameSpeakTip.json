@@ -1,0 +1,422 @@
+{
+  "ID": "4f10320f-e5e6-4914-a0e4-f14761063d40",
+  "Version": "2.3.3.0",
+  "Name": "GameSpeakTip",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 56,
+        "Speed": 1.0,
+        "Timelines": [
+          {
+            "ActionTag": -1263177701,
+            "Property": "FileData",
+            "Frames": [
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "hutongyinliang1.png",
+                  "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                },
+                "FrameIndex": 0,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "hutongyinliang2.png",
+                  "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                },
+                "FrameIndex": 8,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "hutongyinliang3.png",
+                  "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                },
+                "FrameIndex": 16,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "hutongyinliang4.png",
+                  "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                },
+                "FrameIndex": 24,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "hutongyinliang5.png",
+                  "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                },
+                "FrameIndex": 32,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "hutongyinliang6.png",
+                  "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                },
+                "FrameIndex": 40,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "hutongyinliang7.png",
+                  "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                },
+                "FrameIndex": 48,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              },
+              {
+                "TextureFile": {
+                  "Type": "PlistSubImage",
+                  "Path": "hutongyinliang8.png",
+                  "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                },
+                "FrameIndex": 56,
+                "Tween": false,
+                "ctype": "TextureFrameData"
+              }
+            ],
+            "ctype": "TimelineData"
+          }
+        ],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 56,
+          "Name": "speak",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 135,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.3917
+                },
+                "LeftMargin": 499.0,
+                "RightMargin": 499.0,
+                "TopMargin": 219.0,
+                "BottomMargin": 219.0,
+                "Tag": 137,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "yuyin.png",
+                      "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                    },
+                    "Scale9Width": 282,
+                    "Scale9Height": 282,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 141.0,
+                      "Y": 141.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 136,
+                    "ActionTag": 1273361457,
+                    "Size": {
+                      "X": 282.0,
+                      "Y": 282.0
+                    },
+                    "Name": "img_speak",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hutongyinliang3.png",
+                      "Plist": "Game/Resoures/yuyin/yinliang.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 213.7351,
+                      "Y": 134.4294
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7579,
+                      "Y": 0.4767
+                    },
+                    "PreSize": {
+                      "X": 0.1312,
+                      "Y": 0.3546
+                    },
+                    "LeftMargin": 195.2351,
+                    "RightMargin": 49.7649,
+                    "TopMargin": 97.5706,
+                    "BottomMargin": 84.4294,
+                    "Tag": 139,
+                    "ActionTag": -1263177701,
+                    "Size": {
+                      "X": 37.0,
+                      "Y": 100.0
+                    },
+                    "Name": "sprite_sound",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1656397536,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 282.0
+                },
+                "Name": "panel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.3917
+                },
+                "LeftMargin": 499.0,
+                "RightMargin": 499.0,
+                "TopMargin": 219.0,
+                "BottomMargin": 219.0,
+                "Tag": 553,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Resoures/yuyin/yuyin2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 282,
+                    "Scale9Height": 282,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 141.0,
+                      "Y": 141.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 554,
+                    "ActionTag": 1104075421,
+                    "Size": {
+                      "X": 282.0,
+                      "Y": 282.0
+                    },
+                    "Name": "img_speak",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1585803798,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 282.0
+                },
+                "VisibleForFrame": false,
+                "Name": "panel_cancel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1092643551,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Resoures/yuyin/yinliang.plist",
+        "../Resoures/yuyin/yinliang.png",
+        "../Resoures/yuyin/yuyin2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

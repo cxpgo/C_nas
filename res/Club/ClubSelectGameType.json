@@ -1,0 +1,583 @@
+{
+  "ID": "74c1dac3-1433-41e4-9beb-71d1af17cc13",
+  "Version": "2.3.3.0",
+  "Name": "ClubSelectGameType",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 728,
+        "Children": [
+          {
+            "BackColorAlpha": 27,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "CallBackType": "Click",
+            "Tag": 806,
+            "FrameEvent": "shijian",
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/image/bg_01.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1280,
+                "Scale9Height": 720,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "CallBackType": "Click",
+                "Tag": 807,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/image/img_ditu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 1228,
+                    "Scale9Height": 645,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9594,
+                      "Y": 0.8958
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 37.5,
+                    "BottomMargin": 37.5,
+                    "Tag": 808,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/image/img_julebuchuanjian.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 258,
+                        "Scale9Height": 59,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 614.0,
+                          "Y": 610.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.9457
+                        },
+                        "PreSize": {
+                          "X": 0.2101,
+                          "Y": 0.0915
+                        },
+                        "LeftMargin": 485.0,
+                        "RightMargin": 485.0,
+                        "TopMargin": 5.5,
+                        "BottomMargin": 580.5,
+                        "Tag": 123,
+                        "ActionTag": 1144369739,
+                        "Size": {
+                          "X": 258.0,
+                          "Y": 59.0
+                        },
+                        "Name": "Image_1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -319773429,
+                    "Size": {
+                      "X": 1228.0,
+                      "Y": 645.0
+                    },
+                    "Name": "img_persion",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1799967105,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bg_background",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentWidthEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.7222
+                },
+                "TopMargin": 200.0,
+                "Tag": 844,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/btn_mask.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/btn_mask.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 266,
+                    "Scale9Height": 204,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 245.1257,
+                      "Y": 499.3097
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1915,
+                      "Y": 0.9602
+                    },
+                    "PreSize": {
+                      "X": 0.2031,
+                      "Y": 0.3846
+                    },
+                    "LeftMargin": 115.1257,
+                    "RightMargin": 904.8743,
+                    "TopMargin": -79.3097,
+                    "BottomMargin": 399.3097,
+                    "Tag": 855,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/image/img_xianmian.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 95,
+                        "Scale9Height": 49,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 7.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0269,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.3654,
+                          "Y": 0.245
+                        },
+                        "LeftMargin": 7.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": 151.0,
+                        "Tag": 790,
+                        "ActionTag": -836180470,
+                        "Size": {
+                          "X": 95.0,
+                          "Y": 49.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "img_free",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 2056430354,
+                    "Size": {
+                      "X": 260.0,
+                      "Y": 200.0
+                    },
+                    "Name": "btn_create",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/btn_mask.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/btn_mask.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 266,
+                    "Scale9Height": 204,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 516.1237,
+                      "Y": 499.3097
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4032,
+                      "Y": 0.9602
+                    },
+                    "PreSize": {
+                      "X": 0.2031,
+                      "Y": 0.3846
+                    },
+                    "LeftMargin": 386.1237,
+                    "RightMargin": 633.8763,
+                    "TopMargin": -79.3097,
+                    "BottomMargin": 399.3097,
+                    "Tag": 856,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GameHall/Resoures/image/img_xianmian.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 95,
+                        "Scale9Height": 49,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 8.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0308,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.3654,
+                          "Y": 0.245
+                        },
+                        "LeftMargin": 8.0,
+                        "RightMargin": 157.0,
+                        "TopMargin": 151.0,
+                        "Tag": 791,
+                        "ActionTag": -1604585059,
+                        "Size": {
+                          "X": 95.0,
+                          "Y": 49.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "img_free",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1152972784,
+                    "Size": {
+                      "X": 260.0,
+                      "Y": 200.0
+                    },
+                    "Name": "btn_create_1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/gold/btn_fanhui.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/gold/btn_fanhui.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/gold/btn_fanhui.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 30,
+                    "Scale9Height": 37,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 41.3176,
+                      "Y": 663.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0323,
+                      "Y": 1.275
+                    },
+                    "PreSize": {
+                      "X": 0.0469,
+                      "Y": 0.1135
+                    },
+                    "LeftMargin": 11.3176,
+                    "RightMargin": 1208.6824,
+                    "TopMargin": -172.5,
+                    "BottomMargin": 633.5,
+                    "Tag": 914,
+                    "ActionTag": -256941461,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 59.0
+                    },
+                    "Name": "btn_backfk",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1987965368,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 520.0
+                },
+                "Name": "panel_center",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 785373473,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/Button_Disable.png",
+        "../GameHall/Resoures/gold/btn_fanhui.png",
+        "../GameHall/Resoures/image/bg_01.png",
+        "../GameHall/Resoures/image/img_ditu.png",
+        "../GameHall/Resoures/image/img_julebuchuanjian.png",
+        "../GameHall/Resoures/image/img_xianmian.png",
+        "../GameHall/Resoures/large/btn_mask.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,434 @@
+{
+  "ID": "14b02488-321a-4c22-a3b6-2cfabf743553",
+  "Version": "2.3.3.0",
+  "Name": "PDKLastCards",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 64,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 65,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_shurukuang2.png",
+                  "Plist": "GameHall/Resoures/new_ui.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 43,
+                "Scale9OriginY": 123,
+                "Scale9Width": 47,
+                "Scale9Height": 128,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 446.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.62
+                },
+                "PreSize": {
+                  "X": 0.6773,
+                  "Y": 0.575
+                },
+                "LeftMargin": 206.5,
+                "RightMargin": 206.5,
+                "TopMargin": 66.6,
+                "BottomMargin": 239.4,
+                "Tag": 418,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "上手牌型",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 432.5901,
+                      "Y": 365.3853
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 123,
+                      "G": 90,
+                      "B": 70
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.499,
+                      "Y": 0.8826
+                    },
+                    "PreSize": {
+                      "X": 0.1696,
+                      "Y": 0.099
+                    },
+                    "LeftMargin": 359.0901,
+                    "RightMargin": 360.9099,
+                    "TopMargin": 28.1147,
+                    "BottomMargin": 344.8853,
+                    "Tag": 343,
+                    "ActionTag": 1512913036,
+                    "Size": {
+                      "X": 147.0,
+                      "Y": 41.0
+                    },
+                    "Name": "Text_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 433.5,
+                      "Y": 100.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2415
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 433.5,
+                    "RightMargin": 433.5,
+                    "TopMargin": 314.0,
+                    "BottomMargin": 100.0,
+                    "Tag": 424,
+                    "ActionTag": -529348569,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node0",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 650.25,
+                      "Y": 260.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.75,
+                      "Y": 0.628
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 650.25,
+                    "RightMargin": 216.75,
+                    "TopMargin": 154.0,
+                    "BottomMargin": 260.0,
+                    "Tag": 425,
+                    "ActionTag": -1395234872,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 216.75,
+                      "Y": 260.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.25,
+                      "Y": 0.628
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 216.75,
+                    "RightMargin": 650.25,
+                    "TopMargin": 154.0,
+                    "BottomMargin": 260.0,
+                    "Tag": 426,
+                    "ActionTag": 1395269113,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "player_yaobuqi.png",
+                      "Plist": "Game/Poker/DDZ/Resoures/pdkTable.plist"
+                    },
+                    "Scale9Width": 134,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 433.5,
+                      "Y": 145.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3502
+                    },
+                    "PreSize": {
+                      "X": 0.1546,
+                      "Y": 0.1353
+                    },
+                    "LeftMargin": 366.5,
+                    "RightMargin": 366.5,
+                    "TopMargin": 241.0,
+                    "BottomMargin": 117.0,
+                    "Tag": 427,
+                    "ActionTag": 1941477624,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "no0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "player_yaobuqi.png",
+                      "Plist": "Game/Poker/DDZ/Resoures/pdkTable.plist"
+                    },
+                    "Scale9Width": 134,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 606.9,
+                      "Y": 300.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7,
+                      "Y": 0.7246
+                    },
+                    "PreSize": {
+                      "X": 0.1546,
+                      "Y": 0.1353
+                    },
+                    "LeftMargin": 539.9,
+                    "RightMargin": 193.1,
+                    "TopMargin": 86.0,
+                    "BottomMargin": 272.0,
+                    "Tag": 428,
+                    "ActionTag": -993313921,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "no1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "player_yaobuqi.png",
+                      "Plist": "Game/Poker/DDZ/Resoures/pdkTable.plist"
+                    },
+                    "Scale9Width": 134,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 260.1,
+                      "Y": 300.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3,
+                      "Y": 0.7246
+                    },
+                    "PreSize": {
+                      "X": 0.1546,
+                      "Y": 0.1353
+                    },
+                    "LeftMargin": 193.1,
+                    "RightMargin": 539.9,
+                    "TopMargin": 86.0,
+                    "BottomMargin": 272.0,
+                    "Tag": 429,
+                    "ActionTag": 1581123626,
+                    "Size": {
+                      "X": 134.0,
+                      "Y": 56.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "no2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 605658069,
+                "Size": {
+                  "X": 867.0,
+                  "Y": 414.0
+                },
+                "Name": "image_bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1754137572,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../font/jzy.TTF",
+        "../../../GameHall/Resoures/new_ui.plist",
+        "../../../GameHall/Resoures/new_ui.png",
+        "../DDZ/Resoures/pdkTable.plist",
+        "../DDZ/Resoures/pdkTable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

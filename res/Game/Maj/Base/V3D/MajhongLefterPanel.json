@@ -1,0 +1,1436 @@
+{
+  "ID": "05e49066-c885-45e7-86a2-9624740dedf1",
+  "Version": "2.3.3.0",
+  "Name": "MajhongLefterPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 1.0
+            },
+            "RightMargin": 880.0,
+            "CallBackType": "Click",
+            "Tag": 40,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 370.813,
+                  "Y": 490.0002
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.927,
+                  "Y": 0.6806
+                },
+                "PreSize": {
+                  "X": 0.225,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 370.813,
+                "RightMargin": -60.813,
+                "TopMargin": 179.9998,
+                "BottomMargin": 490.0002,
+                "Tag": 60,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -90.65,
+                      "Y": -100.94
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": -1.0072,
+                      "Y": -2.0188
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -90.65,
+                    "RightMargin": 180.65,
+                    "TopMargin": 150.94,
+                    "BottomMargin": -100.94,
+                    "Tag": 112,
+                    "ActionTag": 1334607413,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "node_show",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": 219947212,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 50.0
+                },
+                "Name": "panel_cardOut",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 230.7858,
+                  "Y": 590.0001
+                },
+                "Scale": {
+                  "ScaleX": 0.95,
+                  "ScaleY": 0.95
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.577,
+                  "Y": 0.8194
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 230.7858,
+                "RightMargin": 119.2142,
+                "TopMargin": 79.9999,
+                "BottomMargin": 590.0001,
+                "Tag": 61,
+                "ActionTag": 537017368,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "panel_cardIn",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 194.9998,
+                  "Y": 592.5109
+                },
+                "Scale": {
+                  "ScaleX": 0.95,
+                  "ScaleY": 0.95
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4875,
+                  "Y": 0.8229
+                },
+                "PreSize": {
+                  "X": 0.125,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 194.9998,
+                "RightMargin": 155.0002,
+                "TopMargin": 77.4891,
+                "BottomMargin": 592.5109,
+                "Tag": 442,
+                "ActionTag": -303777569,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "Name": "panel_card_seat",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 400.0,
+                  "Y": 400.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 1.0,
+                  "Y": 0.5556
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 400.0,
+                "TopMargin": 320.0,
+                "BottomMargin": 400.0,
+                "Tag": 102,
+                "ActionTag": 440940094,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_tip",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 175.2017,
+                  "Y": 262.9482
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.438,
+                  "Y": 0.3652
+                },
+                "PreSize": {
+                  "X": 0.13,
+                  "Y": 0.1431
+                },
+                "LeftMargin": 175.2017,
+                "RightMargin": 172.7983,
+                "TopMargin": 354.0518,
+                "BottomMargin": 262.9482,
+                "Tag": 45,
+                "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "RightMargin": 52.0,
+                    "TopMargin": 103.0,
+                    "Tag": 46,
+                    "ActionTag": -1030390561,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 17.94,
+                      "Y": 30.78
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.345,
+                      "Y": 0.2988
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 17.94,
+                    "RightMargin": 34.06,
+                    "TopMargin": 72.22,
+                    "BottomMargin": 30.78,
+                    "Tag": 47,
+                    "ActionTag": -1879078950,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node1",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 35.19,
+                      "Y": 60.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.6767,
+                      "Y": 0.5876
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 35.19,
+                    "RightMargin": 16.81,
+                    "TopMargin": 42.48,
+                    "BottomMargin": 60.52,
+                    "Tag": 48,
+                    "ActionTag": 1020919634,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node0",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 15.11,
+                      "Y": 50.81
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.2906,
+                      "Y": 0.4933
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 15.11,
+                    "RightMargin": 36.89,
+                    "TopMargin": 52.19,
+                    "BottomMargin": 50.81,
+                    "Tag": 49,
+                    "ActionTag": 688203995,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node3",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 17.94,
+                      "Y": 30.78
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.345,
+                      "Y": 0.2988
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 17.94,
+                    "RightMargin": 34.06,
+                    "TopMargin": 72.22,
+                    "BottomMargin": 30.78,
+                    "Tag": 149,
+                    "ActionTag": 228452381,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node_offPos",
+                    "ctype": "SingleNodeObjectData"
+                  }
+                ],
+                "ActionTag": -71464087,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 103.0
+                },
+                "Name": "panel_peng",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 302.8994,
+                  "Y": 174.8938
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7572,
+                  "Y": 0.2429
+                },
+                "PreSize": {
+                  "X": 0.25,
+                  "Y": 0.6808
+                },
+                "LeftMargin": 302.8994,
+                "RightMargin": -2.8994,
+                "TopMargin": 54.9628,
+                "BottomMargin": 174.8938,
+                "Tag": 274,
+                "Children": [
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.6,
+                      "Y": 1.0
+                    },
+                    "RightMargin": 40.0,
+                    "Tag": 279,
+                    "ActionTag": 94216981,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 490.1434
+                    },
+                    "Name": "panel_card",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 56.7278,
+                      "Y": 168.0758
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5673,
+                      "Y": 0.3429
+                    },
+                    "PreSize": {
+                      "X": 2.0,
+                      "Y": 0.408
+                    },
+                    "LeftMargin": 56.7278,
+                    "RightMargin": -156.7278,
+                    "TopMargin": 122.0676,
+                    "BottomMargin": 168.0758,
+                    "Tag": 280,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "sanjindao_no.png",
+                          "Plist": "Game/Maj/Base/Resoures/dahu.plist"
+                        },
+                        "Scale9Width": 185,
+                        "Scale9Height": 83,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 100.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.925,
+                          "Y": 0.415
+                        },
+                        "LeftMargin": 7.5,
+                        "RightMargin": 7.5,
+                        "TopMargin": 58.5,
+                        "BottomMargin": 58.5,
+                        "Tag": 281,
+                        "ActionTag": 627525080,
+                        "Size": {
+                          "X": 185.0,
+                          "Y": 83.0
+                        },
+                        "Name": "image_word",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 932497862,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "panel_image",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -200844725,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 490.1434
+                },
+                "VisibleForFrame": false,
+                "Name": "panel_tianhu",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 300.0,
+                  "Y": 225.5537
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.75,
+                  "Y": 0.3133
+                },
+                "PreSize": {
+                  "X": 0.1625,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 300.0,
+                "RightMargin": 35.0,
+                "TopMargin": 94.4463,
+                "BottomMargin": 225.5537,
+                "Tag": 56,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayDiKuang2.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Width": 63,
+                    "Scale9Height": 400,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 32.5,
+                      "Y": 200.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9692,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 1.0,
+                    "RightMargin": 1.0,
+                    "Tag": 57,
+                    "ActionTag": -28445069,
+                    "Size": {
+                      "X": 63.0,
+                      "Y": 400.0
+                    },
+                    "Name": "image_replay",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML11.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML1.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 17,
+                    "Scale9Height": 19,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.95,
+                      "Y": 368.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.92
+                    },
+                    "PreSize": {
+                      "X": 0.6923,
+                      "Y": 0.1025
+                    },
+                    "LeftMargin": 5.45,
+                    "RightMargin": 14.55,
+                    "TopMargin": 11.5,
+                    "BottomMargin": 347.5,
+                    "Tag": 58,
+                    "ActionTag": 482783995,
+                    "Size": {
+                      "X": 45.0,
+                      "Y": 41.0
+                    },
+                    "Name": "btn_chi",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML21.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML2.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 18,
+                    "Scale9Height": 21,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.95,
+                      "Y": 304.7221
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.7618
+                    },
+                    "PreSize": {
+                      "X": 0.7077,
+                      "Y": 0.1075
+                    },
+                    "LeftMargin": 4.95,
+                    "RightMargin": 14.05,
+                    "TopMargin": 73.7779,
+                    "BottomMargin": 283.2221,
+                    "Tag": 59,
+                    "ActionTag": 26310798,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 43.0
+                    },
+                    "Name": "btn_peng",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML31.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML3.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 18,
+                    "Scale9Height": 25,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.95,
+                      "Y": 238.4443
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.5961
+                    },
+                    "PreSize": {
+                      "X": 0.7077,
+                      "Y": 0.1175
+                    },
+                    "LeftMargin": 4.95,
+                    "RightMargin": 14.05,
+                    "TopMargin": 138.0557,
+                    "BottomMargin": 214.9443,
+                    "Tag": 60,
+                    "ActionTag": 1151938713,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 47.0
+                    },
+                    "Name": "btn_gang",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML41.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML4.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 12,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 15,
+                    "Scale9Height": 22,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.95,
+                      "Y": 171.6665
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.4292
+                    },
+                    "PreSize": {
+                      "X": 0.7077,
+                      "Y": 0.1225
+                    },
+                    "LeftMargin": 4.95,
+                    "RightMargin": 14.05,
+                    "TopMargin": 203.8335,
+                    "BottomMargin": 147.1665,
+                    "Tag": 61,
+                    "ActionTag": 923230628,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 49.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_bu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML71.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML7.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 12,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 22,
+                    "Scale9Height": 27,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.9501,
+                      "Y": 171.6665
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.4292
+                    },
+                    "PreSize": {
+                      "X": 0.7077,
+                      "Y": 0.1225
+                    },
+                    "LeftMargin": 4.9501,
+                    "RightMargin": 14.0499,
+                    "TopMargin": 203.8335,
+                    "BottomMargin": 147.1665,
+                    "Tag": 384,
+                    "ActionTag": -2104079382,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 49.0
+                    },
+                    "Name": "btn_ting",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML51.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML5.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 13,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 16,
+                    "Scale9Height": 23,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.95,
+                      "Y": 105.8887
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.2647
+                    },
+                    "PreSize": {
+                      "X": 0.6462,
+                      "Y": 0.1125
+                    },
+                    "LeftMargin": 6.95,
+                    "RightMargin": 16.05,
+                    "TopMargin": 271.6113,
+                    "BottomMargin": 83.3887,
+                    "Tag": 62,
+                    "ActionTag": -1621456053,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 45.0
+                    },
+                    "Name": "btn_hu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML61.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayML6.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 19,
+                    "Scale9Height": 23,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.95,
+                      "Y": 39.6
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.099
+                    },
+                    "PreSize": {
+                      "X": 0.7231,
+                      "Y": 0.1125
+                    },
+                    "LeftMargin": 4.45,
+                    "RightMargin": 13.55,
+                    "TopMargin": 337.9,
+                    "BottomMargin": 17.1,
+                    "Tag": 63,
+                    "ActionTag": 543681259,
+                    "Size": {
+                      "X": 47.0,
+                      "Y": 45.0
+                    },
+                    "Name": "btn_guo",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "replayGesture.png",
+                      "Plist": "Game/Resoures/gameHistory.plist"
+                    },
+                    "Scale9Width": 58,
+                    "Scale9Height": 68,
+                    "AnchorPoint": {
+                      "ScaleX": 0.3668,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 21.4554,
+                      "Y": 36.7318
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3301,
+                      "Y": 0.0918
+                    },
+                    "PreSize": {
+                      "X": 0.8923,
+                      "Y": 0.17
+                    },
+                    "LeftMargin": 0.181,
+                    "RightMargin": 6.819,
+                    "TopMargin": 363.2682,
+                    "BottomMargin": -31.2682,
+                    "Tag": 83,
+                    "ActionTag": -420302990,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 68.0
+                    },
+                    "Name": "image_finger",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1171614246,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 400.0
+                },
+                "Name": "panel_replay",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 452.3593,
+                  "Y": 406.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.1309,
+                  "Y": 0.5639
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 452.3593,
+                "RightMargin": -52.3593,
+                "TopMargin": 314.0,
+                "BottomMargin": 406.0,
+                "Tag": 721,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/Base/Resoures/huan3/room_huan3_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 57,
+                    "Scale9Height": 82,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -28.5,
+                    "RightMargin": -28.5,
+                    "TopMargin": -41.0,
+                    "BottomMargin": -41.0,
+                    "Tag": 722,
+                    "ActionTag": -778742484,
+                    "Size": {
+                      "X": 57.0,
+                      "Y": 82.0
+                    },
+                    "Name": "pppp",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 160906252,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "panel_huan3_dipai",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1355038170,
+            "Size": {
+              "X": 400.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../Resoures/gameHistory.plist",
+        "../../../Resoures/gameHistory.png",
+        "../Resoures/dahu.plist",
+        "../Resoures/dahu.png",
+        "../Resoures/huan3/room_huan3_1.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

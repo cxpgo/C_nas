@@ -1,0 +1,250 @@
+{
+  "ID": "79ed9b5a-47d8-45a8-8796-a3455272df2f",
+  "Version": "2.3.3.0",
+  "Name": "DAHelp",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 161,
+        "Children": [
+          {
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 319,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "[基础规则]-------------",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.5,
+                  "Y": 1929.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 183,
+                  "G": 36,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2029,
+                  "Y": 0.9962
+                },
+                "PreSize": {
+                  "X": 0.4059,
+                  "Y": 0.0076
+                },
+                "RightMargin": 505.0,
+                "BottomMargin": 3942.0,
+                "Tag": 320,
+                "ActionTag": -697891929,
+                "Size": {
+                  "X": 345.0,
+                  "Y": 30.0
+                },
+                "Name": "content0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "【总张数】\n  麻将总张数为112张除万、饼、条外 只有四张红中\n【杠牌】\n明杠、暗杠、幺九杠\n名词：\n\n幺杠：当发完牌以后，手里有一条，一饼，一万，则可以亮出个蛋，其实就是明杠，如果后面再抓上来则可以继续无限亮出来；(装家起手不补蛋)\n\n九杠：同上，3个9\n\n大杠:四个1条或者1饼或红中，额外加1分，其实就是相当于暗杠了\n\n小鸡飞蛋：小鸡起手在杠中可以是万能牌，例如起手9饼，9条，一条，那么也可以是蛋，因为一条是万能的当蛋；\n\n红中杠：同小鸡飞蛋\n\n\n【胡牌条件】\n1.必须报听，报听才能胡\n2.必须缺一门才可以胡牌\n3.不能断幺、九，有对红中碰或有幺、九杠时可以免幺九\n4.只有夹胡或边胡才能报听，并且明听（听后亮出与所胡的牌相关的两张牌）\n5.可以漂胡（手中没有顺子的牌，分单、双漂）\n6.门清不可以胡牌，必须叉开门胡牌。（如果没有叉时不能够吃牌）\n【胡牌分数的构成】\n   由底分和统计的番数结算构成，总分=胡牌番数+杠牌得分\n【基本胡法】\n夹胡 夹五胡 漂胡 孤丁胡  清一色胡  清一色夹五胡 清一色漂胡 清一色孤丁胡\n【基本分数】\n夹胡2分 夹五胡4分 漂胡4分 孤丁胡8分  清一色胡4分  清一色夹五胡8分 清一色漂胡8分 清一色孤丁胡 16分   \n\n【番数计算】\n胡牌加番\n   庄家：加1番\n点炮：加1番 \n   自摸：加1番\n   三家清：加1番 （闭门的基础上，再加1番）\n   摸宝： 加1番",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.0,
+                  "Y": 1362.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 90,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8535
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.2779
+                },
+                "TopMargin": 30.0,
+                "BottomMargin": 2838.0,
+                "Tag": 321,
+                "ActionTag": -1916272478,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 1104.0
+                },
+                "Name": "content1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "直对宝：加1番\n   杠牌：喜蛋2分，过一个喜蛋+2分（就是幺九杠）  明蛋2分，暗蛋4分\n\n输番\n   庄家 输 1 番\n门清 输 1 番\n\n【会牌】\n   幺鸡为会牌听牌后摸幺鸡也可以胡\n\n【宝牌规则】\n   听牌后不需要用骰子掷宝，而是听牌后牌圈中摸的第一张牌为宝牌。如牌河中出现三张宝牌则将手中宝牌扔进牌河中，重新摸再摸一张。如宝牌正巧为会牌（幺鸡）时则直接对宝成功。\n\n【荒庄】\n 荒庄结算杠\n\n【分张】\n   抓光所有的牌，分张抓到的牌不用打出去。分张时抓到的牌可以胡，先分到牌的玩家优先胡。分张抓到的牌不可以杠。\n\n\n\n备注：\n别人报听胡的牌，在你没有报听之前不能出，也不能开杠！\n清一色一包到底（谁点炮包三家）\n四家听牌后，宝牌变成明宝\n",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/jzy.TTF",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 425.0,
+                  "Y": 405.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 123,
+                  "G": 90,
+                  "B": 70
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6125
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.2039
+                },
+                "TopMargin": 1134.0,
+                "BottomMargin": 2028.0,
+                "Tag": 322,
+                "ActionTag": -598189208,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 850.0,
+                  "Y": 810.0
+                },
+                "Name": "content2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1459752909,
+            "Size": {
+              "X": 850.0,
+              "Y": 520.0
+            },
+            "Name": "panel_root",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 850.0,
+          "Y": 520.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/jzy.TTF"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

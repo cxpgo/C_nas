@@ -1,0 +1,694 @@
+{
+  "ID": "454a4129-ce72-41a0-be99-22ec7231cff2",
+  "Version": "2.3.3.0",
+  "Name": "WGRoomDingQue",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 501,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 197,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Default",
+                      "Path": "Default/ImageFile.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 46,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 655.4635,
+                      "Y": 225.9349
+                    },
+                    "Scale": {
+                      "ScaleX": 0.01,
+                      "ScaleY": 0.01
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5121,
+                      "Y": 0.3138
+                    },
+                    "PreSize": {
+                      "X": 0.0359,
+                      "Y": 0.0639
+                    },
+                    "LeftMargin": 632.4635,
+                    "RightMargin": 601.5365,
+                    "TopMargin": 471.0651,
+                    "BottomMargin": 202.9349,
+                    "Tag": 198,
+                    "ActionTag": -1075763216,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 46.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "img_dingque_self",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/Base/Resoures/dingque/xzmj_dingque.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 129,
+                    "Scale9Height": 53,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 423.0244,
+                      "Y": 393.7254
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3305,
+                      "Y": 0.5468
+                    },
+                    "PreSize": {
+                      "X": 0.1008,
+                      "Y": 0.0736
+                    },
+                    "LeftMargin": 358.5244,
+                    "RightMargin": 792.4756,
+                    "TopMargin": 299.7746,
+                    "BottomMargin": 367.2254,
+                    "Tag": 199,
+                    "ActionTag": -1203830735,
+                    "Size": {
+                      "X": 129.0,
+                      "Y": 53.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "img_dingque_left",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/Base/Resoures/dingque/xzmj_dingque.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 129,
+                    "Scale9Height": 53,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 856.847,
+                      "Y": 394.5004
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6694,
+                      "Y": 0.5479
+                    },
+                    "PreSize": {
+                      "X": 0.1008,
+                      "Y": 0.0736
+                    },
+                    "LeftMargin": 792.347,
+                    "RightMargin": 358.653,
+                    "TopMargin": 298.9996,
+                    "BottomMargin": 368.0004,
+                    "Tag": 200,
+                    "ActionTag": -1976762051,
+                    "Size": {
+                      "X": 129.0,
+                      "Y": 53.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "img_dingque_right",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/Base/Resoures/dingque/xzmj_dingque.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 129,
+                    "Scale9Height": 53,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 640.5719,
+                      "Y": 547.9255
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5004,
+                      "Y": 0.761
+                    },
+                    "PreSize": {
+                      "X": 0.1008,
+                      "Y": 0.0736
+                    },
+                    "LeftMargin": 576.0719,
+                    "RightMargin": 574.9281,
+                    "TopMargin": 145.5745,
+                    "BottomMargin": 521.4255,
+                    "Tag": 201,
+                    "ActionTag": -1470202942,
+                    "Size": {
+                      "X": 129.0,
+                      "Y": 53.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "img_dingque_up",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1180.75,
+                      "Y": 400.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.1,
+                      "ScaleY": 1.1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9225,
+                      "Y": 0.5556
+                    },
+                    "PreSize": {
+                      "X": 0.0797,
+                      "Y": 0.1736
+                    },
+                    "LeftMargin": 1180.75,
+                    "RightMargin": -2.75,
+                    "TopMargin": 195.0,
+                    "BottomMargin": 400.0,
+                    "Tag": 181,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/Base/Resoures/dingque/xzmj_B.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 22.9296,
+                          "Y": 100.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2248,
+                          "Y": 0.8
+                        },
+                        "PreSize": {
+                          "X": 0.3333,
+                          "Y": 0.272
+                        },
+                        "LeftMargin": 5.9296,
+                        "RightMargin": 62.0704,
+                        "TopMargin": 8.0,
+                        "BottomMargin": 83.0,
+                        "Tag": 184,
+                        "ActionTag": -1144182511,
+                        "Size": {
+                          "X": 34.0,
+                          "Y": 34.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "image_que_right",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1661004632,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 125.0
+                    },
+                    "Name": "seat_right_que",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1041.4697,
+                      "Y": 568.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.1,
+                      "ScaleY": 1.1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8136,
+                      "Y": 0.7889
+                    },
+                    "PreSize": {
+                      "X": 0.0797,
+                      "Y": 0.1736
+                    },
+                    "LeftMargin": 1041.4697,
+                    "RightMargin": 136.5303,
+                    "TopMargin": 27.0,
+                    "BottomMargin": 568.0,
+                    "Tag": 189,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/Base/Resoures/dingque/xzmj_B.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 22.8786,
+                          "Y": 100.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.2243,
+                          "Y": 0.8
+                        },
+                        "PreSize": {
+                          "X": 0.3333,
+                          "Y": 0.272
+                        },
+                        "LeftMargin": 5.8786,
+                        "RightMargin": 62.1214,
+                        "TopMargin": 8.0,
+                        "BottomMargin": 83.0,
+                        "Tag": 192,
+                        "ActionTag": 668495090,
+                        "Size": {
+                          "X": 34.0,
+                          "Y": 34.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "image_que_up",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1156713874,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 125.0
+                    },
+                    "Name": "seat_up_que",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0001,
+                      "Y": 124.6864
+                    },
+                    "Scale": {
+                      "ScaleX": 1.1,
+                      "ScaleY": 1.1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0078,
+                      "Y": 0.1732
+                    },
+                    "PreSize": {
+                      "X": 0.0797,
+                      "Y": 0.1736
+                    },
+                    "LeftMargin": -10.0001,
+                    "RightMargin": 1188.0001,
+                    "TopMargin": 470.3136,
+                    "BottomMargin": 124.6864,
+                    "Tag": 193,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/Base/Resoures/dingque/xzmj_B.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 81.2022,
+                          "Y": 100.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7961,
+                          "Y": 0.8
+                        },
+                        "PreSize": {
+                          "X": 0.3333,
+                          "Y": 0.272
+                        },
+                        "LeftMargin": 64.2022,
+                        "RightMargin": 3.7978,
+                        "TopMargin": 8.0,
+                        "BottomMargin": 83.0,
+                        "Tag": 196,
+                        "ActionTag": 1412513794,
+                        "Size": {
+                          "X": 34.0,
+                          "Y": 34.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "image_que_self",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 547517500,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 125.0
+                    },
+                    "Name": "seat_self_que",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": 400.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.1,
+                      "ScaleY": 1.1
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0078,
+                      "Y": 0.5556
+                    },
+                    "PreSize": {
+                      "X": 0.0797,
+                      "Y": 0.1736
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": 1188.0,
+                    "TopMargin": 195.0,
+                    "BottomMargin": 400.0,
+                    "Tag": 185,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Game/Maj/Base/Resoures/dingque/xzmj_B.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 34,
+                        "Scale9Height": 34,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 81.2022,
+                          "Y": 100.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7961,
+                          "Y": 0.8
+                        },
+                        "PreSize": {
+                          "X": 0.3333,
+                          "Y": 0.272
+                        },
+                        "LeftMargin": 64.2022,
+                        "RightMargin": 3.7978,
+                        "TopMargin": 8.0,
+                        "BottomMargin": 83.0,
+                        "Tag": 188,
+                        "ActionTag": -1680423582,
+                        "Size": {
+                          "X": 34.0,
+                          "Y": 34.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "image_que_left",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1544247963,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 125.0
+                    },
+                    "Name": "seat_left_que",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1444904607,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "panel_dingque",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -501860773,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "@plugin@",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../Default/ImageFile.png",
+        "../Base/Resoures/dingque/xzmj_B.png",
+        "../Base/Resoures/dingque/xzmj_dingque.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

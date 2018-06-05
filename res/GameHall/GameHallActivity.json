@@ -1,0 +1,336 @@
+{
+  "ID": "03fe05b9-5c43-4a4d-93fd-a0a6cdff3101",
+  "Version": "2.3.3.0",
+  "Name": "GameHallActivity",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 705,
+                "Scale9Height": 539,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5508,
+                  "Y": 0.7486
+                },
+                "LeftMargin": 287.5,
+                "RightMargin": 287.5,
+                "TopMargin": 90.5,
+                "BottomMargin": 90.5,
+                "Tag": 2,
+                "ActionTag": -1648751698,
+                "Size": {
+                  "X": 705.0,
+                  "Y": 539.0
+                },
+                "Name": "image_background",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/btn_fuzhi02.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/btn_fuzhi02.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/btn_fuzhi01.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 96,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 897.9553,
+                  "Y": 200.4577
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7015,
+                  "Y": 0.2784
+                },
+                "PreSize": {
+                  "X": 0.0984,
+                  "Y": 0.1028
+                },
+                "LeftMargin": 834.9553,
+                "RightMargin": 319.0447,
+                "TopMargin": 482.5423,
+                "BottomMargin": 163.4577,
+                "Tag": 3677,
+                "ActionTag": 1432988472,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 74.0
+                },
+                "Name": "btn_copy",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Club/Resoures/btns/qd_exit1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Club/Resoures/btns/qd_exit1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Club/Resoures/btns/qd_exit0.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 65,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 981.5671,
+                  "Y": 627.4478
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7668,
+                  "Y": 0.8715
+                },
+                "PreSize": {
+                  "X": 0.0742,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 934.0671,
+                "RightMargin": 250.9329,
+                "TopMargin": 45.5522,
+                "BottomMargin": 580.4478,
+                "Tag": 290,
+                "ActionTag": 150960779,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 35,
+                "LabelText": "yjqd8081",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 683.1022,
+                  "Y": 201.5028
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 251,
+                  "G": 15,
+                  "B": 57
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5337,
+                  "Y": 0.2799
+                },
+                "PreSize": {
+                  "X": 0.1125,
+                  "Y": 0.0486
+                },
+                "LeftMargin": 683.1022,
+                "RightMargin": 452.8978,
+                "TopMargin": 500.9972,
+                "BottomMargin": 184.0028,
+                "Tag": 477,
+                "ActionTag": 764036583,
+                "Size": {
+                  "X": 144.0,
+                  "Y": 35.0
+                },
+                "Name": "wechat",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -591382751,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Club/Resoures/btns/qd_exit0.png",
+        "../Club/Resoures/btns/qd_exit1.png",
+        "../Default/ImageFile.png",
+        "Resoures/large/btn_fuzhi01.png",
+        "Resoures/large/btn_fuzhi02.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

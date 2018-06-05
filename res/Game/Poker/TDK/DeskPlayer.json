@@ -1,0 +1,694 @@
+{
+  "ID": "0b37e8ea-744b-4ca9-a584-3d987371383b",
+  "Version": "2.3.3.0",
+  "Name": "DeskPlayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "ActivedAnimationName": "quanleida",
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 80,
+          "Name": "quanleida",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1270,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 321.9069,
+                  "Y": 17.6848
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2515,
+                  "Y": 0.0246
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 321.9069,
+                "RightMargin": 958.0931,
+                "TopMargin": 702.3152,
+                "BottomMargin": 17.6848,
+                "Tag": 1534,
+                "ActionTag": -579505983,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_0",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 2.0,
+                  "Y": 205.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0016,
+                  "Y": 0.2847
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2.0,
+                "RightMargin": 1278.0,
+                "TopMargin": 515.0,
+                "BottomMargin": 205.0,
+                "Tag": 1535,
+                "ActionTag": -1650607672,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_4",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 2.0,
+                  "Y": 435.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.0016,
+                  "Y": 0.6042
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 2.0,
+                "RightMargin": 1278.0,
+                "TopMargin": 285.0,
+                "BottomMargin": 435.0,
+                "Tag": 1536,
+                "ActionTag": 1020307423,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_3",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1278.0002,
+                  "Y": 435.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.9984,
+                  "Y": 0.6042
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1278.0002,
+                "RightMargin": 1.9998,
+                "TopMargin": 285.0,
+                "BottomMargin": 435.0,
+                "Tag": 1729,
+                "ActionTag": 1526576759,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1278.0,
+                  "Y": 205.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.9984,
+                  "Y": 0.2847
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1278.0,
+                "RightMargin": 2.0,
+                "TopMargin": 515.0,
+                "BottomMargin": 205.0,
+                "Tag": 1730,
+                "ActionTag": -1558462455,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_fanti.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 116,
+                "Scale9Height": 47,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 643.5011,
+                  "Y": 290.9794
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5027,
+                  "Y": 0.4041
+                },
+                "PreSize": {
+                  "X": 0.0906,
+                  "Y": 0.0653
+                },
+                "LeftMargin": 585.5011,
+                "RightMargin": 578.4989,
+                "TopMargin": 405.5206,
+                "BottomMargin": 267.4794,
+                "Tag": 890,
+                "Children": [
+                  {
+                    "LabelText": "x20",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/HYDHJAD.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.96,
+                      "Y": 31.49
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.81,
+                      "Y": 0.67
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.9787
+                    },
+                    "LeftMargin": 93.96,
+                    "RightMargin": -35.96,
+                    "TopMargin": -7.49,
+                    "BottomMargin": 8.49,
+                    "Tag": 103,
+                    "ActionTag": -558252145,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 46.0
+                    },
+                    "Name": "txt_count",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1024060067,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 47.0
+                },
+                "Name": "img_tips_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_koule.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 116,
+                "Scale9Height": 47,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 860.7682,
+                  "Y": 405.4891
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6725,
+                  "Y": 0.5632
+                },
+                "PreSize": {
+                  "X": 0.0906,
+                  "Y": 0.0653
+                },
+                "LeftMargin": 802.7682,
+                "RightMargin": 361.2318,
+                "TopMargin": 291.0109,
+                "BottomMargin": 381.9891,
+                "Tag": 891,
+                "Children": [
+                  {
+                    "LabelText": "x20",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/HYDHJAD.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.96,
+                      "Y": 31.49
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.81,
+                      "Y": 0.67
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.9787
+                    },
+                    "LeftMargin": 93.96,
+                    "RightMargin": -35.96,
+                    "TopMargin": -7.49,
+                    "BottomMargin": 8.49,
+                    "Tag": 104,
+                    "ActionTag": -954133748,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 46.0
+                    },
+                    "Name": "txt_count",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1975557695,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 47.0
+                },
+                "Name": "img_tips_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_koule.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 116,
+                "Scale9Height": 47,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 903.7065,
+                  "Y": 543.7448
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.706,
+                  "Y": 0.7552
+                },
+                "PreSize": {
+                  "X": 0.0906,
+                  "Y": 0.0653
+                },
+                "LeftMargin": 845.7065,
+                "RightMargin": 318.2935,
+                "TopMargin": 152.7552,
+                "BottomMargin": 520.2448,
+                "Tag": 892,
+                "Children": [
+                  {
+                    "LabelText": "x20",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/HYDHJAD.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.96,
+                      "Y": 31.49
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.81,
+                      "Y": 0.67
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.9787
+                    },
+                    "LeftMargin": 93.96,
+                    "RightMargin": -35.96,
+                    "TopMargin": -7.49,
+                    "BottomMargin": 8.49,
+                    "Tag": 105,
+                    "ActionTag": 1934684489,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 46.0
+                    },
+                    "Name": "txt_count",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 528708067,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 47.0
+                },
+                "Name": "img_tips_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_koule.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 116,
+                "Scale9Height": 47,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 387.8009,
+                  "Y": 541.3977
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.303,
+                  "Y": 0.7519
+                },
+                "PreSize": {
+                  "X": 0.0906,
+                  "Y": 0.0653
+                },
+                "LeftMargin": 329.8009,
+                "RightMargin": 834.1991,
+                "TopMargin": 155.1023,
+                "BottomMargin": 517.8977,
+                "Tag": 893,
+                "Children": [
+                  {
+                    "LabelText": "x20",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/HYDHJAD.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.96,
+                      "Y": 31.49
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.81,
+                      "Y": 0.67
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.9787
+                    },
+                    "LeftMargin": 93.96,
+                    "RightMargin": -35.96,
+                    "TopMargin": -7.49,
+                    "BottomMargin": 8.49,
+                    "Tag": 106,
+                    "ActionTag": 1047803593,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 46.0
+                    },
+                    "Name": "txt_count",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 942956993,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 47.0
+                },
+                "Name": "img_tips_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/large/img_koule.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 116,
+                "Scale9Height": 47,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 439.4988,
+                  "Y": 405.3105
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3434,
+                  "Y": 0.5629
+                },
+                "PreSize": {
+                  "X": 0.0906,
+                  "Y": 0.0653
+                },
+                "LeftMargin": 381.4988,
+                "RightMargin": 782.5012,
+                "TopMargin": 291.1895,
+                "BottomMargin": 381.8105,
+                "Tag": 894,
+                "Children": [
+                  {
+                    "LabelText": "x20",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/HYDHJAD.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.96,
+                      "Y": 31.49
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.81,
+                      "Y": 0.67
+                    },
+                    "PreSize": {
+                      "X": 0.5,
+                      "Y": 0.9787
+                    },
+                    "LeftMargin": 93.96,
+                    "RightMargin": -35.96,
+                    "TopMargin": -7.49,
+                    "BottomMargin": 8.49,
+                    "Tag": 108,
+                    "ActionTag": 1392521618,
+                    "Size": {
+                      "X": 58.0,
+                      "Y": 46.0
+                    },
+                    "Name": "txt_count",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1427570559,
+                "Size": {
+                  "X": 116.0,
+                  "Y": 47.0
+                },
+                "Name": "img_tips_4",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1138409019,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../font/HYDHJAD.fnt",
+        "../../../font/HYDHJAD.png",
+        "Resoures/large/img_fanti.png",
+        "Resoures/large/img_koule.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

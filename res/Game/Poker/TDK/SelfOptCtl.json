@@ -1,0 +1,1632 @@
+{
+  "ID": "09b6b727-998d-4ee6-97ec-211cca0c55c4",
+  "Version": "2.3.3.0",
+  "Name": "SelfOptCtl",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "ActivedAnimationName": "quanleida",
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [
+        {
+          "StartIndex": 0,
+          "EndIndex": 80,
+          "Name": "quanleida",
+          "ctype": "AnimationInfoData"
+        }
+      ],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -590.3137,
+              "Y": 8.1604
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -590.3137,
+            "RightMargin": 390.3137,
+            "TopMargin": -208.1604,
+            "BottomMargin": 8.1604,
+            "Tag": 478,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_genzhu.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 175,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 536.8341,
+                  "Y": 24.4127
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.6842,
+                  "Y": 0.1221
+                },
+                "PreSize": {
+                  "X": 1.025,
+                  "Y": 0.485
+                },
+                "LeftMargin": 434.3341,
+                "RightMargin": -439.3341,
+                "TopMargin": 127.0873,
+                "BottomMargin": -24.0873,
+                "Tag": 479,
+                "ActionTag": 1258102136,
+                "Size": {
+                  "X": 205.0,
+                  "Y": 97.0
+                },
+                "Name": "btn_genzhu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_fanti.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 169,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 544.6046,
+                  "Y": 22.9127
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.723,
+                  "Y": 0.1146
+                },
+                "PreSize": {
+                  "X": 0.995,
+                  "Y": 0.47
+                },
+                "LeftMargin": 445.1046,
+                "RightMargin": -444.1046,
+                "TopMargin": 130.0873,
+                "BottomMargin": -24.0873,
+                "Tag": 480,
+                "ActionTag": 2022541863,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_fanti",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_buti.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 169,
+                "Scale9Height": 77,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 328.064,
+                  "Y": 25.413
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.6403,
+                  "Y": 0.1271
+                },
+                "PreSize": {
+                  "X": 0.995,
+                  "Y": 0.495
+                },
+                "LeftMargin": 228.564,
+                "RightMargin": -227.564,
+                "TopMargin": 125.087,
+                "BottomMargin": -24.087,
+                "Tag": 481,
+                "ActionTag": -1671593080,
+                "Size": {
+                  "X": 199.0,
+                  "Y": 99.0
+                },
+                "Name": "btn_buti",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_koupai.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 175,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -365.3593,
+                  "Y": 24.4109
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -1.8268,
+                  "Y": 0.1221
+                },
+                "PreSize": {
+                  "X": 1.025,
+                  "Y": 0.485
+                },
+                "LeftMargin": -467.8593,
+                "RightMargin": 462.8593,
+                "TopMargin": 127.0891,
+                "BottomMargin": -24.0891,
+                "Tag": 482,
+                "ActionTag": -317688340,
+                "Size": {
+                  "X": 205.0,
+                  "Y": 97.0
+                },
+                "Name": "btn_koupai",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_kaipai.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 175,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 539.3684,
+                  "Y": 24.4125
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.6968,
+                  "Y": 0.1221
+                },
+                "PreSize": {
+                  "X": 1.025,
+                  "Y": 0.485
+                },
+                "LeftMargin": 436.8684,
+                "RightMargin": -441.8684,
+                "TopMargin": 127.0875,
+                "BottomMargin": -24.0875,
+                "Tag": 483,
+                "ActionTag": -1745744134,
+                "Size": {
+                  "X": 205.0,
+                  "Y": 97.0
+                },
+                "Name": "btn_kaipai",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_qijiao.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 175,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 536.0797,
+                  "Y": 24.4125
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.6804,
+                  "Y": 0.1221
+                },
+                "PreSize": {
+                  "X": 1.025,
+                  "Y": 0.485
+                },
+                "LeftMargin": 433.5797,
+                "RightMargin": -438.5797,
+                "TopMargin": 127.0875,
+                "BottomMargin": -24.0875,
+                "Tag": 484,
+                "ActionTag": -937464269,
+                "Size": {
+                  "X": 205.0,
+                  "Y": 97.0
+                },
+                "Name": "btn_qijiao",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_tishi.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 117,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 327.3604,
+                  "Y": 30.0775
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.6368,
+                  "Y": 0.1504
+                },
+                "PreSize": {
+                  "X": 0.735,
+                  "Y": 0.345
+                },
+                "LeftMargin": 253.8604,
+                "RightMargin": -200.8604,
+                "TopMargin": 135.4225,
+                "BottomMargin": -4.4225,
+                "Tag": 485,
+                "ActionTag": 822615547,
+                "Size": {
+                  "X": 147.0,
+                  "Y": 69.0
+                },
+                "Name": "btn_tishi",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_xiazhu.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 175,
+                "Scale9Height": 75,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 539.3668,
+                  "Y": 24.4127
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.6968,
+                  "Y": 0.1221
+                },
+                "PreSize": {
+                  "X": 1.025,
+                  "Y": 0.485
+                },
+                "LeftMargin": 436.8668,
+                "RightMargin": -441.8668,
+                "TopMargin": 127.0873,
+                "BottomMargin": -24.0873,
+                "Tag": 486,
+                "ActionTag": 445054837,
+                "Size": {
+                  "X": 205.0,
+                  "Y": 97.0
+                },
+                "Name": "btn_xiazhu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Game/Poker/TDK/Resoures/gameBtn/btn_zhunbei.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 109,
+                "Scale9Height": 54,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 83.0204,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4151,
+                  "Y": 0.3
+                },
+                "PreSize": {
+                  "X": 0.695,
+                  "Y": 0.38
+                },
+                "LeftMargin": 13.5204,
+                "RightMargin": 47.4796,
+                "TopMargin": 102.0,
+                "BottomMargin": 22.0,
+                "Tag": 504,
+                "ActionTag": 2011032901,
+                "Size": {
+                  "X": 139.0,
+                  "Y": 76.0
+                },
+                "Name": "btn_zhunbei",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1569191862,
+            "Size": {
+              "X": 200.0,
+              "Y": 200.0
+            },
+            "Name": "panel_opt",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -1223.6014,
+              "Y": -15.9272
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1223.6014,
+            "RightMargin": -176.3986,
+            "TopMargin": -804.0728,
+            "BottomMargin": -15.9272,
+            "Tag": 487,
+            "Children": [
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 697.1033,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4979,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.4186,
+                  "Y": 0.2598
+                },
+                "LeftMargin": 697.1033,
+                "RightMargin": 116.8967,
+                "TopMargin": 607.0,
+                "Tag": 488,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/img_xiazhudi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 586,
+                    "Scale9Height": 213,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 489,
+                    "ActionTag": 903805090,
+                    "Size": {
+                      "X": 586.0,
+                      "Y": 213.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/btn_guangbi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 76,
+                    "Scale9Height": 38,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 186.8889,
+                      "Y": 179.9946
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.85
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3189,
+                      "Y": 0.845
+                    },
+                    "PreSize": {
+                      "X": 0.1809,
+                      "Y": 0.2817
+                    },
+                    "LeftMargin": 133.8889,
+                    "RightMargin": 346.1111,
+                    "TopMargin": 3.0054,
+                    "BottomMargin": 149.9946,
+                    "CallBackType": "Touch",
+                    "Tag": 490,
+                    "ActionTag": -1807171892,
+                    "Size": {
+                      "X": 106.0,
+                      "Y": 60.0
+                    },
+                    "Name": "btn_del",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/btn_quxiao.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 95,
+                    "Scale9Height": 31,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 278.8733,
+                      "Y": 155.3078
+                    },
+                    "Scale": {
+                      "ScaleX": 0.84,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4759,
+                      "Y": 0.7291
+                    },
+                    "PreSize": {
+                      "X": 0.2133,
+                      "Y": 0.2488
+                    },
+                    "LeftMargin": 278.8733,
+                    "RightMargin": 182.1267,
+                    "TopMargin": 4.6922,
+                    "BottomMargin": 155.3078,
+                    "CallBackType": "Touch",
+                    "Tag": 491,
+                    "ActionTag": -838311527,
+                    "Size": {
+                      "X": 125.0,
+                      "Y": 53.0
+                    },
+                    "Name": "btn_cancel",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/btn_queding.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 95,
+                    "Scale9Height": 30,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 427.4398,
+                      "Y": 154.68
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7294,
+                      "Y": 0.7262
+                    },
+                    "PreSize": {
+                      "X": 0.2133,
+                      "Y": 0.2441
+                    },
+                    "LeftMargin": 427.4398,
+                    "RightMargin": 33.5602,
+                    "TopMargin": 6.32,
+                    "BottomMargin": 154.68,
+                    "CallBackType": "Touch",
+                    "Tag": 492,
+                    "ActionTag": -1631879105,
+                    "Size": {
+                      "X": 125.0,
+                      "Y": 52.0
+                    },
+                    "Name": "btn_sure",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/img_chouma_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 133,
+                    "Scale9Height": 142,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 32.601,
+                      "Y": 32.82
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0556,
+                      "Y": 0.1541
+                    },
+                    "PreSize": {
+                      "X": 0.2782,
+                      "Y": 0.77
+                    },
+                    "LeftMargin": 32.601,
+                    "RightMargin": 390.399,
+                    "TopMargin": 16.18,
+                    "BottomMargin": 32.82,
+                    "Tag": 493,
+                    "ActionTag": 1480818054,
+                    "Size": {
+                      "X": 163.0,
+                      "Y": 164.0
+                    },
+                    "Name": "btn_pour0",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/img_chouma_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 133,
+                    "Scale9Height": 142,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 165.09,
+                      "Y": 32.6882
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2817,
+                      "Y": 0.1535
+                    },
+                    "PreSize": {
+                      "X": 0.2782,
+                      "Y": 0.77
+                    },
+                    "LeftMargin": 165.09,
+                    "RightMargin": 257.91,
+                    "TopMargin": 16.3118,
+                    "BottomMargin": 32.6882,
+                    "Tag": 494,
+                    "ActionTag": 1926883809,
+                    "Size": {
+                      "X": 163.0,
+                      "Y": 164.0
+                    },
+                    "Name": "btn_pour1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/img_chouma_5.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 133,
+                    "Scale9Height": 142,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 296.82,
+                      "Y": 30.0894
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5065,
+                      "Y": 0.1413
+                    },
+                    "PreSize": {
+                      "X": 0.2884,
+                      "Y": 0.8216
+                    },
+                    "LeftMargin": 296.82,
+                    "RightMargin": 120.18,
+                    "TopMargin": 7.9106,
+                    "BottomMargin": 30.0894,
+                    "Tag": 495,
+                    "ActionTag": -827609406,
+                    "Size": {
+                      "X": 169.0,
+                      "Y": 175.0
+                    },
+                    "Name": "btn_pour2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/img_chouma_zuida.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 138,
+                    "Scale9Height": 142,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 430.56,
+                      "Y": 33.27
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7347,
+                      "Y": 0.1562
+                    },
+                    "PreSize": {
+                      "X": 0.2867,
+                      "Y": 0.77
+                    },
+                    "LeftMargin": 430.56,
+                    "RightMargin": -12.56,
+                    "TopMargin": 15.73,
+                    "BottomMargin": 33.27,
+                    "Tag": 496,
+                    "ActionTag": -1282968220,
+                    "Size": {
+                      "X": 168.0,
+                      "Y": 164.0
+                    },
+                    "Name": "btn_pour3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 60,
+                    "LabelText": "666999",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.0898,
+                      "Y": 179.2882
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1435,
+                      "Y": 0.8417
+                    },
+                    "PreSize": {
+                      "X": 0.3072,
+                      "Y": 0.2817
+                    },
+                    "LeftMargin": -5.9102,
+                    "RightMargin": 411.9102,
+                    "TopMargin": 3.7118,
+                    "BottomMargin": 149.2882,
+                    "Tag": 130,
+                    "ActionTag": 1786219095,
+                    "Size": {
+                      "X": 180.0,
+                      "Y": 60.0
+                    },
+                    "Name": "input_pour",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -752905035,
+                "Size": {
+                  "X": 586.0,
+                  "Y": 213.0
+                },
+                "Name": "panel_clickpour",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1095.4253,
+                  "Y": 16.547
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7824,
+                  "Y": 0.0202
+                },
+                "PreSize": {
+                  "X": 0.1307,
+                  "Y": 0.6866
+                },
+                "LeftMargin": 1095.4253,
+                "RightMargin": 121.5747,
+                "TopMargin": 240.453,
+                "BottomMargin": 16.547,
+                "Tag": 498,
+                "Children": [
+                  {
+                    "BackGroundData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/img_huadongxiazhu_01.png",
+                      "Plist": ""
+                    },
+                    "BallNormalData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/img_huadongxiazhu_02.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 136.9279,
+                      "Y": 188.7117
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -90.0,
+                    "RotationSkewY": -90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7482,
+                      "Y": 0.3352
+                    },
+                    "PreSize": {
+                      "X": 1.4863,
+                      "Y": 0.1599
+                    },
+                    "LeftMargin": 136.9279,
+                    "RightMargin": -225.9279,
+                    "TopMargin": 284.2883,
+                    "BottomMargin": 188.7117,
+                    "Tag": 499,
+                    "ActionTag": -988227839,
+                    "Size": {
+                      "X": 272.0,
+                      "Y": 90.0
+                    },
+                    "Name": "Slider_1",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/nine_huadongxiazhu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 65,
+                    "Scale9OriginY": 69,
+                    "Scale9Width": 67,
+                    "Scale9Height": 72,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -10.0,
+                      "Y": -10.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0546,
+                      "Y": -0.0178
+                    },
+                    "PreSize": {
+                      "X": 1.0874,
+                      "Y": 1.0266
+                    },
+                    "LeftMargin": -10.0,
+                    "RightMargin": -6.0,
+                    "TopMargin": -5.0,
+                    "BottomMargin": -10.0,
+                    "Tag": 500,
+                    "ActionTag": 290672684,
+                    "Size": {
+                      "X": 199.0,
+                      "Y": 578.0
+                    },
+                    "Name": "Image_80",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/nine_xiazhushuliang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 11,
+                    "Scale9OriginY": 14,
+                    "Scale9Width": 12,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 27.2685,
+                      "Y": 488.63
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.149,
+                      "Y": 0.8679
+                    },
+                    "PreSize": {
+                      "X": 0.6995,
+                      "Y": 0.0853
+                    },
+                    "LeftMargin": 27.2685,
+                    "RightMargin": 27.7315,
+                    "TopMargin": 26.37,
+                    "BottomMargin": 488.63,
+                    "Tag": 501,
+                    "ActionTag": -1369932404,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 48.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "5",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 93.1103,
+                      "Y": 512.3596
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5088,
+                      "Y": 0.9101
+                    },
+                    "PreSize": {
+                      "X": 0.5464,
+                      "Y": 0.071
+                    },
+                    "LeftMargin": 43.1103,
+                    "RightMargin": 39.8897,
+                    "TopMargin": 30.6404,
+                    "BottomMargin": 492.3596,
+                    "Tag": 502,
+                    "ActionTag": -420861652,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 40.0
+                    },
+                    "Name": "text_score",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Poker/TDK/Resoures/bottompour/img_queding.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 109,
+                    "Scale9Height": 119,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 86.5648,
+                      "Y": 75.0672
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.473,
+                      "Y": 0.1333
+                    },
+                    "PreSize": {
+                      "X": 0.7596,
+                      "Y": 0.2504
+                    },
+                    "LeftMargin": 17.0648,
+                    "RightMargin": 26.9352,
+                    "TopMargin": 417.4328,
+                    "BottomMargin": 4.5672,
+                    "Tag": 503,
+                    "ActionTag": 122870063,
+                    "Size": {
+                      "X": 139.0,
+                      "Y": 141.0
+                    },
+                    "Name": "btn_sure",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -2051975208,
+                "Size": {
+                  "X": 183.0,
+                  "Y": 563.0
+                },
+                "Name": "panel_touchpour",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -885019777,
+            "Size": {
+              "X": 1400.0,
+              "Y": 820.0
+            },
+            "Name": "panel_pourView",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../../../font/jzy.TTF",
+        "Resoures/bottompour/btn_guangbi.png",
+        "Resoures/bottompour/btn_queding.png",
+        "Resoures/bottompour/btn_quxiao.png",
+        "Resoures/bottompour/img_chouma_1.png",
+        "Resoures/bottompour/img_chouma_2.png",
+        "Resoures/bottompour/img_chouma_5.png",
+        "Resoures/bottompour/img_chouma_zuida.png",
+        "Resoures/bottompour/img_huadongxiazhu_01.png",
+        "Resoures/bottompour/img_huadongxiazhu_02.png",
+        "Resoures/bottompour/img_queding.png",
+        "Resoures/bottompour/img_xiazhudi.png",
+        "Resoures/bottompour/nine_huadongxiazhu.png",
+        "Resoures/bottompour/nine_xiazhushuliang.png",
+        "Resoures/gameBtn/btn_buti.png",
+        "Resoures/gameBtn/btn_fanti.png",
+        "Resoures/gameBtn/btn_genzhu.png",
+        "Resoures/gameBtn/btn_kaipai.png",
+        "Resoures/gameBtn/btn_koupai.png",
+        "Resoures/gameBtn/btn_qijiao.png",
+        "Resoures/gameBtn/btn_tishi.png",
+        "Resoures/gameBtn/btn_xiazhu.png",
+        "Resoures/gameBtn/btn_zhunbei.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

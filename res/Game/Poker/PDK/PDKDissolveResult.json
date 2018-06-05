@@ -1,0 +1,602 @@
+{
+  "ID": "057c2305-65cd-431b-90c2-0ab9b1eb2633",
+  "Version": "2.3.3.0",
+  "Name": "PDKDissolveResult",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 97,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 98,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 814,
+                "Scale9Height": 545,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 240.0,
+                  "Y": 159.984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1875,
+                  "Y": 0.2222
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 240.0,
+                "RightMargin": 240.0,
+                "TopMargin": 160.016,
+                "BottomMargin": 159.984,
+                "Tag": 99,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "玩家[大宝剑]申请解散房间,请等待其他玩家选择.(超过五分钟未选择,默认同意)",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 283.3458
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1,
+                      "Y": 0.7084
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 80.0,
+                    "RightMargin": 180.0,
+                    "TopMargin": 91.6542,
+                    "BottomMargin": 258.3458,
+                    "Tag": 154,
+                    "ActionTag": 182614039,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 50.0
+                    },
+                    "Name": "text_dissolve",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 230.3408
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1,
+                      "Y": 0.5759
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 80.0,
+                    "RightMargin": 180.0,
+                    "TopMargin": 157.1592,
+                    "BottomMargin": 217.8408,
+                    "Tag": 155,
+                    "ActionTag": 1690659627,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 185.7834
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1,
+                      "Y": 0.4645
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 80.0,
+                    "RightMargin": 180.0,
+                    "TopMargin": 201.7166,
+                    "BottomMargin": 173.2834,
+                    "Tag": 156,
+                    "ActionTag": 1976535932,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 141.226
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1,
+                      "Y": 0.3531
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 80.0,
+                    "RightMargin": 180.0,
+                    "TopMargin": 246.274,
+                    "BottomMargin": 128.726,
+                    "Tag": 157,
+                    "ActionTag": 168697342,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "text_dissolve_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "agree.png",
+                      "Plist": "PokerDDZ/Resoures/pdkTable.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 166,
+                    "Scale9Height": 63,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 240.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3,
+                      "Y": 0.05
+                    },
+                    "PreSize": {
+                      "X": 0.245,
+                      "Y": 0.2125
+                    },
+                    "LeftMargin": 142.0,
+                    "RightMargin": 462.0,
+                    "TopMargin": 337.5,
+                    "BottomMargin": -22.5,
+                    "Tag": 162,
+                    "ActionTag": 1611960071,
+                    "Size": {
+                      "X": 196.0,
+                      "Y": 85.0
+                    },
+                    "Name": "btn_agree",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "refuse.png",
+                      "Plist": "PokerDDZ/Resoures/pdkTable.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 167,
+                    "Scale9Height": 61,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 560.0,
+                      "Y": 20.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7,
+                      "Y": 0.05
+                    },
+                    "PreSize": {
+                      "X": 0.2463,
+                      "Y": 0.2075
+                    },
+                    "LeftMargin": 461.5,
+                    "RightMargin": 141.5,
+                    "TopMargin": 338.5,
+                    "BottomMargin": -21.5,
+                    "Tag": 437,
+                    "ActionTag": -1415720671,
+                    "Size": {
+                      "X": 197.0,
+                      "Y": 83.0
+                    },
+                    "Name": "btn_refuse",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "clock.png",
+                      "Plist": "PokerDDZ/Resoures/pdkTable.plist"
+                    },
+                    "Scale9Width": 130,
+                    "Scale9Height": 140,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 111.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2775
+                    },
+                    "PreSize": {
+                      "X": 0.1625,
+                      "Y": 0.35
+                    },
+                    "LeftMargin": 335.0,
+                    "RightMargin": 335.0,
+                    "TopMargin": 219.0,
+                    "BottomMargin": 41.0,
+                    "Tag": 158,
+                    "Children": [
+                      {
+                        "FontSize": 40,
+                        "LabelText": "888",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/jzy.TTF",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.0,
+                          "Y": 70.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4692,
+                          "Y": 0.2857
+                        },
+                        "LeftMargin": 34.5,
+                        "RightMargin": 34.5,
+                        "TopMargin": 50.0,
+                        "BottomMargin": 50.0,
+                        "Tag": 436,
+                        "ActionTag": -1085900,
+                        "Size": {
+                          "X": 61.0,
+                          "Y": 40.0
+                        },
+                        "Name": "text_clock",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 437293993,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 140.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -737678856,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 400.0
+                },
+                "Name": "panel_root",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -2071450068,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/jzy.TTF",
+        "../PokerDDZ/Resoures/pdkTable.plist",
+        "../PokerDDZ/Resoures/pdkTable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,787 @@
+{
+  "ID": "43b14358-ac13-4d81-8977-2c016547720a",
+  "Version": "2.3.3.0",
+  "Name": "WGControl",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tipsbg.png",
+              "Plist": "Game/Maj/Base/Resoures/table_other.plist"
+            },
+            "SingleColor": {
+              "R": 0,
+              "G": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 36,
+            "Scale9OriginY": 36,
+            "Scale9Width": 38,
+            "Scale9Height": 38,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 832.2684,
+              "Y": -11.3134
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6502,
+              "Y": -0.0157
+            },
+            "PreSize": {
+              "X": 0.2242,
+              "Y": 0.1944
+            },
+            "LeftMargin": 832.2684,
+            "RightMargin": 160.7317,
+            "TopMargin": 591.3134,
+            "BottomMargin": -11.3134,
+            "CallBackType": "Touch",
+            "Tag": 226,
+            "ActionTag": 1309783851,
+            "Size": {
+              "X": 287.0,
+              "Y": 140.0
+            },
+            "VisibleForFrame": false,
+            "Name": "panel_sub_cell",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 160.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.2222
+            },
+            "PreSize": {
+              "X": 0.9531,
+              "Y": 0.125
+            },
+            "RightMargin": 60.0,
+            "TopMargin": 470.0,
+            "BottomMargin": 160.0,
+            "Tag": 221,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1000.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8197,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.082,
+                  "Y": 1.0
+                },
+                "LeftMargin": 1000.0,
+                "RightMargin": 120.0,
+                "Tag": 222,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_guo.png",
+                      "Plist": "Game/Maj/Base/Resoures/control_word.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 129,
+                    "Scale9Height": 119,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 56.0,
+                      "Y": 42.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.56,
+                      "Y": 0.4667
+                    },
+                    "PreSize": {
+                      "X": 1.59,
+                      "Y": 1.5667
+                    },
+                    "LeftMargin": -23.5,
+                    "RightMargin": -35.5,
+                    "TopMargin": -22.5,
+                    "BottomMargin": -28.5,
+                    "Tag": 223,
+                    "ActionTag": -1018214041,
+                    "Size": {
+                      "X": 159.0,
+                      "Y": 141.0
+                    },
+                    "Name": "btn_guo",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -34919161,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 90.0
+                },
+                "Name": "panel_guo",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 940.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7705,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.1475,
+                  "Y": 1.0
+                },
+                "LeftMargin": 940.0,
+                "RightMargin": 100.0,
+                "Tag": 224,
+                "Children": [
+                  {
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -372.0,
+                      "Y": 100.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -2.0667,
+                      "Y": 1.1111
+                    },
+                    "PreSize": {
+                      "X": 3.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": -372.0,
+                    "RightMargin": 12.0,
+                    "TopMargin": -100.0001,
+                    "BottomMargin": 100.0001,
+                    "Tag": 225,
+                    "ActionTag": 2040278132,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 90.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "panel_sub",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/ChangChun/Resoures/room/cha.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 129,
+                    "Scale9Height": 119,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.0,
+                      "Y": 43.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2944,
+                      "Y": 0.4833
+                    },
+                    "PreSize": {
+                      "X": 0.8833,
+                      "Y": 1.5667
+                    },
+                    "LeftMargin": -26.5,
+                    "RightMargin": 47.5,
+                    "TopMargin": -24.0,
+                    "BottomMargin": -27.0,
+                    "CallBackType": "Click",
+                    "Tag": 228,
+                    "ActionTag": -736240528,
+                    "Size": {
+                      "X": 159.0,
+                      "Y": 141.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_peng",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Game/Maj/ChangChun/Resoures/room/dan.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 129,
+                    "Scale9Height": 119,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.0,
+                      "Y": 43.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2944,
+                      "Y": 0.4833
+                    },
+                    "PreSize": {
+                      "X": 0.8833,
+                      "Y": 1.5667
+                    },
+                    "LeftMargin": -26.5,
+                    "RightMargin": 47.5,
+                    "TopMargin": -24.0,
+                    "BottomMargin": -27.0,
+                    "Tag": 229,
+                    "ActionTag": 1174815368,
+                    "Size": {
+                      "X": 159.0,
+                      "Y": 141.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_gang",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_chi.png",
+                      "Plist": "Game/Maj/Base/Resoures/control_word.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 129,
+                    "Scale9Height": 119,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.0,
+                      "Y": 43.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2944,
+                      "Y": 0.4833
+                    },
+                    "PreSize": {
+                      "X": 0.9278,
+                      "Y": 1.5444
+                    },
+                    "LeftMargin": -30.5,
+                    "RightMargin": 43.5,
+                    "TopMargin": -23.0,
+                    "BottomMargin": -26.0,
+                    "Tag": 230,
+                    "ActionTag": 1497847324,
+                    "Size": {
+                      "X": 167.0,
+                      "Y": 139.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_chi",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_hu.png",
+                      "Plist": "Game/Maj/Base/Resoures/control_word.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 129,
+                    "Scale9Height": 119,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.0,
+                      "Y": 43.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2944,
+                      "Y": 0.4833
+                    },
+                    "PreSize": {
+                      "X": 0.8833,
+                      "Y": 1.4556
+                    },
+                    "LeftMargin": -26.5,
+                    "RightMargin": 47.5,
+                    "TopMargin": -19.0,
+                    "BottomMargin": -22.0,
+                    "Tag": 231,
+                    "ActionTag": -453493357,
+                    "Size": {
+                      "X": 159.0,
+                      "Y": 131.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_hu",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 117.0,
+                      "Y": 2.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.65,
+                      "Y": 0.0222
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 117.0,
+                    "RightMargin": 63.0,
+                    "TopMargin": 88.0,
+                    "BottomMargin": 2.0,
+                    "Tag": 232,
+                    "ActionTag": 1739708147,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node_card",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_buzhang.png",
+                      "Plist": "Game/Maj/Base/Resoures/control_word.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 192,
+                    "Scale9Height": 103,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.0,
+                      "Y": 41.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4444,
+                      "Y": 0.4611
+                    },
+                    "PreSize": {
+                      "X": 0.7889,
+                      "Y": 0.9111
+                    },
+                    "LeftMargin": 9.0,
+                    "RightMargin": 29.0,
+                    "TopMargin": 7.5,
+                    "BottomMargin": 0.5,
+                    "Tag": 233,
+                    "ActionTag": 198523229,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 82.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_buzhang",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn_ting.png",
+                      "Plist": "Game/Maj/Base/Resoures/control_word.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 129,
+                    "Scale9Height": 119,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.9999,
+                      "Y": 43.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.35,
+                      "Y": 0.4833
+                    },
+                    "PreSize": {
+                      "X": 0.8389,
+                      "Y": 1.4778
+                    },
+                    "LeftMargin": -12.5001,
+                    "RightMargin": 41.5001,
+                    "TopMargin": -20.0,
+                    "BottomMargin": -23.0,
+                    "Tag": 234,
+                    "ActionTag": -2138702014,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 133.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "btn_ting",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -1095085723,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 90.0
+                },
+                "Name": "panel_cell",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1833345888,
+            "Size": {
+              "X": 1220.0,
+              "Y": 90.0
+            },
+            "Name": "panel_control",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Base/Resoures/control_word.plist",
+        "../Base/Resoures/control_word.png",
+        "../Base/Resoures/table_other.plist",
+        "../Base/Resoures/table_other.png",
+        "../ChangChun/Resoures/room/cha.png",
+        "../ChangChun/Resoures/room/dan.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

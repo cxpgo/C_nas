@@ -1,0 +1,316 @@
+{
+  "ID": "f10ea307-aac4-4380-aa08-7c6da1f19029",
+  "Version": "2.3.3.0",
+  "Name": "ClubInvitePlayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 683,
+        "Children": [
+          {
+            "BackColorAlpha": 65,
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -1.9724,
+              "Y": 0.6699
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0015,
+              "Y": 0.0009
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.9724,
+            "RightMargin": 1.9724,
+            "TopMargin": -0.6699,
+            "BottomMargin": 0.6699,
+            "Tag": 684,
+            "Children": [
+              {
+                "BackColorAlpha": 7,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 203.5148,
+                  "Y": 33.7406
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.159,
+                  "Y": 0.0469
+                },
+                "PreSize": {
+                  "X": 0.6844,
+                  "Y": 0.8889
+                },
+                "LeftMargin": 203.5148,
+                "RightMargin": 200.4852,
+                "TopMargin": 46.2594,
+                "BottomMargin": 33.7406,
+                "Tag": 685,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Default",
+                      "Path": "Default/ImageFile.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 893,
+                    "Scale9Height": 668,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0194,
+                      "Y": 1.0438
+                    },
+                    "RightMargin": -17.0,
+                    "TopMargin": -28.0,
+                    "Tag": 686,
+                    "ActionTag": -2067432310,
+                    "Size": {
+                      "X": 893.0,
+                      "Y": 668.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/btn_guanbi.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/btn_guanbi.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 63,
+                    "Scale9Height": 70,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 874.248,
+                      "Y": 627.0386
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.998,
+                      "Y": 0.9797
+                    },
+                    "PreSize": {
+                      "X": 0.1062,
+                      "Y": 0.1437
+                    },
+                    "LeftMargin": 827.748,
+                    "RightMargin": -44.748,
+                    "TopMargin": -33.0386,
+                    "BottomMargin": 581.0386,
+                    "Tag": 691,
+                    "ActionTag": -549187851,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 92.0
+                    },
+                    "Name": "btn_back",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/btn_queren.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/btn_queren.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 211,
+                    "Scale9Height": 85,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 437.7372,
+                      "Y": 84.9998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4997,
+                      "Y": 0.1328
+                    },
+                    "PreSize": {
+                      "X": 0.2751,
+                      "Y": 0.1672
+                    },
+                    "LeftMargin": 317.2372,
+                    "RightMargin": 317.7628,
+                    "TopMargin": 501.5002,
+                    "BottomMargin": 31.4998,
+                    "Tag": 690,
+                    "ActionTag": 1731529867,
+                    "Size": {
+                      "X": 241.0,
+                      "Y": 107.0
+                    },
+                    "Name": "btn_invite",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -674083752,
+                "Size": {
+                  "X": 876.0,
+                  "Y": 640.0
+                },
+                "Name": "panel_root",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1496037752,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_shadow",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/ImageFile.png",
+        "Resoures/large/btn_guanbi.png",
+        "Resoures/large/btn_queren.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

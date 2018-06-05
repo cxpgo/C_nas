@@ -1,0 +1,3513 @@
+{
+  "ID": "d8d149a4-29bb-4f7a-944f-3c250ac9d6a1",
+  "Version": "2.3.3.0",
+  "Name": "GameProb",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 273,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 274,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/exchange/btn_shutiao2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 90,
+                "Scale9OriginY": 90,
+                "Scale9Width": 134,
+                "Scale9Height": 499,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 335.62,
+                  "Y": 76.5295
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2622,
+                  "Y": 0.1063
+                },
+                "PreSize": {
+                  "X": 0.4688,
+                  "Y": 0.7347
+                },
+                "LeftMargin": 335.62,
+                "RightMargin": 344.38,
+                "TopMargin": 114.4705,
+                "BottomMargin": 76.5295,
+                "CallBackType": "Click",
+                "Tag": 275,
+                "ActionTag": -313481239,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 529.0
+                },
+                "Name": "img_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Club/Resoures/large/new_club/Common/img_hengtiao.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 662,
+                "Scale9Height": 129,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 638.207,
+                  "Y": 571.3864
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4986,
+                  "Y": 0.7936
+                },
+                "PreSize": {
+                  "X": 0.5172,
+                  "Y": 0.1792
+                },
+                "LeftMargin": 307.207,
+                "RightMargin": 310.793,
+                "TopMargin": 84.1136,
+                "BottomMargin": 506.8864,
+                "Tag": 655,
+                "ActionTag": -771925764,
+                "Size": {
+                  "X": 662.0,
+                  "Y": 129.0
+                },
+                "Name": "Image_5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/img_choujianggailv.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 181,
+                "Scale9Height": 51,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 636.9997,
+                  "Y": 600.7461
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4977,
+                  "Y": 0.8344
+                },
+                "PreSize": {
+                  "X": 0.1414,
+                  "Y": 0.0708
+                },
+                "LeftMargin": 546.4997,
+                "RightMargin": 552.5003,
+                "TopMargin": 93.7539,
+                "BottomMargin": 575.2461,
+                "Tag": 656,
+                "ActionTag": 1996051710,
+                "Size": {
+                  "X": 181.0,
+                  "Y": 51.0
+                },
+                "Name": "Image_6",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/exchange/btn_guanbi.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 939.2641,
+                  "Y": 610.2012
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7338,
+                  "Y": 0.8475
+                },
+                "PreSize": {
+                  "X": 0.0609,
+                  "Y": 0.1083
+                },
+                "LeftMargin": 900.2641,
+                "RightMargin": 301.7359,
+                "TopMargin": 70.7988,
+                "BottomMargin": 571.2012,
+                "Tag": 313,
+                "ActionTag": 405582102,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/shuliangkuang.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 15,
+                "Scale9Width": 15,
+                "Scale9Height": 426,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 357.4418,
+                  "Y": 97.6675
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2793,
+                  "Y": 0.1356
+                },
+                "PreSize": {
+                  "X": 0.4398,
+                  "Y": 0.6319
+                },
+                "LeftMargin": 357.4418,
+                "RightMargin": 359.5582,
+                "TopMargin": 167.3325,
+                "BottomMargin": 97.6675,
+                "Tag": 282,
+                "ActionTag": -1193537991,
+                "Size": {
+                  "X": 563.0,
+                  "Y": 455.0
+                },
+                "Name": "Image_cellbg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/img_neirong.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 59,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 474.12,
+                  "Y": 534.8588
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3704,
+                  "Y": 0.7429
+                },
+                "PreSize": {
+                  "X": 0.0461,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 444.62,
+                "RightMargin": 776.38,
+                "TopMargin": 168.1412,
+                "BottomMargin": 517.8588,
+                "Tag": 274,
+                "ActionTag": 1143345218,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 34.0
+                },
+                "Name": "Image_neirong",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/shuliang.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 59,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 637.0258,
+                  "Y": 535.2857
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4977,
+                  "Y": 0.7435
+                },
+                "PreSize": {
+                  "X": 0.0461,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 607.5258,
+                "RightMargin": 613.4742,
+                "TopMargin": 167.7143,
+                "BottomMargin": 518.2857,
+                "Tag": 275,
+                "ActionTag": 2061608598,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 34.0
+                },
+                "Name": "Image_shuliang",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/turnTable/img_gailv.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 59,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 819.3348,
+                  "Y": 536.074
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6401,
+                  "Y": 0.7445
+                },
+                "PreSize": {
+                  "X": 0.0461,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 789.8348,
+                "RightMargin": 431.1652,
+                "TopMargin": 166.926,
+                "BottomMargin": 519.074,
+                "Tag": 276,
+                "ActionTag": 460449596,
+                "Size": {
+                  "X": 59.0,
+                  "Y": 34.0
+                },
+                "Name": "Image_gailv",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 484.4101
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.6728
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 201.5899,
+                "BottomMargin": 484.4101,
+                "Tag": 278,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.9,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1071,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 83.9,
+                    "RightMargin": 416.1,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 288,
+                    "ActionTag": 1081018148,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "888",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 289,
+                    "ActionTag": -589402794,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "1.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 62,
+                    "ActionTag": -1220862954,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1636638547,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell0",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3394,
+                  "Y": 414.2083
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.5753
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3394,
+                "RightMargin": 360.6606,
+                "TopMargin": 271.7917,
+                "BottomMargin": 414.2083,
+                "Tag": 180,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "姚记金边",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.9,
+                      "Y": 16.3672
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0605,
+                      "Y": 0.4814
+                    },
+                    "PreSize": {
+                      "X": 0.1964,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 33.9,
+                    "RightMargin": 416.1,
+                    "TopMargin": 2.6328,
+                    "BottomMargin": 1.3672,
+                    "Tag": 181,
+                    "ActionTag": 350189341,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "30天",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 171.98,
+                      "Y": 16.8672
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 183,
+                      "G": 36,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3071,
+                      "Y": 0.4961
+                    },
+                    "PreSize": {
+                      "X": 0.1018,
+                      "Y": 0.8529
+                    },
+                    "LeftMargin": 143.48,
+                    "RightMargin": 359.52,
+                    "TopMargin": 2.6328,
+                    "BottomMargin": 2.3672,
+                    "Tag": 227,
+                    "ActionTag": -1899421280,
+                    "Size": {
+                      "X": 57.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Text_67_1_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 182,
+                    "ActionTag": -2074402218,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "1.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 183,
+                    "ActionTag": 1850969584,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1797784737,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 449.3092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.624
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 236.6908,
+                "BottomMargin": 449.3092,
+                "Tag": 196,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.9,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1071,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 83.9,
+                    "RightMargin": 416.1,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 197,
+                    "ActionTag": -236803650,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "188000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 198,
+                    "ActionTag": 1296118484,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "1.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 199,
+                    "ActionTag": 2008890869,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1196022635,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 379.1074
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.5265
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 306.8926,
+                "BottomMargin": 379.1074,
+                "Tag": 200,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.9,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1071,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 83.9,
+                    "RightMargin": 416.1,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 201,
+                    "ActionTag": -44607962,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "88",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 202,
+                    "ActionTag": 346439028,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "5.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 203,
+                    "ActionTag": -616858400,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 29080512,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell3",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 344.0064
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.4778
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 341.9936,
+                "BottomMargin": 344.0064,
+                "Tag": 184,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "姚记金边",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.9,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0605,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1964,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 33.9,
+                    "RightMargin": 416.1,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 185,
+                    "ActionTag": -1121918683,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "7天",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 164.48,
+                      "Y": 15.85
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 183,
+                      "G": 36,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2937,
+                      "Y": 0.4662
+                    },
+                    "PreSize": {
+                      "X": 0.075,
+                      "Y": 0.8529
+                    },
+                    "LeftMargin": 143.48,
+                    "RightMargin": 374.52,
+                    "TopMargin": 3.65,
+                    "BottomMargin": 1.35,
+                    "Tag": 226,
+                    "ActionTag": 24976370,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Text_67_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 186,
+                    "ActionTag": -908156390,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "5.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 187,
+                    "ActionTag": -139515172,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 908144326,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell4",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3394,
+                  "Y": 308.9055
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.429
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3394,
+                "RightMargin": 360.6606,
+                "TopMargin": 377.0945,
+                "BottomMargin": 308.9055,
+                "Tag": 188,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "狗年大运",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.9,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0605,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1964,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 33.9,
+                    "RightMargin": 416.1,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 189,
+                    "ActionTag": -451331394,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "7天",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 164.48,
+                      "Y": 15.15
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 183,
+                      "G": 36,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2937,
+                      "Y": 0.4456
+                    },
+                    "PreSize": {
+                      "X": 0.075,
+                      "Y": 0.8529
+                    },
+                    "LeftMargin": 143.48,
+                    "RightMargin": 374.52,
+                    "TopMargin": 4.35,
+                    "BottomMargin": 0.65,
+                    "Tag": 225,
+                    "ActionTag": 1056745730,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Text_67_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 190,
+                    "ActionTag": -143341368,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "5.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9375,
+                      "Y": 16.5504
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4868
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9375,
+                    "RightMargin": 29.0625,
+                    "TopMargin": 2.4496,
+                    "BottomMargin": 1.5504,
+                    "Tag": 191,
+                    "ActionTag": -1761794902,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1064699561,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell5",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 273.8046
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.3803
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 412.1954,
+                "BottomMargin": 273.8046,
+                "Tag": 204,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "冰蓝花客",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 33.9045,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0605,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1964,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 33.9045,
+                    "RightMargin": 416.0955,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 205,
+                    "ActionTag": 296035846,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "7天",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 164.48,
+                      "Y": 15.1547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 183,
+                      "G": 36,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2937,
+                      "Y": 0.4457
+                    },
+                    "PreSize": {
+                      "X": 0.075,
+                      "Y": 0.8529
+                    },
+                    "LeftMargin": 143.48,
+                    "RightMargin": 374.52,
+                    "TopMargin": 4.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 224,
+                    "ActionTag": 1273922489,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Text_67",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 206,
+                    "ActionTag": -1459237216,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "5.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 207,
+                    "ActionTag": 1835346902,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1375448602,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell6",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 238.7037
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.3315
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 447.2963,
+                "BottomMargin": 238.7037,
+                "Tag": 208,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.9046,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1071,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 83.9046,
+                    "RightMargin": 416.0954,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 209,
+                    "ActionTag": -1337889436,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "80000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 210,
+                    "ActionTag": -246534855,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "10.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.0053,
+                      "Y": 14.7965
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7179,
+                      "Y": 0.4352
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.0053,
+                    "RightMargin": 29.9948,
+                    "TopMargin": 4.2035,
+                    "BottomMargin": -0.2035,
+                    "Tag": 211,
+                    "ActionTag": -728218749,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -116965418,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell7",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 168.5018
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.234
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 517.4982,
+                "BottomMargin": 168.5018,
+                "Tag": 216,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.9046,
+                      "Y": 15.6546
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1071,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 83.9046,
+                    "RightMargin": 416.0954,
+                    "TopMargin": 3.3454,
+                    "BottomMargin": 0.6546,
+                    "Tag": 217,
+                    "ActionTag": -1739347409,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "68000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 218,
+                    "ActionTag": 1622965321,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "15.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 219,
+                    "ActionTag": 1642302987,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 351057194,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell8",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 203.6028
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.2828
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 482.3972,
+                "BottomMargin": 203.6028,
+                "Tag": 212,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.9046,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1071,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 83.9046,
+                    "RightMargin": 416.0954,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 213,
+                    "ActionTag": 2136457541,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "10000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 214,
+                    "ActionTag": -1993713352,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "15.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 215,
+                    "ActionTag": 834052604,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -149887463,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell9",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 133.4009
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.1853
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6606,
+                "TopMargin": 552.5991,
+                "BottomMargin": 133.4009,
+                "Tag": 192,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "金币",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.9,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1071,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 83.9,
+                    "RightMargin": 416.1,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 193,
+                    "ActionTag": 1604818070,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "1000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 194,
+                    "ActionTag": -2089319153,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "17.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 195,
+                    "ActionTag": -508197804,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1865967360,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell10",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": -107,
+                "Scale9OriginY": -17,
+                "Scale9Width": 214,
+                "Scale9Height": 34,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 359.3393,
+                  "Y": 98.3
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.1365
+                },
+                "PreSize": {
+                  "X": 0.4375,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 359.3393,
+                "RightMargin": 360.6607,
+                "TopMargin": 587.7,
+                "BottomMargin": 98.3,
+                "Tag": 220,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 83.9046,
+                      "Y": 15.6547
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1498,
+                      "Y": 0.4604
+                    },
+                    "PreSize": {
+                      "X": 0.1071,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 83.9046,
+                    "RightMargin": 416.0954,
+                    "TopMargin": 3.3453,
+                    "BottomMargin": 0.6547,
+                    "Tag": 221,
+                    "ActionTag": 783792420,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_neirong",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "8",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 208.3113,
+                      "Y": 15.5446
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.372,
+                      "Y": 0.4572
+                    },
+                    "PreSize": {
+                      "X": 0.2518,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 208.3113,
+                    "RightMargin": 210.6887,
+                    "TopMargin": 3.4554,
+                    "BottomMargin": 0.5446,
+                    "Tag": 222,
+                    "ActionTag": 579772591,
+                    "Size": {
+                      "X": 141.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_shuliang",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 26,
+                    "LabelText": "20.00%",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/jzy.TTF",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 402.9376,
+                      "Y": 15.7289
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7195,
+                      "Y": 0.4626
+                    },
+                    "PreSize": {
+                      "X": 0.2286,
+                      "Y": 0.8824
+                    },
+                    "LeftMargin": 402.9376,
+                    "RightMargin": 29.0624,
+                    "TopMargin": 3.2711,
+                    "BottomMargin": 0.7289,
+                    "Tag": 223,
+                    "ActionTag": 286931484,
+                    "Size": {
+                      "X": 128.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_gailv",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1841191667,
+                "Size": {
+                  "X": 560.0,
+                  "Y": 34.0
+                },
+                "Name": "panel_cell11",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 678110052,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Club/Resoures/large/new_club/Common/img_hengtiao.png",
+        "../font/jzy.TTF",
+        "Resoures/exchange/btn_guanbi.png",
+        "Resoures/exchange/btn_shutiao2.png",
+        "Resoures/turnTable/img_choujianggailv.png",
+        "Resoures/turnTable/img_gailv.png",
+        "Resoures/turnTable/img_neirong.png",
+        "Resoures/turnTable/shuliang.png",
+        "Resoures/turnTable/shuliangkuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
