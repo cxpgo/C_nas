@@ -1324,6 +1324,47 @@ hall.net.nasBuy = function (data, cb) {
         });
 };
 
+hall.net.nasAndroidBuy = function (amount) {
+    amount = (amount *1000000000000000000)+"";
+    console.log("===========nasAndroidBuy===========",amount);
+    var enabled = 0;
+    if (cc.sys.os == cc.sys.OS_IOS) {
+        enabled = jsb.reflection.callStaticMethod("NativeOcClass",
+            "isLocationEnabled");
+    } else if (cc.sys.os == cc.sys.OS_ANDROID) {
+        enabled = jsb.reflection.callStaticMethod("win/yiqigame/majiang/wxapi/AppActivity",
+            "qpNasCall", "(Ljava/lang/String;)Ljava/lang/String;",amount);
+    }
+
+    return enabled;
+};
+
+hall.net.nasAndroidQuery = function (serialNumber) {
+    var enabled = 0;
+    if (cc.sys.os == cc.sys.OS_IOS) {
+        enabled = jsb.reflection.callStaticMethod("NativeOcClass",
+            "isLocationEnabled");
+    } else if (cc.sys.os == cc.sys.OS_ANDROID) {
+        jsb.reflection.callStaticMethod("win/yiqigame/majiang/wxapi/AppActivity",
+            "qpNasQueryTransferStatus", "(Ljava/lang/String;)V",serialNumber);
+    }
+
+    return enabled;
+};
+
+hall.net.nasAndroidResult = function () {
+    var result = "";
+    if (cc.sys.os == cc.sys.OS_IOS) {
+        result = jsb.reflection.callStaticMethod("NativeOcClass",
+            "isLocationEnabled");
+    } else if (cc.sys.os == cc.sys.OS_ANDROID) {
+        result = jsb.reflection.callStaticMethod("win/yiqigame/majiang/wxapi/AppActivity",
+            "getNasResult", "()Ljava/lang/String;");
+    }
+
+    return result;
+};
+
 hall.net.getShopConfig = function (cb) {
     qp.net.request(hall.net.cmds.hall_shopConfig,
         {

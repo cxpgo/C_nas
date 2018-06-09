@@ -347,7 +347,17 @@ var MajhongHall = cc.Layer.extend({
                  this.getTableServerType();
             }
         }
+
+        if(hall.bLogined == false)
+        {
+            cc.setTimeout(function () {
+                _this.onHuodong();
+            }, 500);
+        }
+
         hall.bLogined = true;
+
+
         util.ChangeloadHead(this.Root,hall.MyUseItemData);
     },
 
@@ -561,6 +571,7 @@ var MajhongHall = cc.Layer.extend({
     onwanfa: function () {
         var dialog = new AddFKDialog();
         dialog.showDialog();
+        console.log("========222======");
     },
 
     onHuodong: function () {
@@ -572,6 +583,7 @@ var MajhongHall = cc.Layer.extend({
         sound.playBtnSound();
         var msg = new HallHelpView();
         msg.showHelp();
+        //console.log("========111======");
     },
 
     onBindCode: function () {
@@ -592,21 +604,22 @@ var MajhongHall = cc.Layer.extend({
 
     onExchange:function () {
         sound.playBtnSound();
-        MajhongLoading.show('加载中...');
+        //MajhongLoading.show('加载中...');
+
         hall.net.goodlist(0,100,function (listData) {
-            if(listData.code == 200)
-            {
-                MajhongLoading.dismiss();
-                console.log("goodlist:",JSON.stringify(listData));
-                var recharge = new GameExchange(listData);
-                recharge.showPanel();
-            }
-            else
-            {
+            //if(listData.code == 200)
+            //{
+            //    MajhongLoading.dismiss();
+            //    console.log("goodlist:",JSON.stringify(listData));
+            //    var recharge = new GameExchange(listData);
+            //    recharge.showPanel();
+            //}
+            //else
+            //{
                 var dialog = new JJConfirmDialog();
-                dialog.setDes(listData['error']);
+                dialog.setDes('敬请期待...');
                 dialog.showDialog();
-            }
+            //}
         }.bind(this));
     },
 

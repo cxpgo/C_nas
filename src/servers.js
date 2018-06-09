@@ -15,8 +15,8 @@ var WGTestServer = (function () {
         },
 
         "白山测试服" : {
-            'web' : 'http://dev3.lekoy.com:6001',
-            'ports' : [6010],
+            'web' : 'http://dev3.lekoy.com:9001',
+            'ports' : [9010],
             'connector' : 'dev3.lekoy.com',
         },
         "陈总服" : {
@@ -121,9 +121,9 @@ var WGTestServer = (function () {
 })();
 
 servers = {
-    'web' : 'http://172.16.1.219:5001',
+    'web' : 'http://47.96.68.209:5001',
     'ports' : [5010],
-    'connector' : '172.16.1.219', //prodcs dev2.lekoy.com
+    'connector' : '47.96.68.209', //prodcs dev2.lekoy.com
     'share' : 'http://a.mlinks.cc/Aa6S?roomId=0',
     'aLishare': 'http://mall.yiqigame.me/download.html?name=sss'
 }

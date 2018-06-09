@@ -225,29 +225,32 @@ var GameShop = cc.Layer.extend({
 
 
     nasBuy:function(product,type){
-        var _this = this;
-        var queryConfig = {},
-            serialNumber = "";
-        if(!type){
-            type=0;
-        }
 
-        queryConfig.successFunc = _this.gameCallback;
-        queryConfig["type"] = type;
-        queryConfig["product"] = product;
-        console.log("====11111======",nebulasConfig.config.defaultOptions);
-
-
-        nebulasConfig.defaultOptions.listener = function (value) {
-            queryConfig.serialNumber = serialNumber
-            //获取到交易生成后的  txhash，然后通过 txhash 去查询，而不是 queryPayInfo
-            //console.log("==========");
-            queryConfig.txhash = value.txhash
-            _this.checkTransaction(queryConfig);
-            //addgameCallback(null);
-        };
-
-        serialNumber = nebPay.call(nebulasConfig.config.contractAddr,product[1],nebulasConfig.config.t_userBet,"",nebulasConfig.defaultOptions);
+        var qpSerialNumber = hall.net.nasAndroidBuy(product[1]);
+        this.checkTransactionAndroid(qpSerialNumber,type,product);
+        //var _this = this;
+        //var queryConfig = {},
+        //    serialNumber = "";
+        //if(!type){
+        //    type=0;
+        //}
+        //
+        //queryConfig.successFunc = _this.gameCallback;
+        //queryConfig["type"] = type;
+        //queryConfig["product"] = product;
+        //console.log("====11111======",nebulasConfig.config.defaultOptions);
+        //
+        //
+        //nebulasConfig.defaultOptions.listener = function (value) {
+        //    queryConfig.serialNumber = serialNumber
+        //    //获取到交易生成后的  txhash，然后通过 txhash 去查询，而不是 queryPayInfo
+        //    //console.log("==========");
+        //    queryConfig.txhash = value.txhash
+        //    _this.checkTransaction(queryConfig);
+        //    //addgameCallback(null);
+        //};
+        //
+        //serialNumber = nebPay.call(nebulasConfig.config.contractAddr,product[1],nebulasConfig.config.t_userBet,"",nebulasConfig.defaultOptions);
     },
 
     gameCallback:function(receipt){
@@ -269,6 +272,8 @@ var GameShop = cc.Layer.extend({
             token:"xiaoyi_1601"
         }
 
+
+
         hall.net.nasBuy(data,function (data) {
             if (data.code == 200) {
                 //var recharge = new GameShop(data["data"]);
@@ -281,9 +286,67 @@ var GameShop = cc.Layer.extend({
             }
         });
 
-
-
     },
+
+    checkTransactionAndroid:function(serialNumber,type,product){
+        console.log("===========checkTransactionAndroid=========== numer:%j,type:%j,product%j",serialNumber,type,product);
+
+
+        var intervalTime = 6;
+
+        var timeOutId = 0
+        var timerId = setInterval(function () {
+            // 注意：这里使用了 neb.js 的 getTransactionReceipt 方法来查询交易结果
+            hall.net.nasAndroidQuery(serialNumber);
+            var result = hall.net.nasAndroidResult();
+
+            console.log("===========checkTransactionAndroid222===========serialNumber:%j,result:%j",serialNumber,result);
+
+            var resultObj = JSON.parse(result);
+            //var valid = (product[1]*1000000000000000000 == parseInt(resultObj.response.data.value));
+
+            if(resultObj.result=="true" && resultObj.response.msg =="success"){
+
+                clearInterval(timerId)
+                if (timeOutId) {
+                    //清除超时定时器
+                    clearTimeout(timeOutId)
+                }
+
+                var data={
+                    "uid":hall.user.uid,
+                    "type":type == 0?'gem':'gold',
+                    "optType":"add",
+                    "num":parseInt(product[0]),
+                    "token":"xiaoyi_1601"
+                }
+
+                hall.net.nasBuy(data,function (data) {
+                    if (data.code == 200) {
+                        //var recharge = new GameShop(data["data"]);
+                        //recharge.showPanel();
+                        console.log("nas buy successful");
+                    } else {
+                        //var dialog = new JJConfirmDialog();
+                        //dialog.setDes(data['msg']);
+                        //dialog.showDialog();
+                    }
+                });
+            }
+
+        }, intervalTime * 5000);
+
+        //查询超时定时器
+        timeOutId = setTimeout(function () {
+            //queryConfig.transStateNotify.close()
+            if (timerId) {
+                //context.$message.error("查询超时！请稍后刷新页面查看最新内容！")
+                //mylog("查询超时！请稍后刷新页面查看最新内容！");
+                clearInterval(timerId)
+            }
+        }, 120 * 1000)
+    },
+
 
     checkTransaction:function (queryConfig) {
         var serialNumber = queryConfig.serialNumber,

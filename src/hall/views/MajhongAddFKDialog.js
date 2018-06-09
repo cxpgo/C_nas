@@ -69,11 +69,11 @@ var AddFKDialog = JJDialog.extend({
             }
         }
 
-        if (hall.PACKAGEFROM == "360" || hall.PACKAGEFROM == "bd") {
-            this.weChat01.setString("QQ:949480248");
-            this.weChat02.setString("QQ:949480248");
-            this.weChat03.setString("QQ:949480248");
-        }
+        //if (hall.PACKAGEFROM == "360" || hall.PACKAGEFROM == "bd") {
+            this.weChat01.setString("qq:5031037");
+            this.weChat02.setString("wx:cxp5031037");
+            this.weChat03.setString("qq:5031037");
+        //}
     },
 
     onCopyLabel: function (sender) {
